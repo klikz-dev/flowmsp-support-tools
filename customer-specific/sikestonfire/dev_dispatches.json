@@ -1,0 +1,457 @@
+[
+    {
+        "_id": "cb176e1b-5ddf-4b5a-b579-cd3b3fd68311",
+        "address": "205 DAVIS , MATTHEWS,  MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.5867458,
+                36.7592218
+            ]
+        },
+        "messageID": "16d42b59b42d9faf",
+        "sequence": 1568808346815,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919280 \r\nSituation: FIRE-MUTUAL AID \r\nAddress: 205 DAVIS , MATTHEWS,  MO \r\nZone: New Madrid County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-Email Copy Message From Hiplink Msg-Call Number: P201919280 Situation: FIRE-MUTUAL AID Address: 205 DAVIS , MATTHEWS, MO Zone: New Madrid County Sent by CAD MESSAGE",
+        "type": "FIRE-MUTUAL AID"
+    },
+    {
+        "_id": "dcd4e801-b85a-4a97-aaf4-8f7223e83be7",
+        "address": "205 DAVIS , MATTHEWS,  MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.5867458,
+                36.7592218
+            ]
+        },
+        "messageID": "16d42b57fa1a2f14",
+        "sequence": 1568808347884,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919280 \r\nSituation: FIRE-MUTUAL AID \r\nAddress: 205 DAVIS , MATTHEWS,  MO \r\nZone: New Madrid County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-HIPLINK Msg-Call Number: P201919280 Situation: FIRE-MUTUAL AID Address: 205 DAVIS , MATTHEWS, MO Zone: New Madrid County Sent by CAD MESSAGE",
+        "type": "FIRE-MUTUAL AID"
+    },
+    {
+        "_id": "ef29c5aa-e3bc-4774-a13e-1a110cc25ff3",
+        "address": "COUNTY ROAD  435 , ,",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -81.52867169999999,
+                28.7820434
+            ]
+        },
+        "messageID": "16d3ba7e2c19e12e",
+        "sequence": 1568808349299,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919158 \r\nSituation: FIRE-OUT OF TOWN \r\nAddress: COUNTY ROAD  435 , ,   \r\nZone: Scott County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-Email Copy Message From Hiplink Msg-Call Number: P201919158 Situation: FIRE-OUT OF TOWN Address: COUNTY ROAD 435 , , Zone: Scott County Sent by CAD MESSAGE",
+        "type": "FIRE-OUT OF TOWN"
+    },
+    {
+        "_id": "7af43116-4306-4fa9-8358-92b04bf13a0a",
+        "address": "COUNTY ROAD  435 , ,",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -81.52867169999999,
+                28.7820434
+            ]
+        },
+        "messageID": "16d3ba7d91bcb392",
+        "sequence": 1568808350278,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919158 \r\nSituation: FIRE-OUT OF TOWN \r\nAddress: COUNTY ROAD  435 , ,   \r\nZone: Scott County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-HIPLINK Msg-Call Number: P201919158 Situation: FIRE-OUT OF TOWN Address: COUNTY ROAD 435 , , Zone: Scott County Sent by CAD MESSAGE",
+        "type": "FIRE-OUT OF TOWN"
+    },
+    {
+        "_id": "64a58bed-0773-40b7-b592-78ebe599ddf4",
+        "address": "HWY 60 / LYNUAL , SIKESTON, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.5778361,
+                36.8577607
+            ]
+        },
+        "messageID": "16d3ac19d0bcfe1d",
+        "sequence": 1568808351764,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919130 \r\nSituation: FIRE-GRASS-BRUSH-TREES \r\nAddress: HWY 60 / LYNUAL , SIKESTON, 63801 MO \r\nZone: 3\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-Email Copy Message From Hiplink Msg-Call Number: P201919130 Situation: FIRE-GRASS-BRUSH-TREES Address: HWY 60 / LYNUAL , SIKESTON, 63801 MO Zone: 3 Sent by CAD MESSAGE",
+        "type": "FIRE-GRASS-BRUSH-TREES"
+    },
+    {
+        "_id": "954bdc2f-abd5-437b-bcef-681a6214efd8",
+        "address": "HWY 60 / LYNUAL , SIKESTON, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.5778361,
+                36.8577607
+            ]
+        },
+        "messageID": "16d3ac190ef3ad59",
+        "sequence": 1568808352683,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919130 \r\nSituation: FIRE-GRASS-BRUSH-TREES \r\nAddress: HWY 60 / LYNUAL , SIKESTON, 63801 MO \r\nZone: 3\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-HIPLINK Msg-Call Number: P201919130 Situation: FIRE-GRASS-BRUSH-TREES Address: HWY 60 / LYNUAL , SIKESTON, 63801 MO Zone: 3 Sent by CAD MESSAGE",
+        "type": "FIRE-GRASS-BRUSH-TREES"
+    },
+    {
+        "_id": "33ba95b3-6226-43f6-97c3-44374b5c5910",
+        "address": "2823 E MALONE Ave , Miner, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.5293779,
+                36.8932878
+            ]
+        },
+        "messageID": "16d369d329b67905",
+        "sequence": 1568808353784,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919070 \r\nSituation: RESCUE \r\nAddress: 2823 E MALONE Ave , Miner, 63801 MO \r\nZone: Miner \r\nSubZone: Scott County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-Email Copy Message From Hiplink Msg-Call Number: P201919070 Situation: RESCUE Address: 2823 E MALONE Ave , Miner, 63801 MO Zone: Miner SubZone: Scott County Sent by CAD MESSAGE",
+        "type": "RESCUE"
+    },
+    {
+        "_id": "5f186bac-98f4-4f72-9e50-12c335eeffaa",
+        "address": "2823 E MALONE Ave , Miner, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.5293779,
+                36.8932878
+            ]
+        },
+        "messageID": "16d369d2b7657007",
+        "sequence": 1568808354598,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919070 \r\nSituation: RESCUE \r\nAddress: 2823 E MALONE Ave , Miner, 63801 MO \r\nZone: Miner \r\nSubZone: Scott County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-HIPLINK Msg-Call Number: P201919070 Situation: RESCUE Address: 2823 E MALONE Ave , Miner, 63801 MO Zone: Miner SubZone: Scott County Sent by CAD MESSAGE",
+        "type": "RESCUE"
+    },
+    {
+        "_id": "1b0e023c-828c-4717-ac22-d7f5bf71df1c",
+        "address": "",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "messageID": "16d32bdd07cce97a",
+        "sequence": 1568808355226,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919036 \r\nSituation: FIRE-OUT OF TOWN\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-Email Copy Message From Hiplink Msg-Call Number: P201919036 Situation: FIRE-OUT OF TOWN Sent by CAD MESSAGE",
+        "type": "FIRE-OUT OF TOWN"
+    },
+    {
+        "_id": "c3898090-ae4b-4248-b670-5248cdd2a3c6",
+        "address": "",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "messageID": "16d32bdb9a9b6b8a",
+        "sequence": 1568808355734,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919036 \r\nSituation: FIRE-OUT OF TOWN\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-HIPLINK Msg-Call Number: P201919036 Situation: FIRE-OUT OF TOWN Sent by CAD MESSAGE",
+        "type": "FIRE-OUT OF TOWN"
+    },
+    {
+        "_id": "a9701849-8acf-49fa-8f6f-71ef3a2ef6d8",
+        "address": "STATE HWY H / STATE HWY HH , SIKESTON, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.5382387,
+                36.9202446
+            ]
+        },
+        "messageID": "16d3186fa9b207c8",
+        "sequence": 1568808356896,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919017 \r\nSituation: FIRE-OUT OF TOWN \r\nAddress: STATE HWY H / STATE HWY HH , SIKESTON, 63801 MO \r\nZone: Scott County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-Email Copy Message From Hiplink Msg-Call Number: P201919017 Situation: FIRE-OUT OF TOWN Address: STATE HWY H / STATE HWY HH , SIKESTON, 63801 MO Zone: Scott County Sent by CAD MESSAGE",
+        "type": "FIRE-OUT OF TOWN"
+    },
+    {
+        "_id": "832d178f-22cc-4f47-8dd8-3105ec576d8e",
+        "address": "STATE HWY H / STATE HWY HH , SIKESTON, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.5382387,
+                36.9202446
+            ]
+        },
+        "messageID": "16d3186eb21030eb",
+        "sequence": 1568808357793,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919017 \r\nSituation: FIRE-OUT OF TOWN \r\nAddress: STATE HWY H / STATE HWY HH , SIKESTON, 63801 MO \r\nZone: Scott County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-HIPLINK Msg-Call Number: P201919017 Situation: FIRE-OUT OF TOWN Address: STATE HWY H / STATE HWY HH , SIKESTON, 63801 MO Zone: Scott County Sent by CAD MESSAGE",
+        "type": "FIRE-OUT OF TOWN"
+    },
+    {
+        "_id": "ec653526-88c3-4dd8-8982-809cf6492781",
+        "address": "50 MIKELS Dr , SIKESTON, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.54819959999999,
+                36.931503
+            ]
+        },
+        "messageID": "16d314239cc731b7",
+        "sequence": 1568808358829,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919013 \r\nSituation: FIRE-OUT OF TOWN \r\nAddress: 50 MIKELS Dr , SIKESTON, 63801 MO \r\nZone: Scott County \r\nSubZone: Scott County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-Email Copy Message From Hiplink Msg-Call Number: P201919013 Situation: FIRE-OUT OF TOWN Address: 50 MIKELS Dr , SIKESTON, 63801 MO Zone: Scott County SubZone: Scott County Sent by CAD MESSAGE",
+        "type": "FIRE-OUT OF TOWN"
+    },
+    {
+        "_id": "2b36f6ea-32cd-4b59-b451-2d470ca20722",
+        "address": "50 MIKELS Dr , SIKESTON, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.54819959999999,
+                36.931503
+            ]
+        },
+        "messageID": "16d314226ccaca7f",
+        "sequence": 1568808359639,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201919013 \r\nSituation: FIRE-OUT OF TOWN \r\nAddress: 50 MIKELS Dr , SIKESTON, 63801 MO \r\nZone: Scott County \r\nSubZone: Scott County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-HIPLINK Msg-Call Number: P201919013 Situation: FIRE-OUT OF TOWN Address: 50 MIKELS Dr , SIKESTON, 63801 MO Zone: Scott County SubZone: Scott County Sent by CAD MESSAGE",
+        "type": "FIRE-OUT OF TOWN"
+    },
+    {
+        "_id": "44558e55-1883-4d94-bd62-d9b0c339b52f",
+        "address": "4591 STATE HIGHWAY Z , Sikeston, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.6848754,
+                36.9648824
+            ]
+        },
+        "messageID": "16d2d6910b18544b",
+        "sequence": 1568808360694,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201918958 \r\nSituation: FIRE-OUT OF TOWN \r\nAddress: 4591 STATE HIGHWAY Z , Sikeston, 63801 MO\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-Email Copy Message From Hiplink Msg-Call Number: P201918958 Situation: FIRE-OUT OF TOWN Address: 4591 STATE HIGHWAY Z , Sikeston, 63801 MO Sent by CAD MESSAGE",
+        "type": "FIRE-OUT OF TOWN"
+    },
+    {
+        "_id": "9bde2d1d-b5f6-4d10-a471-6093e37233fb",
+        "address": "4591 STATE HIGHWAY Z , Sikeston, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.6848754,
+                36.9648824
+            ]
+        },
+        "messageID": "16d2d69013c4c9cb",
+        "sequence": 1568808361628,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201918958 \r\nSituation: FIRE-OUT OF TOWN \r\nAddress: 4591 STATE HIGHWAY Z , Sikeston, 63801 MO\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-HIPLINK Msg-Call Number: P201918958 Situation: FIRE-OUT OF TOWN Address: 4591 STATE HIGHWAY Z , Sikeston, 63801 MO Sent by CAD MESSAGE",
+        "type": "FIRE-OUT OF TOWN"
+    },
+    {
+        "_id": "cc9b0abe-fa84-4fe7-a837-1f4b5658bf68",
+        "address": "I 55 - 74MM, SIKESTON, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.533264,
+                36.8773689
+            ]
+        },
+        "messageID": "16d1badda96c36d3",
+        "sequence": 1568808362718,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201918694 \r\nSituation: RESCUE \r\nAddress: I 55 - 74MM, SIKESTON, 63801 MO \r\nZone: Scott County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-Email Copy Message From Hiplink Msg-Call Number: P201918694 Situation: RESCUE Address: I 55 - 74MM, SIKESTON, 63801 MO Zone: Scott County Sent by CAD MESSAGE",
+        "type": "RESCUE"
+    },
+    {
+        "_id": "8b039f92-8982-4263-9693-d4be22cc1f3d",
+        "address": "I 55 - 74MM, SIKESTON, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.533264,
+                36.8773689
+            ]
+        },
+        "messageID": "16d1badcda31b307",
+        "sequence": 1568808363600,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201918694 \r\nSituation: RESCUE \r\nAddress: I 55 - 74MM, SIKESTON, 63801 MO \r\nZone: Scott County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-HIPLINK Msg-Call Number: P201918694 Situation: RESCUE Address: I 55 - 74MM, SIKESTON, 63801 MO Zone: Scott County Sent by CAD MESSAGE",
+        "type": "RESCUE"
+    },
+    {
+        "_id": "6a13f8d5-e72e-494e-a3e0-56210ee6d8a1",
+        "address": "HWY 60 / HWY FF , SIKESTON, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.6319147,
+                36.842935
+            ]
+        },
+        "messageID": "16d19df2c04294aa",
+        "sequence": 1568808365201,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201918676 \r\nSituation: RESCUE \r\nAddress: HWY 60 / HWY FF , SIKESTON, 63801 MO \r\nZone: New Madrid County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-Email Copy Message From Hiplink Msg-Call Number: P201918676 Situation: RESCUE Address: HWY 60 / HWY FF , SIKESTON, 63801 MO Zone: New Madrid County Sent by CAD MESSAGE",
+        "type": "RESCUE"
+    },
+    {
+        "_id": "fbd366e4-9e65-4b90-ae4e-6484de04a86c",
+        "address": "HWY 60 / HWY FF , SIKESTON, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.6319147,
+                36.842935
+            ]
+        },
+        "messageID": "16d19df29242c8bd",
+        "sequence": 1568808366170,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201918676 \r\nSituation: RESCUE \r\nAddress: HWY 60 / HWY FF , SIKESTON, 63801 MO \r\nZone: New Madrid County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-HIPLINK Msg-Call Number: P201918676 Situation: RESCUE Address: HWY 60 / HWY FF , SIKESTON, 63801 MO Zone: New Madrid County Sent by CAD MESSAGE",
+        "type": "RESCUE"
+    },
+    {
+        "_id": "3de83618-10d4-4ae0-bfb2-bcba3db1d18d",
+        "address": "",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "messageID": "16d17bfdb6baeb5f",
+        "sequence": 1568808366682,
+        "source": "email",
+        "status": "",
+        "text": "THIS IS A TEST OF THE SIKESTON HIPLINK SYSTEM\r\nSent by rsmith\r\n",
+        "textRaw": "Subject-HIPLINK Msg-THIS IS A TEST OF THE SIKESTON HIPLINK SYSTEM Sent by rsmith"
+    },
+    {
+        "_id": "f7cc1fa3-b63d-4300-b760-018d3f427369",
+        "address": "",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "messageID": "16d17bfd5ad79981",
+        "sequence": 1568808367218,
+        "source": "email",
+        "status": "",
+        "text": "THIS IS A TEST OF THE SIKESTON HIPLINK SYSTEM\r\nSent by rsmith\r\n",
+        "textRaw": "Subject-HIPLINK Msg-THIS IS A TEST OF THE SIKESTON HIPLINK SYSTEM Sent by rsmith"
+    },
+    {
+        "_id": "af26dece-7d96-4235-87fc-111722a4def2",
+        "address": "",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "messageID": "16d17bc8ba6b73fc",
+        "sequence": 1568808367742,
+        "source": "email",
+        "status": "",
+        "text": "This is a test\r\nSent by rsmith\r\n",
+        "textRaw": "Subject-HIPLINK Msg-This is a test Sent by rsmith"
+    },
+    {
+        "_id": "1c562fa2-827e-4ae0-be03-af88e375fa73",
+        "address": "201 S KINGSHIGHWAY , SIKESTON, 63801 MO",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "lonLat": {
+            "type": "Point",
+            "coordinates": [
+                -89.58757030000001,
+                36.8758353
+            ]
+        },
+        "locationID": "ff4c28b5-8447-464f-bd0b-99b67788795c",
+        "messageID": "16c95ccb97048ba7",
+        "sequence": 1568808368876,
+        "source": "email",
+        "status": "",
+        "text": "Call Number: P201916606 \r\nSituation: FIRE-STRUCTURE TEST \r\nAddress: 201 S KINGSHIGHWAY , SIKESTON, 63801 MO \r\nZone: 1 \r\nSubZone: Scott County\r\nSent by CAD MESSAGE\r\n",
+        "textRaw": "Subject-Failed-Over Message from HipLink Msg-Call Number: P201916606 Situation: FIRE-STRUCTURE TEST Address: 201 S KINGSHIGHWAY , SIKESTON, 63801 MO Zone: 1 SubZone: Scott County Sent by CAD MESSAGE",
+        "type": "FIRE-STRUCTURE TEST"
+    },
+    {
+        "_id": "714cc99d-eea6-40e8-8cc8-10b80c469265",
+        "address": "",
+        "customerId": "826d0b6e-4070-4186-a221-c26fae777314",
+        "customerSlug": "sikestonfire",
+        "messageID": "16c95ccb638a06a4",
+        "sequence": 1568808369397,
+        "source": "email",
+        "status": "",
+        "text": "\r\n\r\nLt. Ryan Smith # B39\r\nSikeston Department of Public Safety\r\n201 S. Kingshighway\r\nSikeston, MO 63801\r\n573-475-3756 office\r\n573-748-0013 cell\r\nSIKESTON PROUD!!!\r\n\r\n\r\n\"Proper Preparation Prevents Poor<https://www.urbandictionary.com/define.php?term=Piss%20Poor> Performance.\"\r\n\r\n",
+        "textRaw": "Subject-test email from Sikeston Msg-Lt. Ryan Smith # B39 Sikeston Department of Public Safety 201 S. Kingshighway Sikeston, MO 63801 573-475-3756 office 573-748-0013 cell SIKESTON PROUD!!! \"Proper Preparation Prevents Poor Performance.\""
+    }
+]

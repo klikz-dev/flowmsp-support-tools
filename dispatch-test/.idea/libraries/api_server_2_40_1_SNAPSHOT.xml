@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="api-server-2.40.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../api-server/target/api-server-2.40.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

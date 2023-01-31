@@ -1,0 +1,118 @@
+[
+    {
+        "_id": "f6bbe13b-9c11-450a-bfa6-d8e99e00e87f",
+        "address": {
+            "address1": "204 S Adams St",
+            "address2": "",
+            "city": "Hebron",
+            "state": "IN",
+            "zip": "46341"
+        },
+        "batchNo": 1569295941655979000,
+        "createdOn": "2019-09-23 22:32:22.974000",
+        "createdBy": "load_locations2.py",
+        "customerSlug": "hebronfirede",
+        "customerId": "b8f32dd6-1c59-46bb-bc7d-eadbd2b06480",
+        "name": "TBD",
+        "images": [],
+        "hydrants": [
+            "3172a02b-8701-4966-9a8c-1596edf1aa66",
+            "9276713e-2345-4459-adc4-7b4657d0cd0d"
+        ],
+        "building": {
+            "normalPopulation": "",
+            "lastReviewedBy": "load_locations2.py",
+            "lastReviewedOn": "09-23-2019 22.32.22",
+            "originalPrePlan": "09-232019 22.32.22"
+        },
+        "requiredFlow": 933,
+        "roofArea": 2800,
+        "geoOutline": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -87.202818,
+                        41.317097
+                    ],
+                    [
+                        -87.202818,
+                        41.317188
+                    ],
+                    [
+                        -87.203129,
+                        41.317188
+                    ],
+                    [
+                        -87.203129,
+                        41.317097
+                    ],
+                    [
+                        -87.202818,
+                        41.317097
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "_id": "076dd354-180b-4047-b12f-7f7bdebef05c",
+        "address": {
+            "address1": "206 S Adams St",
+            "address2": "",
+            "city": "Hebron",
+            "state": "IN",
+            "zip": "46341"
+        },
+        "batchNo": 0,
+        "building": {
+            "lastReviewedBy": "Doug Harvey",
+            "lastReviewedOn": "09-25-2019 00.23.32",
+            "originalPrePlan": "09-25-2019 00.23.32"
+        },
+        "createdBy": "03f03851-1fc1-4e32-b191-3a813a9dfd67",
+        "createdOn": "2019-09-25 00:23:32.001000",
+        "customerId": "b8f32dd6-1c59-46bb-bc7d-eadbd2b06480",
+        "customerSlug": "hebronfirede",
+        "geoOutline": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -87.20317496185072,
+                        41.31706656927639
+                    ],
+                    [
+                        -87.20285309676893,
+                        41.31706656927639
+                    ],
+                    [
+                        -87.20285309676893,
+                        41.317151179063075
+                    ],
+                    [
+                        -87.20318032626875,
+                        41.317151179063075
+                    ],
+                    [
+                        -87.20317496185072,
+                        41.31706656927639
+                    ]
+                ]
+            ]
+        },
+        "hydrants": [
+            "3172a02b-8701-4966-9a8c-1596edf1aa66",
+            "9276713e-2345-4459-adc4-7b4657d0cd0d"
+        ],
+        "images": [],
+        "lotNumber": "",
+        "modifiedBy": "03f03851-1fc1-4e32-b191-3a813a9dfd67",
+        "modifiedOn": "2019-09-25 00:23:32.001000",
+        "name": "Doug",
+        "requiredFlow": 933,
+        "roofArea": 2800,
+        "storey": 1,
+        "storeyBelow": 0
+    }
+]

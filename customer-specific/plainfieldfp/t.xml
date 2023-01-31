@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:SearchBatch xmlns:ns2="http://www.navteq.com/lbsp/Search-Batch/1">
+  <Response>
+    <MetaInfo>
+      <RequestId>4ahx5sdijcRDiFwFzcYLeRM5PEQG8A1S</RequestId>
+    </MetaInfo>
+    <Status>completed</Status>
+    <JobStarted>2019-09-27T03:18:06.000Z</JobStarted>
+    <JobFinished>2019-09-27T03:18:09.000Z</JobFinished>
+    <TotalCount>25</TotalCount>
+    <ValidCount>25</ValidCount>
+    <InvalidCount>0</InvalidCount>
+    <ProcessedCount>25</ProcessedCount>
+    <PendingCount>0</PendingCount>
+    <SuccessCount>25</SuccessCount>
+    <ErrorCount>0</ErrorCount>
+  </Response>
+</ns2:SearchBatch>

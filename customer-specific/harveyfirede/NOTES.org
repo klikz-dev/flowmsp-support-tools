@@ -1,0 +1,77 @@
+* <2019-09-14 Sat>
+
+not sure why this is being returned
+~/repos/flowmsp/support-tools/xyz/list_spaces.py count city@harvey
+504
+
+seems better
+
+~/repos/flowmsp/support-tools/xyz/list_spaces.py count postalcode@60426 postalcode@60428
+dict_keys(['type', 'count', 'estimated', 'etag', 'streamId'])
+16877
+
+~/repos/flowmsp/support-tools/xyz/list_spaces.py search postalcode@60426 postalcode@60428 > harvey.geojson
+dict_keys(['type', 'etag', 'streamId', 'features'])
+found 16877 features
+
+will use "harveyfirede"
+
+~/repos/flowmsp/support-tools/findslug.py flowmsp-dev harvey | print_bsv.py
+-------------------- Record 1 --------------------
+              _id (1): <ddde9768-ed79-4698-8d26-bd6b9da5ca87>
+             slug (2): <harveyfirede>
+             name (3): <harvey fire department>
+      licenseType (4): <Preview>
+          created (5): <2019-07-14 02:43:25>
+          expires (6): <2019-08-13 00:08:00>
+         address1 (7): <4704 N Hamilton Ave>
+             city (8): <Chicago>
+            state (9): <IL>
+              zip (10): <60625>
+    num_locations (11): <37570>
+     num_hydrants (12): <0>
+   num_dispatches (13): <763>
+max_last_modified (14): <>
+       num_images (15): <0>
+        num_users (16): <1>
+
+~/repos/flowmsp/support-tools/load_locations2.py --truncate flowmsp-dev harveyfirede harvey.geojson
+features=16877
+customer_id=ddde9768-ed79-4698-8d26-bd6b9da5ca87
+deleted 37570 rows
+rows=16877 skipped=1452
+
+this was exceeding heap space in test
+
+~/repos/flowmsp/support-tools/load_locations2.py --limit 10000 --truncate flowmsp-dev harveyfirede harvey.geojson 
+features=16877
+customer_id=ddde9768-ed79-4698-8d26-bd6b9da5ca87
+deleted 15425 rows
+rows=10000 skipped=933
+
+* <2019-09-29 Sun>
+
+create csv file to send to Experian as a test
+
+./../geojson_to_csv.py < harvey.geojson | subset.py estimatedHouseNumber street city state postalcode | ./addseq.py | print_bsv.py
+name n/a
+crs n/a
+type FeatureCollection
+features=16877
+-------------------- Record 1 --------------------
+              recnum (1): <00001>
+estimatedHouseNumber (2): <15937>
+              street (3): <Woodbridge Ave>
+                city (4): <Harvey>
+               state (5): <IL>
+          postalcode (6): <60426>
+-------------------- Record 2 --------------------
+              recnum (1): <00002>
+estimatedHouseNumber (2): <15729>
+              street (3): <Halsted St>
+                city (4): <Harvey>
+               state (5): <IL>
+          postalcode (6): <60426>
+
+uploaded to Experian's sftp server, sent email.
+

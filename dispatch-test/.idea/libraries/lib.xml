@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../api-server/target/api-server-2.40.1-SNAPSHOT-deploy-folder/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../api-server/target/api-server-2.40.1-SNAPSHOT-deploy-folder/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../api-server/target/api-server-2.40.1-SNAPSHOT-deploy-folder/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../api-server/target/api-server-2.40.1-SNAPSHOT-deploy-folder/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

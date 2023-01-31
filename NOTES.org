@@ -1,0 +1,4 @@
+
+docker run --rm -v /home:/home osgeo/gdal:ubuntu-full-latest ogr2ogr  -f GeoJSON \
+-t_srs crs:84 /home/doug/glen_carbon/FireHydrantData/glen_carbon_hydrants.geojson  /home/doug/glen_carbon/FireHydrantData/WaterHydrants.shp
+

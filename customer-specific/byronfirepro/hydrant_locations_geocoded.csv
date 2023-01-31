@@ -1,0 +1,341 @@
+recId|SeqNumber|seqLength|displayLatitude|displayLongitude|locationLabel|houseNumber|street|district|city|postalCode|county|state|country
+A01|1|1|42.1270642|-89.2525664|221 N Market St, Byron, IL 61010, United States|221|N Market St||Byron|61010|Ogle|IL|USA
+A02|1|1|42.1268226|-89.2545316|200 N Chestnut St, Byron, IL 61010, United States|200|N Chestnut St||Byron|61010|Ogle|IL|USA
+A03|1|1|42.1254963|-89.2560609|100 N Union St, Byron, IL 61010, United States|100|N Union St||Byron|61010|Ogle|IL|USA
+A04|1|1|42.1256674|-89.2557104|115 N Union St, Byron, IL 61010, United States|115|N Union St||Byron|61010|Ogle|IL|USA
+A06|1|1|42.127979|-89.2562113|300 N Union St, Byron, IL 61010, United States|300|N Union St||Byron|61010|Ogle|IL|USA
+A07|1|1|42.12794|-89.25279|E 3rd St, Byron, IL 61010, United States||E 3rd St||Byron|61010|Ogle|IL|USA
+A08|1|1|42.1277651|-89.2542061|200 E 3rd St, Byron, IL 61010, United States|200|E 3rd St||Byron|61010|Ogle|IL|USA
+B01|1|1|42.1252151|-89.2575936|200 W Blackhawk Dr, Byron, IL 61010, United States|200|W Blackhawk Dr||Byron|61010|Ogle|IL|USA
+B01.5|1|1|42.12758|-89.26029|N Franklin St, Byron, IL 61010, United States||N Franklin St||Byron|61010|Ogle|IL|USA
+B02|1|1|42.1255909|-89.2528715|100 N Market St, Byron, IL 61010, United States|100|N Market St||Byron|61010|Ogle|IL|USA
+B02.5|1|1|42.1260401|-89.2492367|500 E Blackhawk Dr, Byron, IL 61010, United States|500|E Blackhawk Dr||Byron|61010|Ogle|IL|USA
+B03|1|1|42.1251727|-89.2604046|400 W Blackhawk Dr, Byron, IL 61010, United States|400|W Blackhawk Dr||Byron|61010|Ogle|IL|USA
+B04|1|1|42.1253683|-89.2512403|100 S Peru St, Byron, IL 61010, United States|100|S Peru St||Byron|61010|Ogle|IL|USA
+B05|1|1|42.1246679|-89.2544315|200 S Chestnut St, Byron, IL 61010, United States|200|S Chestnut St||Byron|61010|Ogle|IL|USA
+B05.5|1|1|42.12453|-89.25685|120 W Front St, Byron, IL 61010, United States|120|W Front St||Byron|61010|Ogle|IL|USA
+B06|1|1|42.1239822|-89.2576405|200 S Walnut St, Byron, IL 61010, United States|200|S Walnut St||Byron|61010|Ogle|IL|USA
+B07|1|1|42.1239609|-89.2591044|300 W Merchant St, Byron, IL 61010, United States|300|W Merchant St||Byron|61010|Ogle|IL|USA
+B08|1|1|42.12263|-89.26106|233 S Lafayette St, Byron, IL 61010, United States|233|S Lafayette St||Byron|61010|Ogle|IL|USA
+B09|1|1|42.1238355|-89.26287|200 S West St, Byron, IL 61010, United States|200|S West St||Byron|61010|Ogle|IL|USA
+B11|1|1|42.13171|-89.26388|N Colfax St, Byron, IL 61010, United States||N Colfax St||Byron|61010|Ogle|IL|USA
+B12|1|1|42.12358|-89.26351|207 S Colfax St, Byron, IL 61010, United States|207|S Colfax St||Byron|61010|Ogle|IL|USA
+B12.5|1|1|42.12284|-89.26348|225 S Colfax St, Byron, IL 61010, United States|225|S Colfax St||Byron|61010|Ogle|IL|USA
+B13|1|1|42.12578|-89.26691|Grant St, Byron, IL 61010, United States||Grant St||Byron|61010|Ogle|IL|USA
+C01|1|1|42.12439|-89.26731|924 Crest View Trl, Byron, IL 61010, United States|924|Crest View Trl||Byron|61010|Ogle|IL|USA
+C02|1|1|42.1239751|-89.2655064|800 Crest View Trl, Byron, IL 61010, United States|800|Crest View Trl||Byron|61010|Ogle|IL|USA
+C03|1|1|42.12367|-89.26719|924 Crest Ct, Byron, IL 61010, United States|924|Crest Ct||Byron|61010|Ogle|IL|USA
+C04|1|1|42.12364|-89.26829|944 Crest Ct, Byron, IL 61010, United States|944|Crest Ct||Byron|61010|Ogle|IL|USA
+C05|1|1|42.12336|-89.26815|927 River Ln, Byron, IL 61010, United States|927|River Ln||Byron|61010|Ogle|IL|USA
+C06|1|1|42.1244986|-89.2672558|944 Crest View Trl, Byron, IL 61010, United States|944|Crest View Trl||Byron|61010|Ogle|IL|USA
+C06.5|1|1|42.12426|-89.26886|1008 Crest View Trl, Byron, IL 61010, United States|1008|Crest View Trl||Byron|61010|Ogle|IL|USA
+C07|1|1|42.12495|-89.26994|1088 W Blackhawk Dr, Byron, IL 61010, United States|1088|W Blackhawk Dr||Byron|61010|Ogle|IL|USA
+C08|1|1|42.1250987|-89.2716315|100 Perene Ave, Byron, IL 61010, United States|100|Perene Ave||Byron|61010|Ogle|IL|USA
+C09|1|1|42.1251|-89.27243|103 Barry Ave, Byron, IL 61010, United States|103|Barry Ave||Byron|61010|Ogle|IL|USA
+C10|1|1|42.12259|-89.26558|803 River Dr, Byron, IL 61010, United States|803|River Dr||Byron|61010|Ogle|IL|USA
+C11|1|1|42.12352|-89.26562|803 Park Dr, Byron, IL 61010, United States|803|Park Dr||Byron|61010|Ogle|IL|USA
+C12|1|1|42.12291|-89.26759|915 River Dr, Byron, IL 61010, United States|915|River Dr||Byron|61010|Ogle|IL|USA
+C13|1|1|42.12372|-89.26986|127 S Maple Ave, Byron, IL 61010, United States|127|S Maple Ave||Byron|61010|Ogle|IL|USA
+C14|1|1|42.1227804|-89.2703333|200 S Maple Ave, Byron, IL 61010, United States|200|S Maple Ave||Byron|61010|Ogle|IL|USA
+C15|1|1|42.12387|-89.27111|123 Perene Ave, Byron, IL 61010, United States|123|Perene Ave||Byron|61010|Ogle|IL|USA
+C16|1|1|42.122659|-89.2716119|198 Perene Ave, Byron, IL 61010, United States|198|Perene Ave||Byron|61010|Ogle|IL|USA
+C17|1|1|42.1237|-89.2724|127 Barry Ave, Byron, IL 61010, United States|127|Barry Ave||Byron|61010|Ogle|IL|USA
+C18|1|1|42.1226601|-89.2728449|198 Barry Ave, Byron, IL 61010, United States|198|Barry Ave||Byron|61010|Ogle|IL|USA
+C19|1|1|42.1254467|-89.2750502|100 S Fox Run Ln, Byron, IL 61010, United States|100|S Fox Run Ln||Byron|61010|Ogle|IL|USA
+C20|1|1|42.12426|-89.27572|135 S Fox Run Ln, Byron, IL 61010, United States|135|S Fox Run Ln||Byron|61010|Ogle|IL|USA
+C21|1|1|42.12365|-89.27599|149 S Fox Run Ln, Byron, IL 61010, United States|149|S Fox Run Ln||Byron|61010|Ogle|IL|USA
+C22|1|1|42.12293|-89.27502|169 S Fox Run Ln, Byron, IL 61010, United States|169|S Fox Run Ln||Byron|61010|Ogle|IL|USA
+C23|1|1|42.12318|-89.2744|196 S Fox Run Ln, Byron, IL 61010, United States|196|S Fox Run Ln||Byron|61010|Ogle|IL|USA
+C24|1|1|42.12362|-89.27516|154 Deerwood Ct, Byron, IL 61010, United States|154|Deerwood Ct||Byron|61010|Ogle|IL|USA
+C25|1|1|42.12517|-89.266|W Blackhawk Dr, Byron, IL 61010, United States||W Blackhawk Dr||Byron|61010|Ogle|IL|USA
+C26|1|1|42.12711|-89.27647|220 Creekside Dr, Byron, IL 61010, United States|220|Creekside Dr||Byron|61010|Ogle|IL|USA
+C27|1|1|42.12789|-89.2761|310 Creekside Dr, Byron, IL 61010, United States|310|Creekside Dr||Byron|61010|Ogle|IL|USA
+C28|1|1|42.12861|-89.27546|Creekside Dr, Byron, IL 61010, United States||Creekside Dr||Byron|61010|Ogle|IL|USA
+C29|1|1|42.12924|-89.2739|427 Mill Ridge Dr, Byron, IL 61010, United States|427|Mill Ridge Dr||Byron|61010|Ogle|IL|USA
+C30|1|1|42.13063|-89.27393|523 Mill Ridge Dr, Byron, IL 61010, United States|523|Mill Ridge Dr||Byron|61010|Ogle|IL|USA
+C31|1|1|42.13184|-89.2745|1405 Crimson Ridge Ln, Byron, IL 61010, United States|1405|Crimson Ridge Ln||Byron|61010|Ogle|IL|USA
+C32|1|1|42.12955|-89.27581|434 Creekside Ct, Byron, IL 61010, United States|434|Creekside Ct||Byron|61010|Ogle|IL|USA
+C33|1|1|42.13066|-89.27521|523 Creekside Dr, Byron, IL 61010, United States|523|Creekside Dr||Byron|61010|Ogle|IL|USA
+C34|1|1|42.1305749|-89.2758487|544 Creekside Cir, Byron, IL 61010, United States|544|Creekside Cir||Byron|61010|Ogle|IL|USA
+C35|1|1|42.12861|-89.27546|Creekside Dr, Byron, IL 61010, United States||Creekside Dr||Byron|61010|Ogle|IL|USA
+D01|1|1|42.1264847|-89.2577961|200 W 2nd St, Byron, IL 61010, United States|200|W 2nd St||Byron|61010|Ogle|IL|USA
+D02|1|1|42.1266945|-89.2604317|200 N Franklin St, Byron, IL 61010, United States|200|N Franklin St||Byron|61010|Ogle|IL|USA
+D03|1|1|42.1266507|-89.2617614|200 N Lafayette St, Byron, IL 61010, United States|200|N Lafayette St||Byron|61010|Ogle|IL|USA
+D05|1|1|42.1265524|-89.2662752|733 W 2nd St, Byron, IL 61010, United States|733|W 2nd St||Byron|61010|Ogle|IL|USA
+D05.5|1|1|42.12616|-89.26572|802 W 2nd St, Byron, IL 61010, United States|802|W 2nd St||Byron|61010|Ogle|IL|USA
+D06|1|1|42.12605|-89.26661|830 W 2nd St, Byron, IL 61010, United States|830|W 2nd St||Byron|61010|Ogle|IL|USA
+D07|1|1|42.1262651|-89.2671068|932 W 2nd St, Byron, IL 61010, United States|932|W 2nd St||Byron|61010|Ogle|IL|USA
+D08|1|1|42.125249|-89.2695312|100 N Maple Ave, Byron, IL 61010, United States|100|N Maple Ave||Byron|61010|Ogle|IL|USA
+D09|1|1|42.1262487|-89.267782|1014 W 2nd St, Byron, IL 61010, United States|1014|W 2nd St||Byron|61010|Ogle|IL|USA
+D10|1|1|42.12671|-89.2727|1165 W 2nd St, Byron, IL 61010, United States|1165|W 2nd St||Byron|61010|Ogle|IL|USA
+D11|1|1|42.12671|-89.2727|1177 W 2nd St, Byron, IL 61010, United States|1177|W 2nd St||Byron|61010|Ogle|IL|USA
+D12|1|1|42.12602|-89.27305|1182 W 2nd St, Byron, IL 61010, United States|1182|W 2nd St||Byron|61010|Ogle|IL|USA
+D13|1|1|42.1279877|-89.2665166|130 Blanchard Ct, Byron, IL 61010, United States|130|Blanchard Ct||Byron|61010|Ogle|IL|USA
+D14|1|1|42.12762|-89.26725|112 Blanchard Ct, Byron, IL 61010, United States|112|Blanchard Ct||Byron|61010|Ogle|IL|USA
+D15|1|1|42.12608|-89.27551|108 N Fox Run Ln, Byron, IL 61010, United States|108|N Fox Run Ln||Byron|61010|Ogle|IL|USA
+D16|1|1|42.12731|-89.27488|138 N Fox Run Ln, Byron, IL 61010, United States|138|N Fox Run Ln||Byron|61010|Ogle|IL|USA
+D17|1|1|42.12832|-89.27386|170 N Fox Run Ln, Byron, IL 61010, United States|170|N Fox Run Ln||Byron|61010|Ogle|IL|USA
+D18|1|1|42.1263|-89.25848|232 W 2nd St, Byron, IL 61010, United States|232|W 2nd St||Byron|61010|Ogle|IL|USA
+D19|1|1|42.12729|-89.25859|221 N Washington St, Byron, IL 61010, United States|221|N Washington St||Byron|61010|Ogle|IL|USA
+E01|1|1|42.1277145|-89.2562318|100 W 3rd St, Byron, IL 61010, United States|100|W 3rd St||Byron|61010|Ogle|IL|USA
+E02|1|1|42.1276447|-89.2591859|300 W 3rd St, Byron, IL 61010, United States|300|W 3rd St||Byron|61010|Ogle|IL|USA
+E03|1|1|42.1288789|-89.2575076|399 N Walnut St, Byron, IL 61010, United States|399|N Walnut St||Byron|61010|Ogle|IL|USA
+E04|1|1|42.13161|-89.25751|131 W 6th St, Byron, IL 61010, United States|131|W 6th St||Byron|61010|Ogle|IL|USA
+E05|1|1|42.1335311|-89.2576331|8129 N Barker Rd, Byron, IL 61010, United States|8129|N Barker Rd||Byron|61010|Ogle|IL|USA
+E06|1|1|42.1279108|-89.2591714|300 N Washington St, Byron, IL 61010, United States|300|N Washington St||Byron|61010|Ogle|IL|USA
+E07|1|1|42.12777|-89.25993|W 3rd St, Byron, IL 61010, United States||W 3rd St||Byron|61010|Ogle|IL|USA
+E08.5|1|1|42.12734|-89.26325|540 W 3rd St, Byron, IL 61010, United States|540|W 3rd St||Byron|61010|Ogle|IL|USA
+E10|1|1|42.12863|-89.26004|328 W 4th St, Byron, IL 61010, United States|328|W 4th St||Byron|61010|Ogle|IL|USA
+E11|1|1|42.12993|-89.25968|425 Ashelford Ct, Byron, IL 61010, United States|425|Ashelford Ct||Byron|61010|Ogle|IL|USA
+E12|1|1|42.129728|-89.2601315|415 Ashelford Ct, Byron, IL 61010, United States|415|Ashelford Ct||Byron|61010|Ogle|IL|USA
+E13|1|1|42.12902|-89.264|420 N Colfax St, Byron, IL 61010, United States|420|N Colfax St||Byron|61010|Ogle|IL|USA
+E14|1|1|42.1303213|-89.2636778|425 N Colfax St, Byron, IL 61010, United States|425|N Colfax St||Byron|61010|Ogle|IL|USA
+E15|1|1|42.1303213|-89.2636778|425 N Colfax St, Byron, IL 61010, United States|425|N Colfax St||Byron|61010|Ogle|IL|USA
+E16|1|1|42.1320334|-89.2640249|696 N Colfax St, Byron, IL 61010, United States|696|N Colfax St||Byron|61010|Ogle|IL|USA
+E16.1|1|1|42.1320334|-89.2640249|696 N Colfax St, Byron, IL 61010, United States|696|N Colfax St||Byron|61010|Ogle|IL|USA
+E16.2|1|1|42.1320334|-89.2640249|696 N Colfax St, Byron, IL 61010, United States|696|N Colfax St||Byron|61010|Ogle|IL|USA
+E16.3|1|1|42.1320334|-89.2640249|696 N Colfax St, Byron, IL 61010, United States|696|N Colfax St||Byron|61010|Ogle|IL|USA
+E16.4|1|1|42.1320334|-89.2640249|696 N Colfax St, Byron, IL 61010, United States|696|N Colfax St||Byron|61010|Ogle|IL|USA
+E20|1|1|42.13363|-89.26332|789 N Colfax St, Byron, IL 61010, United States|789|N Colfax St||Byron|61010|Ogle|IL|USA
+E21|1|1|42.13513|-89.26665|850 N Colfax St, Byron, IL 61010, United States|850|N Colfax St||Byron|61010|Ogle|IL|USA
+E22|1|1|42.13513|-89.26665|850 N Colfax St, Byron, IL 61010, United States|850|N Colfax St||Byron|61010|Ogle|IL|USA
+E23|1|1|42.13513|-89.26665|850 N Colfax St, Byron, IL 61010, United States|850|N Colfax St||Byron|61010|Ogle|IL|USA
+E24|1|1|42.13513|-89.26665|850 N Colfax St, Byron, IL 61010, United States|850|N Colfax St||Byron|61010|Ogle|IL|USA
+E25|1|1|42.13513|-89.26665|850 N Colfax St, Byron, IL 61010, United States|850|N Colfax St||Byron|61010|Ogle|IL|USA
+E26|1|1|42.13513|-89.26665|850 N Colfax St, Byron, IL 61010, United States|850|N Colfax St||Byron|61010|Ogle|IL|USA
+E27|1|1|42.13513|-89.26665|850 N Colfax St, Byron, IL 61010, United States|850|N Colfax St||Byron|61010|Ogle|IL|USA
+E28|1|1|42.13513|-89.26665|850 N Colfax St, Byron, IL 61010, United States|850|N Colfax St||Byron|61010|Ogle|IL|USA
+E29|1|1|42.13513|-89.26665|850 N Colfax St, Byron, IL 61010, United States|850|N Colfax St||Byron|61010|Ogle|IL|USA
+F01|1|1|42.13898|-89.26607|8564 Valley View Dr, Byron, IL 61010, United States|8564|Valley View Dr||Byron|61010|Ogle|IL|USA
+F02|1|1|42.13849|-89.26407|8524 Byron Hills Ct, Byron, IL 61010, United States|8524|Byron Hills Ct||Byron|61010|Ogle|IL|USA
+F03|1|1|42.14084|-89.26443|8605 Byron Hills Dr, Byron, IL 61010, United States|8605|Byron Hills Dr||Byron|61010|Ogle|IL|USA
+F04|1|1|42.14286|-89.26441|8649 Byron Hills Dr, Byron, IL 61010, United States|8649|Byron Hills Dr||Byron|61010|Ogle|IL|USA
+F05|1|1|42.13897|-89.26772|8540 Valley View Dr, Byron, IL 61010, United States|8540|Valley View Dr||Byron|61010|Ogle|IL|USA
+F06|1|1|42.13975|-89.27099|8578 Verde Dr, Byron, IL 61010, United States|8578|Verde Dr||Byron|61010|Ogle|IL|USA
+F07|1|1|42.13941|-89.26666|8573 Verde Ct, Byron, IL 61010, United States|8573|Verde Ct||Byron|61010|Ogle|IL|USA
+F08|1|1|42.1415|-89.26731|8629 Sunset Ct, Byron, IL 61010, United States|8629|Sunset Ct||Byron|61010|Ogle|IL|USA
+F09|1|1|42.14262|-89.2667|8648 Verde Dr, Byron, IL 61010, United States|8648|Verde Dr||Byron|61010|Ogle|IL|USA
+F10|1|1|42.14117|-89.26681|8604 Verde Dr, Byron, IL 61010, United States|8604|Verde Dr||Byron|61010|Ogle|IL|USA
+F11|1|1|42.1435088|-89.2679951|8697 Sunset Dr, Byron, IL 61010, United States|8697|Sunset Dr||Byron|61010|Ogle|IL|USA
+F12|1|1|42.14466|-89.26292|8635 Winnebago Ln, Byron, IL 61010, United States|8635|Winnebago Ln||Byron|61010|Ogle|IL|USA
+F13|1|1|42.14478|-89.26292|8689 Winnebago Ln, Byron, IL 61010, United States|8689|Winnebago Ln||Byron|61010|Ogle|IL|USA
+F14|1|1|42.1434721|-89.2630451|8495 Winnebago Ln, Byron, IL 61010, United States|8495|Winnebago Ln||Byron|61010|Ogle|IL|USA
+F15|1|1|42.14463|-89.26196|8485 Craig Ct, Byron, IL 61010, United States|8485|Craig Ct||Byron|61010|Ogle|IL|USA
+F16|1|1|42.1418089|-89.2626067|8468 Winnebago Ln, Byron, IL 61010, United States|8468|Winnebago Ln||Byron|61010|Ogle|IL|USA
+F17|1|1|42.1433243|-89.2626363|8459 Wendy Ct, Byron, IL 61010, United States|8459|Wendy Ct||Byron|61010|Ogle|IL|USA
+F18|1|1|42.1429|-89.2637|8464 Winnebago Ln, Byron, IL 61010, United States|8464|Winnebago Ln||Byron|61010|Ogle|IL|USA
+F19|1|1|42.1442666|-89.2630451|8625 Winnebago Ln, Byron, IL 61010, United States|8625|Winnebago Ln||Byron|61010|Ogle|IL|USA
+F20|1|1|42.14153|-89.26211|8438 Winnebago Ln, Byron, IL 61010, United States|8438|Winnebago Ln||Byron|61010|Ogle|IL|USA
+F21|1|1|42.14154|-89.26155|8434 Winnebago Ln, Byron, IL 61010, United States|8434|Winnebago Ln||Byron|61010|Ogle|IL|USA
+F22|1|1|42.14155|-89.26017|8420 Winnebago Ln, Byron, IL 61010, United States|8420|Winnebago Ln||Byron|61010|Ogle|IL|USA
+F23|1|1|42.14156|-89.25943|8416 Winnebago Ln, Byron, IL 61010, United States|8416|Winnebago Ln||Byron|61010|Ogle|IL|USA
+F24|1|1|42.1418387|-89.2589196|8412 Winnebago Ln, Byron, IL 61010, United States|8412|Winnebago Ln||Byron|61010|Ogle|IL|USA
+F25|1|1|42.14098|-89.26005|3954 E Mockingbird Ln, Byron, IL 61010, United States|3954|E Mockingbird Ln||Byron|61010|Ogle|IL|USA
+F26|1|1|42.14096|-89.26167|3866 E Mockingbird Ln, Byron, IL 61010, United States|3866|E Mockingbird Ln||Byron|61010|Ogle|IL|USA
+F27|1|1|42.13996|-89.26313|N Finch Ln, Byron, IL 61010, United States||N Finch Ln||Byron|61010|Ogle|IL|USA
+F28|1|1|42.1388|-89.26345|3775 E Whippoorwill Ln, Byron, IL 61010, United States|3775|E Whippoorwill Ln||Byron|61010|Ogle|IL|USA
+F29|1|1|42.13895|-89.26162|3867 E Whippoorwill Ln, Byron, IL 61010, United States|3867|E Whippoorwill Ln||Byron|61010|Ogle|IL|USA
+F30|1|1|42.13896|-89.25999|3955 E Whippoorwill Ln, Byron, IL 61010, United States|3955|E Whippoorwill Ln||Byron|61010|Ogle|IL|USA
+F31|1|1|42.14001|-89.25855|8649 N Bluejay Ln, Byron, IL 61010, United States|8649|N Bluejay Ln||Byron|61010|Ogle|IL|USA
+F32|1|1|42.14855|-89.27328|9227 N Tower Rd, Byron, IL 61010, United States|9227|N Tower Rd||Byron|61010|Ogle|IL|USA
+F33|1|1|42.14834|-89.27434|3095 E Water Rd, Byron, IL 61010, United States|3095|E Water Rd||Byron|61010|Ogle|IL|USA
+F34|1|1|42.14761|-89.27433|3142 Everett Ln, Byron, IL 61010, United States|3142|Everett Ln||Byron|61010|Ogle|IL|USA
+F35|1|1|42.14645|-89.27453|9088 N Tower Rd, Byron, IL 61010, United States|9088|N Tower Rd||Byron|61010|Ogle|IL|USA
+F36|1|1|42.14829|-89.27304|1664 Warrenton Ct, Byron, IL 61010, United States|1664|Warrenton Ct||Byron|61010|Ogle|IL|USA
+F37|1|1|42.14857|-89.27109|1669 Brentwood Dr, Byron, IL 61010, United States|1669|Brentwood Dr||Byron|61010|Ogle|IL|USA
+F38|1|1|42.14805|-89.27087|1637 Brentwood Dr, Byron, IL 61010, United States|1637|Brentwood Dr||Byron|61010|Ogle|IL|USA
+F40|1|1|42.14717|-89.27402|Everett Ln, Byron, IL 61010, United States||Everett Ln||Byron|61010|Ogle|IL|USA
+F41|1|1|42.14694|-89.27165|1244 Everett Ln, Byron, IL 61010, United States|1244|Everett Ln||Byron|61010|Ogle|IL|USA
+F42|1|1|42.14622|-89.27301|Warrenton Dr, Byron, IL 61010, United States||Warrenton Dr||Byron|61010|Ogle|IL|USA
+F43|1|1|42.14623|-89.27341|1548 Warrenton Dr, Byron, IL 61010, United States|1548|Warrenton Dr||Byron|61010|Ogle|IL|USA
+F44|1|1|42.14561|-89.27077|1551 Brentwood Dr, Byron, IL 61010, United States|1551|Brentwood Dr||Byron|61010|Ogle|IL|USA
+F45|1|1|42.14622|-89.27301|Warrenton Dr, Byron, IL 61010, United States||Warrenton Dr||Byron|61010|Ogle|IL|USA
+F47|1|1|42.14608|-89.27452|1535 Joanne Ter, Byron, IL 61010, United States|1535|Joanne Ter||Byron|61010|Ogle|IL|USA
+F48|1|1|42.14426|-89.27448|1413 Joanne Ter, Byron, IL 61010, United States|1413|Joanne Ter||Byron|61010|Ogle|IL|USA
+F49|1|1|42.14302|-89.27518|Joanne Ter, Byron, IL 61010, United States||Joanne Ter||Byron|61010|Ogle|IL|USA
+F50|1|1|42.14224|-89.27529|1335 Joanne Ter, Byron, IL 61010, United States|1335|Joanne Ter||Byron|61010|Ogle|IL|USA
+F51|1|1|42.14137|-89.27564|1249 Joanne Ter, Byron, IL 61010, United States|1249|Joanne Ter||Byron|61010|Ogle|IL|USA
+F52|1|1|42.14008|-89.27568|1209 Joanne Ter, Byron, IL 61010, United States|1209|Joanne Ter||Byron|61010|Ogle|IL|USA
+F53|1|1|42.13892|-89.2762|1402 Marijon Dr, Byron, IL 61010, United States|1402|Marijon Dr||Byron|61010|Ogle|IL|USA
+F54|1|1|42.1404|-89.27429|1302 Marijon Dr, Byron, IL 61010, United States|1302|Marijon Dr||Byron|61010|Ogle|IL|USA
+F55|1|1|42.13921|-89.27589|Marijon Dr, Byron, IL 61010, United States||Marijon Dr||Byron|61010|Ogle|IL|USA
+F56|1|1|42.14037|-89.27734|1227 Glacier Dr, Byron, IL 61010, United States|1227|Glacier Dr||Byron|61010|Ogle|IL|USA
+F57|1|1|42.16707|-89.24701|Short Ln, Byron, IL 61010, United States||Short Ln||Byron|61010|Ogle|IL|USA
+F58|1|1|42.14217|-89.27736|1321 Glacier Dr, Byron, IL 61010, United States|1321|Glacier Dr||Byron|61010|Ogle|IL|USA
+F59|1|1|42.13859|-89.2778|1120 Glacier Dr, Byron, IL 61010, United States|1120|Glacier Dr||Byron|61010|Ogle|IL|USA
+F60|1|1|42.14293|-89.27679|1339 Glacier Dr, Byron, IL 61010, United States|1339|Glacier Dr||Byron|61010|Ogle|IL|USA
+F61|1|1|42.14327|-89.27628|1351 Glacier Dr, Byron, IL 61010, United States|1351|Glacier Dr||Byron|61010|Ogle|IL|USA
+G01|1|1|42.1381241|-89.2654827|3500 E Mill Rd, Byron, IL 61010, United States|3500|E Mill Rd||Byron|61010|Ogle|IL|USA
+G02|1|1|42.13784|-89.26824|3499 E Mill Rd, Byron, IL 61010, United States|3499|E Mill Rd||Byron|61010|Ogle|IL|USA
+G03|1|1|42.1381149|-89.2683808|3486 E Mill Rd, Byron, IL 61010, United States|3486|E Mill Rd||Byron|61010|Ogle|IL|USA
+G04|1|1|42.13637|-89.27017|3361 E Mill Rd, Byron, IL 61010, United States|3361|E Mill Rd||Byron|61010|Ogle|IL|USA
+G05|1|1|42.13675|-89.27182|3313 E Mill Rd, Byron, IL 61010, United States|3313|E Mill Rd||Byron|61010|Ogle|IL|USA
+G05.5|1|1|42.13702|-89.27299|3271 E Mill Rd, Byron, IL 61010, United States|3271|E Mill Rd||Byron|61010|Ogle|IL|USA
+G06|1|1|42.13722|-89.27455|3221 E Mill Rd, Byron, IL 61010, United States|3221|E Mill Rd||Byron|61010|Ogle|IL|USA
+G06.5|1|1|42.13757|-89.27605|3159 E Mill Rd, Byron, IL 61010, United States|3159|E Mill Rd||Byron|61010|Ogle|IL|USA
+G07|1|1|42.13761|-89.27701|1055 Kingsway Ln, Byron, IL 61010, United States|1055|Kingsway Ln||Byron|61010|Ogle|IL|USA
+G08|1|1|42.1369|-89.27699|1032 Kingsway Ln, Byron, IL 61010, United States|1032|Kingsway Ln||Byron|61010|Ogle|IL|USA
+G09|1|1|42.13605|-89.27513|853 Belair Dr, Byron, IL 61010, United States|853|Belair Dr||Byron|61010|Ogle|IL|USA
+G10|1|1|42.13543|-89.27644|814 Belair Dr, Byron, IL 61010, United States|814|Belair Dr||Byron|61010|Ogle|IL|USA
+G11|1|1|42.13454|-89.27704|736 Belair Dr, Byron, IL 61010, United States|736|Belair Dr||Byron|61010|Ogle|IL|USA
+G12|1|1|42.13366|-89.27677|701 Belair Dr, Byron, IL 61010, United States|701|Belair Dr||Byron|61010|Ogle|IL|USA
+G13|1|1|42.13519|-89.27501|814 Kingsway Ln, Byron, IL 61010, United States|814|Kingsway Ln||Byron|61010|Ogle|IL|USA
+G14|1|1|42.13462|-89.27541|1436 Kingsway Ct, Byron, IL 61010, United States|1436|Kingsway Ct||Byron|61010|Ogle|IL|USA
+G15|1|1|42.13403|-89.27485|1404 Kingsway Ct, Byron, IL 61010, United States|1404|Kingsway Ct||Byron|61010|Ogle|IL|USA
+G16|1|1|42.13366|-89.27537|1411 Southfield Ln, Byron, IL 61010, United States|1411|Southfield Ln||Byron|61010|Ogle|IL|USA
+G17|1|1|42.13392|-89.27867|1543 Southfield Ln, Byron, IL 61010, United States|1543|Southfield Ln||Byron|61010|Ogle|IL|USA
+G18|1|1|42.13463|-89.27983|1637 Southfield Ln, Byron, IL 61010, United States|1637|Southfield Ln||Byron|61010|Ogle|IL|USA
+G19|1|1|42.13424|-89.28137|1802 Southfield Ln, Byron, IL 61010, United States|1802|Southfield Ln||Byron|61010|Ogle|IL|USA
+G20|1|1|42.13566|-89.28078|735 Kari Ct, Byron, IL 61010, United States|735|Kari Ct||Byron|61010|Ogle|IL|USA
+G25|1|1|42.13548|-89.27945|721 Kristi Dr, Byron, IL 61010, United States|721|Kristi Dr||Byron|61010|Ogle|IL|USA
+G26|1|1|42.13612|-89.2799|Kristi Dr, Byron, IL 61010, United States||Kristi Dr||Byron|61010|Ogle|IL|USA
+G27|1|1|42.13762|-89.27948|835 Kristi Dr, Byron, IL 61010, United States|835|Kristi Dr||Byron|61010|Ogle|IL|USA
+G28|1|1|42.1372|-89.28236|2793 E Mill Rd, Byron, IL 61010, United States|2793|E Mill Rd||Byron|61010|Ogle|IL|USA
+G29|1|1|42.13704|-89.2817|1848 Penny Ln, Byron, IL 61010, United States|1848|Penny Ln||Byron|61010|Ogle|IL|USA
+G30|1|1|42.13618|-89.28215|741 Oaks Ln, Byron, IL 61010, United States|741|Oaks Ln||Byron|61010|Ogle|IL|USA
+G31|1|1|42.13683|-89.27827|802 Hampton Dr, Byron, IL 61010, United States|802|Hampton Dr||Byron|61010|Ogle|IL|USA
+G32|1|1|42.13646|-89.27693|1519 Westmont Dr, Byron, IL 61010, United States|1519|Westmont Dr||Byron|61010|Ogle|IL|USA
+G33|1|1|42.1354|-89.27704|739 Oxford Dr, Byron, IL 61010, United States|739|Oxford Dr||Byron|61010|Ogle|IL|USA
+G34|1|1|42.1338581|-89.2788754|703 Hampton Dr, Byron, IL 61010, United States|703|Hampton Dr||Byron|61010|Ogle|IL|USA
+G35|1|1|42.13526|-89.27894|732 Hampton Dr, Byron, IL 61010, United States|732|Hampton Dr||Byron|61010|Ogle|IL|USA
+H01|1|1|42.1269388|-89.2508996|203 N Peru St, Byron, IL 61010, United States|203|N Peru St||Byron|61010|Ogle|IL|USA
+H02|1|1|42.1268879|-89.2519676|431 E 2nd St, Byron, IL 61010, United States|431|E 2nd St||Byron|61010|Ogle|IL|USA
+H03|1|1|42.1278452|-89.250945|400 E 3rd St, Byron, IL 61010, United States|400|E 3rd St||Byron|61010|Ogle|IL|USA
+H04|1|1|42.1278051|-89.25279|300 E 3rd St, Byron, IL 61010, United States|300|E 3rd St||Byron|61010|Ogle|IL|USA
+H05|1|1|42.12877|-89.24817|327 Hamer Ct, Byron, IL 61010, United States|327|Hamer Ct||Byron|61010|Ogle|IL|USA
+H06|1|1|42.128335|-89.2472792|1200 Kysor Dr, Byron, IL 61010, United States|1200|Kysor Dr||Byron|61010|Ogle|IL|USA
+H06.5|1|1|42.1282593|-89.2472182|602 E Blackhawk Dr, Byron, IL 61010, United States|602|E Blackhawk Dr||Byron|61010|Ogle|IL|USA
+H07|1|1|42.12642|-89.24639|130 Kysor Dr, Byron, IL 61010, United States|130|Kysor Dr||Byron|61010|Ogle|IL|USA
+H08|1|1|42.12835|-89.2467734|1221 Kysor Dr, Byron, IL 61010, United States|1221|Kysor Dr||Byron|61010|Ogle|IL|USA
+H09|1|1|42.12941|-89.24021|1255 Kysor Dr, Byron, IL 61010, United States|1255|Kysor Dr||Byron|61010|Ogle|IL|USA
+H10|1|1|42.12862|-89.23996|1273 Kysor Dr, Byron, IL 61010, United States|1273|Kysor Dr||Byron|61010|Ogle|IL|USA
+H10.5|1|1|42.1298|-89.23953|1360 Kysor Dr, Byron, IL 61010, United States|1360|Kysor Dr||Byron|61010|Ogle|IL|USA
+H12|1|1|42.1285101|-89.2398353|1509 Kysor Dr, Byron, IL 61010, United States|1509|Kysor Dr||Byron|61010|Ogle|IL|USA
+H12.5|1|1|42.1285125|-89.239739|1513 Kysor Dr, Byron, IL 61010, United States|1513|Kysor Dr||Byron|61010|Ogle|IL|USA
+H13|1|1|42.12936|-89.24812|544 All Saints Dr, Byron, IL 61010, United States|544|All Saints Dr||Byron|61010|Ogle|IL|USA
+H14|1|1|42.1306186|-89.2470684|639 Luther Dr, Byron, IL 61010, United States|639|Luther Dr||Byron|61010|Ogle|IL|USA
+H15|1|1|42.1292545|-89.2546417|400 N Chestnut St, Byron, IL 61010, United States|400|N Chestnut St||Byron|61010|Ogle|IL|USA
+H16|1|1|42.1292846|-89.2530217|400 N Market St, Byron, IL 61010, United States|400|N Market St||Byron|61010|Ogle|IL|USA
+H17|1|1|42.1293206|-89.2513914|400 N Peru St, Byron, IL 61010, United States|400|N Peru St||Byron|61010|Ogle|IL|USA
+H18|1|1|42.129365|-89.2497807|400 N Mineral St, Byron, IL 61010, United States|400|N Mineral St||Byron|61010|Ogle|IL|USA
+H19|1|1|42.1289096|-89.25627|398 N Union St, Byron, IL 61010, United States|398|N Union St||Byron|61010|Ogle|IL|USA
+H20|1|1|42.13141|-89.25448|500 N Union St, Byron, IL 61010, United States|500|N Union St||Byron|61010|Ogle|IL|USA
+H21|1|1|42.1302217|-89.2514404|498 N Peru St, Byron, IL 61010, United States|498|N Peru St||Byron|61010|Ogle|IL|USA
+H22|1|1|42.1305704|-89.2497749|500 N Mineral St, Byron, IL 61010, United States|500|N Mineral St||Byron|61010|Ogle|IL|USA
+H23|1|1|42.13083|-89.24786|Luther Dr, Byron, IL 61010, United States||Luther Dr||Byron|61010|Ogle|IL|USA
+H24|1|1|42.1315|-89.24631|647 Allison Cir, Byron, IL 61010, United States|647|Allison Cir||Byron|61010|Ogle|IL|USA
+H25|1|1|42.13049|-89.23831|5081 E Brooke Ct, Byron, IL 61010, United States|5081|E Brooke Ct||Byron|61010|Ogle|IL|USA
+H26|1|1|42.1311|-89.23968|5009 E Brooke Ct, Byron, IL 61010, United States|5009|E Brooke Ct||Byron|61010|Ogle|IL|USA
+H27|1|1|42.13106|-89.24009|8035 N Ryan Cir, Byron, IL 61010, United States|8035|N Ryan Cir||Byron|61010|Ogle|IL|USA
+H28|1|1|42.13067|-89.23589|5170 E Ashelford Dr, Byron, IL 61010, United States|5170|E Ashelford Dr||Byron|61010|Ogle|IL|USA
+H29|1|1|42.12995|-89.23518|5218 E Ashelford Dr, Byron, IL 61010, United States|5218|E Ashelford Dr||Byron|61010|Ogle|IL|USA
+H30|1|1|42.13145|-89.23665|5142 E Ashelford Dr, Byron, IL 61010, United States|5142|E Ashelford Dr||Byron|61010|Ogle|IL|USA
+H31|1|1|42.12972|-89.24962|N Mineral St, Byron, IL 61010, United States||N Mineral St||Byron|61010|Ogle|IL|USA
+H32|1|1|42.1325|-89.24922|645 N Mineral St, Byron, IL 61010, United States|645|N Mineral St||Byron|61010|Ogle|IL|USA
+H33|1|1|42.12972|-89.24962|N Mineral St, Byron, IL 61010, United States||N Mineral St||Byron|61010|Ogle|IL|USA
+H34|1|1|42.13339|-89.24724|E Old State Rd, Byron, IL 61010, United States||E Old State Rd||Byron|61010|Ogle|IL|USA
+H35|1|1|42.13371|-89.24742|4624 E Old State Rd, Byron, IL 61010, United States|4624|E Old State Rd||Byron|61010|Ogle|IL|USA
+H36|1|1|42.13375|-89.24644|4696 E Old State Rd, Byron, IL 61010, United States|4696|E Old State Rd||Byron|61010|Ogle|IL|USA
+H37|1|1|42.13409|-89.24809|721 Birch St, Byron, IL 61010, United States|721|Birch St||Byron|61010|Ogle|IL|USA
+H38|1|1|42.13417|-89.24856|Birch St, Byron, IL 61010, United States||Birch St||Byron|61010|Ogle|IL|USA
+H39|1|1|42.13448|-89.24635|672 Harvest Dr, Byron, IL 61010, United States|672|Harvest Dr||Byron|61010|Ogle|IL|USA
+H40|1|1|42.13631|-89.24624|867 Hillside Dr, Byron, IL 61010, United States|867|Hillside Dr||Byron|61010|Ogle|IL|USA
+H41|1|1|42.13714|-89.24864|833 Hillside Dr, Byron, IL 61010, United States|833|Hillside Dr||Byron|61010|Ogle|IL|USA
+I03|1|1|42.11802|-89.25362|7157 CR-2, Byron, IL 61010, United States|7157|CR-2||Byron|61010|Ogle|IL|USA
+I04|1|1|42.11281|-89.28699|N Friday Rd, Byron, IL 61010, United States||N Friday Rd||Byron|61010|Ogle|IL|USA
+I05|1|1|42.11415|-89.28757|6834 N Friday Rd, Byron, IL 61010, United States|6834|N Friday Rd||Byron|61010|Ogle|IL|USA
+I06|1|1|42.11305|-89.28753|6754 N Friday Rd, Byron, IL 61010, United States|6754|N Friday Rd||Byron|61010|Ogle|IL|USA
+I06.5|1|1|42.11307|-89.2865|6749 N Friday Rd, Byron, IL 61010, United States|6749|N Friday Rd||Byron|61010|Ogle|IL|USA
+I07|1|1|42.11223|-89.28751|6730 N Friday Rd, Byron, IL 61010, United States|6730|N Friday Rd||Byron|61010|Ogle|IL|USA
+I07.2|1|1|42.11114|-89.28747|6640 N Friday Rd, Byron, IL 61010, United States|6640|N Friday Rd||Byron|61010|Ogle|IL|USA
+I07.5|1|1|42.11044|-89.28742|6596 N Friday Rd, Byron, IL 61010, United States|6596|N Friday Rd||Byron|61010|Ogle|IL|USA
+I08|1|1|42.11393|-89.28836|6849 N River Rd, Byron, IL 61010, United States|6849|N River Rd||Byron|61010|Ogle|IL|USA
+I09|1|1|42.10873|-89.29608|6501 N River Rd, Byron, IL 61010, United States|6501|N River Rd||Byron|61010|Ogle|IL|USA
+I10|1|1|42.10544|-89.29978|6387 N River Rd, Byron, IL 61010, United States|6387|N River Rd||Byron|61010|Ogle|IL|USA
+I10.5|1|1|42.08785|-89.30631|1546 E Acorn Rd, Byron, IL 61010, United States|1546|E Acorn Rd||Byron|61010|Ogle|IL|USA
+I11|1|1|42.08695|-89.30368|1669 E Acorn Rd, Byron, IL 61010, United States|1669|E Acorn Rd||Byron|61010|Ogle|IL|USA
+I11.5|1|1|42.0892|-89.30215|1780 E Acorn Rd, Byron, IL 61010, United States|1780|E Acorn Rd||Byron|61010|Ogle|IL|USA
+I12|1|1|42.09059|-89.29694|N Razorville Rd, Byron, IL 61010, United States||N Razorville Rd||Byron|61010|Ogle|IL|USA
+I13|1|1|42.0879289|-89.2971033|4800 N Razorville Rd, Byron, IL 61010, United States|4800|N Razorville Rd||Byron|61010|Ogle|IL|USA
+I14|1|1|42.08748|-89.29678|4629 N Razorville Rd, Byron, IL 61010, United States|4629|N Razorville Rd||Byron|61010|Ogle|IL|USA
+I15|1|1|42.0887363|-89.2971064|5200 N Razorville Rd, Byron, IL 61010, United States|5200|N Razorville Rd||Byron|61010|Ogle|IL|USA
+I16|1|1|42.0889382|-89.2971072|5300 N Razorville Rd, Byron, IL 61010, United States|5300|N Razorville Rd||Byron|61010|Ogle|IL|USA
+I17|1|1|42.08927|-89.297|5458 N Razorville Rd, Byron, IL 61010, United States|5458|N Razorville Rd||Byron|61010|Ogle|IL|USA
+I18|1|1|42.0893684|-89.2971088|5600 N Razorville Rd, Byron, IL 61010, United States|5600|N Razorville Rd||Byron|61010|Ogle|IL|USA
+I19|1|1|42.09732|-89.29606|5749 N Razorville Rd, Byron, IL 61010, United States|5749|N Razorville Rd||Byron|61010|Ogle|IL|USA
+I20|1|1|42.10094|-89.29957|5924 N Razorville Rd, Byron, IL 61010, United States|5924|N Razorville Rd||Byron|61010|Ogle|IL|USA
+I20.5|1|1|42.1027|-89.29919|6056 N Razorville Rd, Byron, IL 61010, United States|6056|N Razorville Rd||Byron|61010|Ogle|IL|USA
+I21|1|1|42.10341|-89.29888|6120 N Razorville Rd, Byron, IL 61010, United States|6120|N Razorville Rd||Byron|61010|Ogle|IL|USA
+I22|1|1|42.10607|-89.29848|6170 N Razorville Rd, Byron, IL 61010, United States|6170|N Razorville Rd||Byron|61010|Ogle|IL|USA
+I23|1|1|42.0986127|-89.3093124|6021 N River Rd, Byron, IL 61010, United States|6021|N River Rd||Byron|61010|Ogle|IL|USA
+I24|1|1|42.10083|-89.30426|5956 N CL Myers Dr, Byron, IL 61010, United States|5956|N CL Myers Dr||Byron|61010|Ogle|IL|USA
+I25|1|1|42.0971415|-89.303275|5850 N CL Myers Dr, Byron, IL 61010, United States|5850|N CL Myers Dr||Byron|61010|Ogle|IL|USA
+I26|1|1|42.09877|-89.30415|5790 N CL Myers Dr, Byron, IL 61010, United States|5790|N CL Myers Dr||Byron|61010|Ogle|IL|USA
+I27|1|1|42.0958607|-89.3025562|5700 N CL Myers Dr, Byron, IL 61010, United States|5700|N CL Myers Dr||Byron|61010|Ogle|IL|USA
+I28|1|1|42.09281|-89.30929|311 E South Park Dr, Byron, IL 61010, United States|311|E South Park Dr||Byron|61010|Ogle|IL|USA
+I29|1|1|42.09335|-89.30929|313 E Oakwood Dr, Byron, IL 61010, United States|313|E Oakwood Dr||Byron|61010|Ogle|IL|USA
+I30|1|2|42.14006|-89.26427|E Woodland Dr, Byron, IL 61010, United States||E Woodland Dr||Byron|61010|Ogle|IL|USA
+I30|2|2|42.09438|-89.31074|N Woodland Dr, Byron, IL 61010, United States||N Woodland Dr||Byron|61010|Ogle|IL|USA
+I31|1|2|42.14006|-89.26427|E Woodland Dr, Byron, IL 61010, United States||E Woodland Dr||Byron|61010|Ogle|IL|USA
+I31|2|2|42.09438|-89.31074|N Woodland Dr, Byron, IL 61010, United States||N Woodland Dr||Byron|61010|Ogle|IL|USA
+I32|1|1|42.09526|-89.30913|314 Riverview Dr, Byron, IL 61010, United States|314|Riverview Dr||Byron|61010|Ogle|IL|USA
+I33|1|1|42.09575|-89.31084|E Rockvale Dr, Byron, IL 61010, United States||E Rockvale Dr||Byron|61010|Ogle|IL|USA
+I34|1|1|42.09503|-89.31347|N Blackhawk Dr, Byron, IL 61010, United States||N Blackhawk Dr||Byron|61010|Ogle|IL|USA
+I35|1|1|42.09506|-89.31117|E River View Dr, Byron, IL 61010, United States||E River View Dr||Byron|61010|Ogle|IL|USA
+I36|1|1|42.09415|-89.31272|205 E Hill Crest Dr, Byron, IL 61010, United States|205|E Hill Crest Dr||Byron|61010|Ogle|IL|USA
+I37|1|1|42.09367|-89.31248|E Oakwood Dr, Byron, IL 61010, United States||E Oakwood Dr||Byron|61010|Ogle|IL|USA
+I38|1|1|42.09277|-89.31282|207 E South Park Dr, Byron, IL 61010, United States|207|E South Park Dr||Byron|61010|Ogle|IL|USA
+I39|1|1|42.09274|-89.31488|115 E South Park Dr, Byron, IL 61010, United States|115|E South Park Dr||Byron|61010|Ogle|IL|USA
+I40|1|1|42.09173|-89.31396|805 N Devils Ln, Byron, IL 61010, United States|805|N Devils Ln||Byron|61010|Ogle|IL|USA
+I41|1|1|42.08888|-89.31518|903 N Devils Ln, Byron, IL 61010, United States|903|N Devils Ln||Byron|61010|Ogle|IL|USA
+I42|1|1|42.09382|-89.31481|110 E Oakwood Dr, Byron, IL 61010, United States|110|E Oakwood Dr||Byron|61010|Ogle|IL|USA
+I43|1|1|42.09413|-89.31471|103 E Hill Crest Dr, Byron, IL 61010, United States|103|E Hill Crest Dr||Byron|61010|Ogle|IL|USA
+I44|1|1|42.09702|-89.30892|402 E North Park Dr, Byron, IL 61010, United States|402|E North Park Dr||Byron|61010|Ogle|IL|USA
+I45|1|1|42.09872|-89.30878|104 N Terrace Park Dr, Byron, IL 61010, United States|104|N Terrace Park Dr||Byron|61010|Ogle|IL|USA
+I46|1|1|42.11466|-89.28961|N River Rd, Byron, IL 61010, United States||N River Rd||Byron|61010|Ogle|IL|USA
+I47|1|1|42.09633|-89.3139|5590 N River Rd, Byron, IL 61010, United States|5590|N River Rd||Byron|61010|Ogle|IL|USA
+I48|1|1|42.09544|-89.3157|5478 N River Rd, Byron, IL 61010, United States|5478|N River Rd||Byron|61010|Ogle|IL|USA
+I49|1|1|42.0940002|-89.3165634|5393 N River Rd, Byron, IL 61010, United States|5393|N River Rd||Byron|61010|Ogle|IL|USA
+I50|1|1|42.093415|-89.3181686|5300 N River Rd, Byron, IL 61010, United States|5300|N River Rd||Byron|61010|Ogle|IL|USA
+I51|1|1|42.093415|-89.3181686|5300 N River Rd, Byron, IL 61010, United States|5300|N River Rd||Byron|61010|Ogle|IL|USA
+I52|1|1|42.11466|-89.28961|N River Rd, Byron, IL 61010, United States||N River Rd||Byron|61010|Ogle|IL|USA
+I53|1|1|42.11466|-89.28961|N River Rd, Byron, IL 61010, United States||N River Rd||Byron|61010|Ogle|IL|USA
+I54|1|1|42.11466|-89.28961|N River Rd, Byron, IL 61010, United States||N River Rd||Byron|61010|Ogle|IL|USA
+J01|1|1|42.13796|-89.26949|E Mill Rd, Byron, IL 61010, United States||E Mill Rd||Byron|61010|Ogle|IL|USA
+J02|1|1|42.13677|-89.28371|838 Seven Hickory Rd, Byron, IL 61010, United States|838|Seven Hickory Rd||Byron|61010|Ogle|IL|USA
+J03|1|1|42.13581|-89.2837|762 Seven Hickory Rd, Byron, IL 61010, United States|762|Seven Hickory Rd||Byron|61010|Ogle|IL|USA
+J04|1|1|42.13423|-89.28287|1850 Southfield Ln, Byron, IL 61010, United States|1850|Southfield Ln||Byron|61010|Ogle|IL|USA
+J05|1|1|42.13422|-89.28394|1918 Southfield Ln, Byron, IL 61010, United States|1918|Southfield Ln||Byron|61010|Ogle|IL|USA
+J06|1|1|42.13677|-89.28419|837 Brookview Dr, Byron, IL 61010, United States|837|Brookview Dr||Byron|61010|Ogle|IL|USA
+J07|1|1|42.13561|-89.28417|749 Brookview Dr, Byron, IL 61010, United States|749|Brookview Dr||Byron|61010|Ogle|IL|USA
+J08|1|1|42.13446|-89.28526|2012 Southfield Ln, Byron, IL 61010, United States|2012|Southfield Ln||Byron|61010|Ogle|IL|USA
+J09|1|1|42.13721|-89.28516|2010 Silverthorn Dr, Byron, IL 61010, United States|2010|Silverthorn Dr||Byron|61010|Ogle|IL|USA
+J10|1|1|42.13637|-89.28539|813 Old Hunter Run, Byron, IL 61010, United States|813|Old Hunter Run||Byron|61010|Ogle|IL|USA
+J11|1|1|42.13533|-89.28553|2029 Southfield Ln, Byron, IL 61010, United States|2029|Southfield Ln||Byron|61010|Ogle|IL|USA
+J12|1|1|42.13513|-89.28688|2118 Southfield Ln, Byron, IL 61010, United States|2118|Southfield Ln||Byron|61010|Ogle|IL|USA
+J13|1|1|42.13687|-89.28752|850 Fieldcrest Dr, Byron, IL 61010, United States|850|Fieldcrest Dr||Byron|61010|Ogle|IL|USA
+J14|1|1|42.13721|-89.28606|2102 Silverthorn Dr, Byron, IL 61010, United States|2102|Silverthorn Dr||Byron|61010|Ogle|IL|USA
+J15|1|1|42.13796|-89.26949|E Mill Rd, Byron, IL 61010, United States||E Mill Rd||Byron|61010|Ogle|IL|USA
+J16|1|1|42.1383|-89.28694|1001 Shadow Wood Dr, Byron, IL 61010, United States|1001|Shadow Wood Dr||Byron|61010|Ogle|IL|USA
+J17|1|1|42.13879|-89.28694|1027 Shadow Wood Dr, Byron, IL 61010, United States|1027|Shadow Wood Dr||Byron|61010|Ogle|IL|USA
+J18|1|1|42.13951|-89.28696|1057 Shadow Wood Dr, Byron, IL 61010, United States|1057|Shadow Wood Dr||Byron|61010|Ogle|IL|USA
+J19|1|1|42.13721|-89.28546|2016 Silverthorn Dr, Byron, IL 61010, United States|2016|Silverthorn Dr||Byron|61010|Ogle|IL|USA
+J20|1|1|42.13951|-89.28565|1055 Old Hunter Run, Byron, IL 61010, United States|1055|Old Hunter Run||Byron|61010|Ogle|IL|USA
+J21|1|1|42.14028|-89.28569|1125 Old Hunter Run, Byron, IL 61010, United States|1125|Old Hunter Run||Byron|61010|Ogle|IL|USA
+J22|1|1|42.14084|-89.28721|1175 Old Hunter Run, Byron, IL 61010, United States|1175|Old Hunter Run||Byron|61010|Ogle|IL|USA
+M01|1|1|42.1188769|-89.2601081|7975 N River Rd, Byron, IL 61010, United States|7975|N River Rd||Byron|61010|Ogle|IL|USA
+M02|1|1|42.1189163|-89.260497|7863 N River Rd, Byron, IL 61010, United States|7863|N River Rd||Byron|61010|Ogle|IL|USA
+M03|1|1|42.1190792|-89.2620457|7705 N River Rd, Byron, IL 61010, United States|7705|N River Rd||Byron|61010|Ogle|IL|USA
+M04|1|1|42.1191646|-89.2661091|7563 N River Rd, Byron, IL 61010, United States|7563|N River Rd||Byron|61010|Ogle|IL|USA
+M05|1|1|42.1187914|-89.2676984|7499 N River Rd, Byron, IL 61010, United States|7499|N River Rd||Byron|61010|Ogle|IL|USA
+M06|1|1|42.1181359|-89.2697671|7413 N River Rd, Byron, IL 61010, United States|7413|N River Rd||Byron|61010|Ogle|IL|USA
+M07|1|1|42.1178233|-89.2711861|7371 N River Rd, Byron, IL 61010, United States|7371|N River Rd||Byron|61010|Ogle|IL|USA
+M08|1|1|42.1177985|-89.2715079|7327 N River Rd, Byron, IL 61010, United States|7327|N River Rd||Byron|61010|Ogle|IL|USA
+M09|1|1|42.1177851|-89.2718409|7283 N River Rd, Byron, IL 61010, United States|7283|N River Rd||Byron|61010|Ogle|IL|USA
+M10|1|1|42.1177997|-89.2729042|7171 N River Rd, Byron, IL 61010, United States|7171|N River Rd||Byron|61010|Ogle|IL|USA
+M11|1|1|42.11853|-89.27656|7184 N River Rd, Byron, IL 61010, United States|7184|N River Rd||Byron|61010|Ogle|IL|USA
+M12|1|1|42.1171124|-89.2803218|7075 N River Rd, Byron, IL 61010, United States|7075|N River Rd||Byron|61010|Ogle|IL|USA
+M13|1|1|42.11692|-89.28045|7083 N River Rd, Byron, IL 61010, United States|7083|N River Rd||Byron|61010|Ogle|IL|USA
+M14|1|1|42.1162128|-89.2837862|7015 N River Rd, Byron, IL 61010, United States|7015|N River Rd||Byron|61010|Ogle|IL|USA
+M15|1|1|42.1160923|-89.2842763|6965 N River Rd, Byron, IL 61010, United States|6965|N River Rd||Byron|61010|Ogle|IL|USA
+Z01|1|1|42.07659|-89.28129|4450 N German Church Rd, Byron, IL 61010, United States|4450|N German Church Rd||Byron|61010|Ogle|IL|USA

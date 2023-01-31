@@ -1,0 +1,34 @@
+* <2019-09-18 Wed>
+
+copy data to test
+
+src s3://flowmsp-images/annotated/mehlvillefir
+dst s3://flowmsp-test-image-bucket2/annotated/mehlvillefir
+
+src s3://flowmsp-images/originals/mehlvillefir
+dst s3://flowmsp-test-image-bucket2/originals/mehlvillefir
+
+src s3://flowmsp-images/processed/mehlvillefir
+dst s3://flowmsp-test-image-bucket2/processed/mehlvillefir
+
+for t in annotated originals processed ; do
+    aws --profile flowmsp-prod s3 sync --only-show-errors s3://flowmsp-images/${t}/mehlvillefir $t
+    aws --profile flowmsp-dev  s3 sync --only-show-errors --delete $t s3://flowmsp-test-image-bucket2/${t}/mehlvillefir
+done
+
+
+* <2019-09-21 Sat>
+
+time ./match.py flowmsp-dev locations.json Copy\ of\ Mehlville\ Business\ export\(1\).csv --skip 566 > geocode_results.json
+
+1012 ['SOUTHFIELD APartments', '2612', 'SOUTHFIELD CROSSING DR', '', '1720', 'B']
+Traceback (most recent call last):
+  File "./match.py", line 118, in <module>
+    for recnum, rec in enumerate(r):
+  File "/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd5 in position 2360: invalid continuation byte
+
+real	19m59.058s
+user	1m20.531s
+sys	0m3.285s

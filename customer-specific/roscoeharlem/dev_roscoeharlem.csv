@@ -1,0 +1,509 @@
+tstamp,textRaw,text,address,lat,lon,distance
+2019-09-22 20:34:42,"Subject-HRFD:10223 Monarch Rd (Fire) Msg-Apt 2, Water coming through ceiling","10223 Monarch Rd Fire Apt 2, Water coming through ceiling","10223 Monarch Rd, Roscoe, IL",42.4084667,-89.0405933,1.6143865568873
+2019-09-22 20:34:51,"Subject-HRFD:13888 Pleasant Valley Rd (Fire) Msg-wires in tree, tree poss on fire","13888 Pleasant Valley Rd Fire wires in tree, tree poss on fire","13888 Pleasant Valley Rd, Roscoe, IL",42.4625136,-88.98125069999999,3.6648696427549385
+2019-09-22 20:35:00,Subject-HRFD:825 Ralston (Med) Msg-F not acting right sleeping,825 Ralston Med F not acting right sleeping,"825 Ralston, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-22 20:35:09,Subject-HRFD:Gleasman And Roscoe Rd (Fire) Msg-MVA,Gleasman And Roscoe Rd Fire MVA,"Gleasman And Roscoe Rd, Roscoe, IL",42.4117675,-89.02341520000002,0.7071900144795011
+2019-09-22 20:35:19,"Subject-HRFD:10794 Croix Ct (Med) Msg-76, Feeling Ill","10794 Croix Ct Med 76, Feeling Ill","10794 Croix Ct, Roscoe, IL",42.4179799,-88.9514488,3.0017297002630534
+2019-09-22 20:35:28,Subject-HRFD:2006 Anjali Way #3 (Fire) Msg-CO - NO Symptoms,2006 Anjali Way #3 Fire CO - NO Symptoms,"2006 Anjali Way, Roscoe, IL",42.3683184,-88.99981849999999,3.1834019480800233
+2019-09-22 20:35:37,Subject-HRFD:10966 Chinaberry Ln (Med) Msg-Tbl Bx,10966 Chinaberry Ln Med Tbl Bx,"10966 Chinaberry Ln, Roscoe, IL",42.37866210000001,-89.0388952,2.845697051699562
+2019-09-22 20:35:48,Subject-HRFD:2124 Devon Ave (Med) Msg-DOA,2124 Devon Ave Med DOA,"2124 Devon Ave, Roscoe, IL",42.33634,-89.02530750000001,5.40679132901585
+2019-09-22 20:35:57,"Subject-HRFD:10149 Monarch Rd (Med) Msg-apt 2, fall victim, head inj, was unconscious now alert","10149 Monarch Rd Med apt 2, fall victim, head inj, was unconscious now alert","10149 Monarch Rd, Roscoe, IL",42.4072328,-89.03999619999999,1.6067345014153094
+2019-09-22 20:36:05,"Subject-HRFD:9731 Rambouilet Ridge (Med) Msg-70 yo f, chest pains","9731 Rambouilet Ridge Med 70 yo f, chest pains","9731 Rambouilet Ridge, Roscoe, IL",42.4020546,-89.00019209999999,0.9519333788029222
+2019-09-22 20:36:15,"Subject-HRFD:10343 Monarch Rd (Med) Msg-stage, suicidal subject","10343 Monarch Rd Med stage, suicidal subject","10343 Monarch Rd, Roscoe, IL",42.4099316,-89.04126509999999,1.628085947236157
+2019-09-22 20:36:23,Subject-HRFD:10016 Main St (Med) Msg-70 Trou Breath,10016 Main St Med 70 Trou Breath,"10016 Main St, Roscoe, IL",42.4062643,-89.0096804,0.5225390315590395
+2019-09-22 20:36:32,"Subject-HRFD:I-90 .MM 5 , WB (Fire) Msg-Semi on Fire","I-90 .MM 5 , WB Fire Semi on Fire","I-90 .MM 5 , WB, Roscoe, IL",42.41354219999999,-88.9856156,1.2408183984640269
+2019-09-22 20:36:41,"Subject-HRFD:251 and Garner (Med) Msg-mutual aid, ambo, motor vehicle accident","251 and Garner Med mutual aid, ambo, motor vehicle accident","251 and Garner, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-22 20:36:50,"Subject-HRFD:10402 Baederwood Dr (Med) Msg-pendant alarm, no response","10402 Baederwood Dr Med pendant alarm, no response","10402 Baederwood Dr, Roscoe, IL",42.3731272,-89.0526276,3.5607752795794814
+2019-09-22 20:36:58,Subject-HRFD:8203 Eddington Dr (Fire) Msg-Poss Structure Fire,8203 Eddington Dr Fire Poss Structure Fire,"8203 Eddington Dr, Roscoe, IL",42.3422531,-89.0425899,5.216636423767013
+2019-09-22 20:37:07,Subject-HRFD:647 Poppy Dr (Fire) Msg-Smoke Dectector Issues,647 Poppy Dr Fire Smoke Dectector Issues,"647 Poppy Dr, Roscoe, IL",42.3668811,-89.0455381,3.719221246286681
+2019-09-22 20:37:16,Subject-HRFD:265 Gleasman Rd (Med) Msg-83 F Short of Breath,265 Gleasman Rd Med 83 F Short of Breath,"265 Gleasman Rd, Roscoe, IL",42.40262,-89.03056,1.3110260118578627
+2019-09-22 20:37:24,Subject-HRFD:8301 Mitchell Rd (Fire) Msg-20 F Trouble Breathing 13 wks Preg EAST ENTRANCE,8301 Mitchell Rd Fire 20 F Trouble Breathing 13 wks Preg EAST ENTRANCE,"8301 Mitchell Rd, Roscoe, IL",42.3813085,-88.9935406,2.3954029941633297
+2019-09-22 20:37:33,Subject-HRFD:5393 White Pine Ln (Fire) Msg-80 F Fall Victim,5393 White Pine Ln Fire 80 F Fall Victim,"5393 White Pine Ln, Roscoe, IL",42.3870048,-89.0116797,1.8540920573792323
+2019-09-22 20:37:41,Subject-HRFD:9700 N ALPINE (Med) Msg-SEIZURE,9700 N ALPINE Med SEIZURE,"9700 N ALPINE, Roscoe, IL",42.3633152,-89.0304781,3.6428042708890502
+2019-09-22 20:37:50,"Subject-HRFD:4282 E Rockton Rd (Med) Msg-41 F Tbl Bx, Chest Pain","4282 E Rockton Rd Med 41 F Tbl Bx, Chest Pain","4282 E Rockton Rd, Roscoe, IL",42.457166,-89.0342862,3.240956619137042
+2019-09-22 20:37:58,Subject-HRFD:5601 E Rockton Rd (Med) Msg-elderly f shaking,5601 E Rockton Rd Med elderly f shaking,"5601 E Rockton Rd, Roscoe, IL",42.4567202,-89.0054579,2.9687617033129046
+2019-09-22 20:38:08,"Subject-HRFD:5702 Elevator Rd (Med) Msg-78 M, Lift Assist","5702 Elevator Rd Med 78 M, Lift Assist","5702 Elevator Rd, Roscoe, IL",42.4279056,-89.005646,0.9950562366403456
+2019-09-22 20:38:16,"Subject-HRFD:1555 West lane Rd (Med) Msg-42 M, Chest Pain","1555 West lane Rd Med 42 M, Chest Pain","1555 West lane Rd, Roscoe, IL",42.365137,-89.023198,3.429606180619158
+2019-09-22 20:38:25,"Subject-HRFD:5635 Andrews Dr #5 (Med) Msg-Lift assist, Lift Assist","5635 Andrews Dr #5 Med Lift assist, Lift Assist","5635 Andrews Dr, Roscoe, IL",42.4304498,-89.00706459999999,1.155858965815913
+2019-09-22 20:38:34,Subject-HRFD:8301 Mitchell Rd (Med) Msg-16 M ripped open,8301 Mitchell Rd Med 16 M ripped open,"8301 Mitchell Rd, Roscoe, IL",42.3813085,-88.9935406,2.3954029941633297
+2019-09-22 20:38:43,"Subject-HRFD:6511 Prairie Flower (Med) Msg-70 M, Tbl Bx","6511 Prairie Flower Med 70 M, Tbl Bx","6511 Prairie Flower, Roscoe, IL",42.3952975,-88.98956249999999,1.6481087496320623
+2019-09-22 20:38:52,Subject-HRFD:1260 Turrett Dr (Fire) Msg-poss Haz Mat,1260 Turrett Dr Fire poss Haz Mat,"1260 Turrett Dr, Roscoe, IL",42.3791499,-89.0306274,2.618865907345526
+2019-09-22 20:39:01,Subject-HRFD:1337 glenforest dr (Med) Msg-chest pains,1337 glenforest dr Med chest pains,"1337 glenforest dr, Roscoe, IL",42.3874266,-89.0211631,1.9119991744412068
+2019-09-22 20:39:10,Subject-HRFD:1018 Jessica Trail (Fire) Msg-Structure Fire,1018 Jessica Trail Fire Structure Fire,"1018 Jessica Trail, Roscoe, IL",42.2554279,-89.2261237,15.562142681223953
+2019-09-22 20:39:19,Subject-HRFD:5605 E Rockton Rd (Med) Msg-87 M Trouble Breathing IMMED CARE #6,5605 E Rockton Rd Med 87 M Trouble Breathing IMMED CARE #6,"5605 E Rockton Rd, Roscoe, IL",42.45137,-89.0070428,2.5949174762632974
+2019-09-22 20:39:28,Subject-HRFD:7708 Coopers Hawk Tr (Med) Msg-60 M Poss Broken Leg,7708 Coopers Hawk Tr Med 60 M Poss Broken Leg,"7708 Coopers Hawk Tr, Roscoe, IL",42.3736521,-89.01221950000001,2.7760184274748045
+2019-09-22 20:39:38,Subject-HRFD:1520-1548 West Lane Rd (Fire) Msg-CFA PMAT MATCH,1520-1548 West Lane Rd Fire CFA PMAT MATCH,"1520-1548 West Lane Rd, Roscoe, IL",42.36737660000001,-89.0266889,3.319997904325788
+2019-09-22 20:39:47,Subject-HRFD:11890 Hayloft Ln (Med) Msg-F Fall Victim,11890 Hayloft Ln Med F Fall Victim,"11890 Hayloft Ln, Roscoe, IL",42.4327386,-89.0344909,1.8131901270779205
+2019-09-22 20:39:56,Subject-HRFD:450 Verbena (Med) Msg-F Poss Insulin OD,450 Verbena Med F Poss Insulin OD,"450 Verbena, Roscoe, IL",42.4139415,-89.0340243,1.2352883561034413
+2019-09-22 20:40:05,Subject-HRFD:Contential and West Lane (Fire) Msg-MVA,Contential and West Lane Fire MVA,"Contential and West Lane, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-22 20:40:14,Subject-HRFD:1304 Anvil Dr (Fire) Msg-CFA -shop fire ROSCOE MFG,1304 Anvil Dr Fire CFA -shop fire ROSCOE MFG,"1304 Anvil Dr, Roscoe, IL",42.3759664,-89.0301648,2.8123216270364044
+2019-09-22 20:40:25,"Subject-HRFD:8679 Dutch Elm Ct (Med) Msg-Fall Victim in bathroom, use rear sliding door","8679 Dutch Elm Ct Med Fall Victim in bathroom, use rear sliding door","8679 Dutch Elm Ct, Roscoe, IL",42.3865929,-89.0093271,1.8804233356697466
+2019-09-22 20:40:33,"Subject-HRFD:5604 Tall Pines Parkway (Med) Msg-Apt 2, glass in foot, pd on scene.","5604 Tall Pines Parkway Med Apt 2, glass in foot, pd on scene.","5604 Tall Pines Parkway, Roscoe, IL",42.3992789,-89.00788709999999,1.0097178452318192
+2019-09-22 20:40:42,"Subject-HRFD:5702 Andrerws Dr (Med) Msg-apt 3, 59 yo, not feeling well","5702 Andrerws Dr Med apt 3, 59 yo, not feeling well","5702 Andrerws Dr, Roscoe, IL",42.4296741,-89.0059448,1.1116610093286894
+2019-09-22 20:40:50,"Subject-HRFD:2042 Angili Way (Med) Msg-apt 3 fall, severe paihn","2042 Angili Way Med apt 3 fall, severe paihn","2042 Angili Way, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-22 20:40:50,Subject-RESEND: HRFD:9763 Old River Rd (Med) Msg-77 yo poss stroke,Subject-RESEND: HRFD:9763 Old River Rd (Med) Msg-77 yo poss stroke,,,,
+2019-09-22 20:40:59,Subject-HRFD:5763 Old River Rd (Med) Msg-77 yo poss stroke,5763 Old River Rd Med 77 yo poss stroke,"5763 Old River Rd, Roscoe, IL",42.4446956,-89.0638846,3.4878963556563543
+2019-09-22 20:41:09,"Subject-HRFD:5462 Irving Blvd (Med) Msg-intox male, fall victim, troub breathing","5462 Irving Blvd Med intox male, fall victim, troub breathing","5462 Irving Blvd, Roscoe, IL",42.3825456,-89.0097546,2.1595789787428292
+2019-09-22 20:41:19,Subject-HRFD:11475 N 2nd St (Med) Msg-M Shot Nail in Hip PIC TRAUMA ROOM #1,11475 N 2nd St Med M Shot Nail in Hip PIC TRAUMA ROOM #1,"11475 N 2nd St, Roscoe, IL",42.4275573,-89.0164753,1.0056396163983579
+2019-09-22 20:41:27,Subject-HRFD:2042 Anjali Way  #3 (Med) Msg-M Fall Victim,2042 Anjali Way  #3 Med M Fall Victim,"2042 Anjali Way , Roscoe, IL",42.3680696,-88.99772639999999,3.2192900088230143
+2019-09-22 20:41:37,Subject-HRFD:4282 E Rockton Rd (Med) Msg-16 F CODE P SWEDES IN ROSCOE NORTH ENTRANCE,4282 E Rockton Rd Med 16 F CODE P SWEDES IN ROSCOE NORTH ENTRANCE,"4282 E Rockton Rd, Roscoe, IL",42.457166,-89.0342862,3.240956619137042
+2019-09-22 20:41:46,Subject-HRFD:Swanson and Belvidere (Fire) Msg-MVA ROLL OVER,Swanson and Belvidere Fire MVA ROLL OVER,"Swanson and Belvidere, Roscoe, IL",42.3910094,-88.956987,3.130643975194302
+2019-09-22 20:41:55,Subject-HRFD:7022 Saladino Dr (Fire) Msg-79 F Lift Assist,7022 Saladino Dr Fire 79 F Lift Assist,"7022 Saladino Dr, Roscoe, IL",42.4295212,-88.979715,1.884415574261589
+2019-09-22 20:42:05,Subject-HRFD:11475 N 2nd St (Fire) Msg-70 M Poss Heart Failure PIC ROOM #1,11475 N 2nd St Fire 70 M Poss Heart Failure PIC ROOM #1,"11475 N 2nd St, Roscoe, IL",42.4275573,-89.0164753,1.0056396163983579
+2019-09-22 20:42:14,Subject-HRFD:628 Bayfield (Med) Msg-35 F 39 weeks Preg -Severe Abdominal Pain,628 Bayfield Med 35 F 39 weeks Preg -Severe Abdominal Pain,"628 Bayfield, Roscoe, IL",42.4593782,-89.03072069999999,3.319427352904851
+2019-09-22 20:42:23,Subject-HRFD:5360 McCurry Rd (Fire) Msg-35 M Arm injury due to punching out window,5360 McCurry Rd Fire 35 M Arm injury due to punching out window,"5360 McCurry Rd, Roscoe, IL",42.4423971,-89.0125183,1.976178963419727
+2019-09-22 20:42:32,Subject-HRFD:5447 REIMER DR (Med) Msg-46 M DIZZY,5447 REIMER DR Med 46 M DIZZY,"5447 REIMER DR, Roscoe, IL",42.4254724,-89.0106323,0.8042884871764959
+2019-09-22 20:42:41,Subject-HRFD:9360 ROMELDALE LANE (Med) Msg-71 M FALL BLEEDING LEG,9360 ROMELDALE LANE Med 71 M FALL BLEEDING LEG,"9360 ROMELDALE LANE, Roscoe, IL",42.3964769,-89.00922589999999,1.1984548455729134
+2019-09-22 20:42:51,Subject-HRFD:9181 LEICESTER WAY (Med) Msg-15 M POSS OVERDOSE,9181 LEICESTER WAY Med 15 M POSS OVERDOSE,"9181 LEICESTER WAY, Roscoe, IL",42.393895,-89.006196,1.3889991357045388
+2019-09-22 20:43:01,Subject-HRFD:5689 SOUTHDOWN LANE (Med) Msg-72 F LIFT ASSIT,5689 SOUTHDOWN LANE Med 72 F LIFT ASSIT,"5689 SOUTHDOWN LANE, Roscoe, IL",42.393624,-89.0046935,1.4198488467398265
+2019-09-22 20:43:08,Subject-HRFD:4490 Straw Ln (Med) Msg-7 YO Child Bite by a dog,4490 Straw Ln Med 7 YO Child Bite by a dog,"4490 Straw Ln, Roscoe, IL",42.43486499999999,-89.028717,1.742393959397575
+2019-09-22 20:43:17,Subject-HRFD:I90 mm 5 wb (Fire) Msg-MVA,I90 mm 5 wb Fire MVA,"I90 mm 5 wb, Roscoe, IL",42.41354219999999,-88.9856156,1.2408183984640269
+2019-09-22 20:43:27,Subject-HRFD:6121 Elevator Rd (Med) Msg-11 M irregular heart beat,6121 Elevator Rd Med 11 M irregular heart beat,"6121 Elevator Rd, Roscoe, IL",42.4264884,-88.997166,1.0886867647993077
+2019-09-22 20:43:36,Subject-HRFD:1304 Anvil Dr (Fire) Msg-Automatic Commercial Fire Alarm,1304 Anvil Dr Fire Automatic Commercial Fire Alarm,"1304 Anvil Dr, Roscoe, IL",42.3759664,-89.0301648,2.8123216270364044
+2019-09-22 20:43:46,"Subject-HRFD:8100 Middle Rd (Med) Msg-75 F, Feeling Ill","8100 Middle Rd Med 75 F, Feeling Ill","8100 Middle Rd, Roscoe, IL",42.4853958,-88.95752619999999,5.617660528364858
+2019-09-22 20:43:56,"Subject-HRFD:484 tanya ct (Med) Msg-80 F, Fall Victim","484 tanya ct Med 80 F, Fall Victim","484 tanya ct, Roscoe, IL",42.3629516,-89.049083,4.044652837506168
+2019-09-22 20:44:05,"Subject-HRFD:889 McCurry Rd (Med) Msg-63 M, Tbl Bx","889 McCurry Rd Med 63 M, Tbl Bx","889 McCurry Rd, Roscoe, IL",42.449253,-88.92251700000001,5.091932370225013
+2019-09-22 20:44:14,Subject-HRFD:11036 main st (Med) Msg-pain on side,11036 main st Med pain on side,"11036 main st, Roscoe, IL",42.420762,-89.01017,0.478466133327816
+2019-09-22 20:44:23,Subject-HRFD:7726 hawks view dr (Med) Msg-2 week old chocking,7726 hawks view dr Med 2 week old chocking,"7726 hawks view dr, Roscoe, IL",42.3720297,-89.0112485,2.886260677914945
+2019-09-22 20:44:33,Subject-HRFD:5826 kelmor dr (Med) Msg-stomach pains,5826 kelmor dr Med stomach pains,"5826 kelmor dr, Roscoe, IL",42.4239933,-89.0038343,0.7662419643593972
+2019-09-22 20:44:33,Subject-RESEND: HRFD:841 danica dr (Med) Msg-sharp pains on side,Subject-RESEND: HRFD:841 danica dr (Med) Msg-sharp pains on side,,,,
+2019-09-22 20:44:42,Subject-HRFD:814 danica dr (Med) Msg-sharp pains on side,814 danica dr Med sharp pains on side,"814 danica dr, Roscoe, IL",42.37376690000001,-89.0438271,3.2658564491120985
+2019-09-22 20:44:51,Subject-HRFD:7867 Windspoint (Med) Msg-Fall Victim,7867 Windspoint Med Fall Victim,"7867 Windspoint, Roscoe, IL",42.4464835,-88.962294,3.3162294482979435
+2019-09-22 20:45:01,Subject-HRFD:5000 Prairie Rose Rd (Med) Msg-cardiac problems,5000 Prairie Rose Rd Med cardiac problems,"5000 Prairie Rose Rd, Roscoe, IL",42.436794,-89.019514,1.6597196785137838
+2019-09-22 20:45:10,Subject-HRFD:10149 #2 Monarrch (Med) Msg-stomah pain,10149 #2 Monarrch Med stomah pain,"10149, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-22 20:45:19,Subject-HRFD:I-90 MM3.3.5 WB (Fire) Msg-MVC,I-90 MM3.3.5 WB Fire MVC,"I-90 MM3.3.5 WB, Roscoe, IL",42.41354219999999,-88.9856156,1.2408183984640269
+2019-09-22 20:45:28,"Subject-HRFD:10714 North Second (Fire) Msg-South of Church, Reported Structure Fire","10714 North Second Fire South of Church, Reported Structure Fire","10714 North Second, Roscoe, IL",42.4169383,-89.01344639999999,0.2816636669159227
+2019-09-22 20:45:39,"Subject-HRFD:10001 West Lane (Med) Msg-Onyx Bar, Suicidal Subject","10001 West Lane Med Onyx Bar, Suicidal Subject","10001 West Lane, Roscoe, IL",42.3957736,-89.0088792,1.247577073481135
+2019-09-22 20:45:46,"Subject-HRFD:5601 E Rockton Rd (Med) Msg-assisted living, rm West 3, severe headached","5601 E Rockton Rd Med assisted living, rm West 3, severe headached","5601 E Rockton Rd, Roscoe, IL",42.4567202,-89.0054579,2.9687617033129046
+2019-09-22 20:45:56,"Subject-HRFD:11189 Forest Hill Rd (Fire) Msg-Fire Alarm, Zone 3","11189 Forest Hill Rd Fire Fire Alarm, Zone 3","11189 Forest Hill Rd, Roscoe, IL",42.3818646,-89.01546859999999,2.2250690364349217
+2019-09-22 20:46:06,Subject-HRFD:4318 HONHONEGA RD (Med) Msg-CHEST PAINS,4318 HONHONEGA RD Med CHEST PAINS,"4318 HONHONEGA RD, Roscoe, IL",42.438561,-89.0330724,2.0785721778161608
+2019-09-22 20:46:15,"Subject-HRFD:1304 anvil dr (Fire) Msg-A.F,A","1304 anvil dr Fire A.F,A","1304 anvil dr, Roscoe, IL",42.3759664,-89.0301648,2.8123216270364044
+2019-09-22 20:46:25,Subject-HRFD:9580 HIGHSTONE DR (Med) Msg-77 M ABD PAIN,9580 HIGHSTONE DR Med 77 M ABD PAIN,"9580 HIGHSTONE DR, Roscoe, IL",42.400026,-88.9856387,1.5636151577009854
+2019-09-22 20:46:34,Subject-HRFD:1001 WEST LANE RD (Med) Msg-M FELL BLEEDING MOUTH,1001 WEST LANE RD Med M FELL BLEEDING MOUTH,"1001 WEST LANE RD, Roscoe, IL",42.3660387,-89.0351293,3.542993792677563
+2019-09-22 20:46:44,Subject-HRFD:FOREST HILLS &  RT173 (Fire) Msg-MVA HEAD NECK PAIN,FOREST HILLS &  RT173 Fire MVA HEAD NECK PAIN,"FOREST HILLS &  RT173, Roscoe, IL",40.718106,-73.8448469,793.5607860605946
+2019-09-22 20:46:53,Subject-HRFD:12916 VENTURA BLVD (Med) Msg-M HIT BY BAT,12916 VENTURA BLVD Med M HIT BY BAT,"12916 VENTURA BLVD, Roscoe, IL",42.389261,-89.032625,2.0570204016362337
+2019-09-22 20:47:04,Subject-HRFD:11916 WAIDI AVE (Med) Msg-19 M NOT BREATHING,11916 WAIDI AVE Med 19 M NOT BREATHING,"11916 WAIDI AVE, Roscoe, IL",42.38782800000001,-89.03993799999999,2.363788420246406
+2019-09-22 20:47:14,Subject-HRFD:827 STORY BOOK LANE (Med) Msg-70 M LIFT ASSIT,827 STORY BOOK LANE Med 70 M LIFT ASSIT,"827 STORY BOOK LANE, Roscoe, IL",42.361147,-89.030765,3.790419783842691
+2019-09-22 20:47:24,Subject-HRFD:5575 Andrews Dr #1 (Med) Msg-46 Falleric reaction,5575 Andrews Dr #1 Med 46 Falleric reaction,"5575 Andrews Dr, Roscoe, IL",42.4304612,-89.0081859,1.1509278472053486
+2019-09-22 20:47:33,"Subject-HRFD:5000 Prairie Rose Rd (Med) Msg-60 M , Heart Attack","5000 Prairie Rose Rd Med 60 M , Heart Attack","5000 Prairie Rose Rd, Roscoe, IL",42.436794,-89.019514,1.6597196785137838
+2019-09-22 20:47:42,Subject-HRFD:7680 Hawks ridge (Med) Msg-69 weak,7680 Hawks ridge Med 69 weak,"7680 Hawks ridge, Roscoe, IL",42.3719793,-89.0120888,2.8911051698545513
+2019-09-22 20:47:52,Subject-HRFD:1664 Guetschow Ave (Fire) Msg-Possible struckture,1664 Guetschow Ave Fire Possible struckture,"1664 Guetschow Ave, Roscoe, IL",42.49142519999999,-89.0586527,5.907594625752184
+2019-09-22 20:48:01,Subject-HRFD:5951 E Rockton Rd (Med) Msg-uncon female,5951 E Rockton Rd Med uncon female,"5951 E Rockton Rd, Roscoe, IL",42.4567634,-89.00135759999999,2.9949622440033337
+2019-09-22 20:48:10,Subject-HRFD:11036 main st (Med) Msg-unable to walk,11036 main st Med unable to walk,"11036 main st, Roscoe, IL",42.420762,-89.01017,0.478466133327816
+2019-09-22 20:48:19,Subject-HRFD:1513 westlane (Fire) Msg-,1513 westlane Fire ,"1513 westlane, Roscoe, IL",42.3650168,-89.02715549999999,3.4835555223305645
+2019-09-22 20:48:29,Subject-HRFD:10036 main st (Med) Msg-fall victim head injury,10036 main st Med fall victim head injury,"10036 main st, Roscoe, IL",42.406135,-89.00954809999999,0.531630337708508
+2019-09-22 20:48:38,Subject-HRFD:5000 Prairie Rose Rd (Med) Msg-30 y/o chest pains,5000 Prairie Rose Rd Med 30 y/o chest pains,"5000 Prairie Rose Rd, Roscoe, IL",42.436794,-89.019514,1.6597196785137838
+2019-09-22 20:48:47,Subject-HRFD:6545 Windflower Ln (Med) Msg-3 year old stuck in swing,6545 Windflower Ln Med 3 year old stuck in swing,"6545 Windflower Ln, Roscoe, IL",42.3926271,-88.9894247,1.7990585639848184
+2019-09-22 20:48:56,"Subject-HRFD:5109 Rock rose ct (Med) Msg-30 M, Tbl Bx","5109 Rock rose ct Med 30 M, Tbl Bx","5109 Rock rose ct, Roscoe, IL",42.4303877,-89.01752239999999,1.2077326002851563
+2019-09-22 20:49:05,Subject-HRFD:5445 Broad St (Med) Msg-Lift Assist,5445 Broad St Med Lift Assist,"5445 Broad St, Roscoe, IL",42.4171981,-89.0105762,0.23500546720838275
+2019-09-22 20:49:15,"Subject-HRFD:10321 Elsworth Dr (Med) Msg-42 yo, poss seizure, in car outside of residence","10321 Elsworth Dr Med 42 yo, poss seizure, in car outside of residence","10321 Elsworth Dr, Roscoe, IL",42.4107597,-88.9619013,2.462763762922213
+2019-09-22 20:49:24,"Subject-HRFD:7526 West Lane (Fire) Msg-in front of pet smart, bush fire","7526 West Lane Fire in front of pet smart, bush fire","7526 West Lane, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-22 20:49:33,Subject-HRFD:4781  Rockton Rd (Fire) Msg-UNOCCUPIED Lock out RED KIA - EAST of Wal-Mart Gas Station,4781  Rockton Rd Fire UNOCCUPIED Lock out RED KIA - EAST of Wal-Mart Gas Station,"4781  Rockton Rd, Roscoe, IL",42.4542035,-89.0245048,2.885144929313215
+2019-09-22 20:51:11,Subject-HRFD:1770 West Lane Rd (Med) Msg-M Poss Seizure MEIJER IN DELI,1770 West Lane Rd Med M Poss Seizure MEIJER IN DELI,"1770 West Lane Rd, Roscoe, IL",42.3683822,-89.01165929999999,3.138492222331848
+2019-09-22 20:51:20,Subject-HRFD:11633 Southgate Rd (Med) Msg-7 F Broken Fore Arm STONE CREEK NURSES OFFICE,11633 Southgate Rd Med 7 F Broken Fore Arm STONE CREEK NURSES OFFICE,"11633 Southgate Rd, Roscoe, IL",42.4296865,-88.97266429999999,2.1950051978138476
+2019-09-22 20:51:30,Subject-HRFD:944 Windfiled Ct (Fire) Msg-71 F High Blood Sugar,944 Windfiled Ct Fire 71 F High Blood Sugar,"944 Windfiled Ct, Roscoe, IL",42.3723009,-89.0410225,3.2799126809381587
+2019-09-22 20:51:37,Subject-HRFD:10914 N SECOND ST (Med) Msg-35 M PASSED OUT TRD MFG,10914 N SECOND ST Med 35 M PASSED OUT TRD MFG,"10914 N SECOND ST, Roscoe, IL",42.419711,-89.01405319999999,0.4585769155001306
+2019-09-22 20:51:47,Subject-HRFD:i-90 MM 5  EB (Fire) Msg-SEMI FIRE,i-90 MM 5  EB Fire SEMI FIRE,"i-90 MM 5  EB, Roscoe, IL",42.41354219999999,-88.9856156,1.2408183984640269
+2019-09-22 20:51:56,Subject-HRFD:9377 Southdown Ct (Med) Msg-55 M Rapid Heart Rate,9377 Southdown Ct Med 55 M Rapid Heart Rate,"9377 Southdown Ct, Roscoe, IL",42.3967158,-88.9980066,1.328303857502879
+2019-09-22 20:52:06,Subject-HRFD:8405 Tamarack Dr (Med) Msg-94 f Back Pain,8405 Tamarack Dr Med 94 f Back Pain,"8405 Tamarack Dr, Roscoe, IL",42.3824332,-89.0059557,2.176572396086758
+2019-09-22 20:52:15,Subject-HRFD:5715 CYPRASS LANE (Fire) Msg-815-636-9398,5715 CYPRASS LANE Fire 815-636-9398,"5715 CYPRASS LANE, Roscoe, IL",42.3835175,-89.0066171,2.099105170247502
+2019-09-22 20:52:24,Subject-HRFD:1001 WEST LANE (Med) Msg-F FACIAL INJURY,1001 WEST LANE Med F FACIAL INJURY,"1001 WEST LANE, Roscoe, IL",42.3660387,-89.0351293,3.542993792677563
+2019-09-22 20:52:35,Subject-HRFD:591 RIVER COVE CRT (Med) Msg-21 M DIABETIC ISSUE,591 RIVER COVE CRT Med 21 M DIABETIC ISSUE,"591 RIVER COVE CRT, Roscoe, IL",42.3803827,-89.0471053,2.9931843949746773
+2019-09-22 20:52:44,Subject-HRFD:7433 ADRIANNA DR (Med) Msg-4 YR LEG STUCK IN BIKE,7433 ADRIANNA DR Med 4 YR LEG STUCK IN BIKE,"7433 ADRIANNA DR, Roscoe, IL",42.4270719,-88.97193999999999,2.1443334961626563
+2019-09-22 20:52:53,Subject-HRFD:5000 Prairie Rose Rd (Med) Msg-,5000 Prairie Rose Rd Med ,"5000 Prairie Rose Rd, Roscoe, IL",42.436794,-89.019514,1.6597196785137838
+2019-09-22 20:53:02,Subject-HRFD:223 OSPREY RIDGE (Med) Msg-78 M DIZZY,223 OSPREY RIDGE Med 78 M DIZZY,"223 OSPREY RIDGE, Roscoe, IL",42.3787388,-89.0049736,2.435256685405741
+2019-09-22 20:53:14,Subject-HRFD:10402 Baederwood Dr (Med) Msg-Medical Alarm,10402 Baederwood Dr Med Medical Alarm,"10402 Baederwood Dr, Roscoe, IL",42.3731272,-89.0526276,3.5607752795794814
+2019-09-22 20:53:20,Subject-HRFD:6920 Prairie Hill Rd (Fire) Msg-MVA,6920 Prairie Hill Rd Fire MVA,"6920 Prairie Hill Rd, Roscoe, IL",42.4718819,-88.9816398,4.258719718652589
+2019-09-22 20:53:28,"Subject-HRFD:5571 Speckled hawk trail (Med) Msg-75, Seizures","5571 Speckled hawk trail Med 75, Seizures","5571 Speckled hawk trail, Roscoe, IL",42.377752,-89.006393,2.4967903772469495
+2019-09-22 20:53:38,"Subject-HRFD:11036 Main St (Med) Msg-48 M, Fall Victim","11036 Main St Med 48 M, Fall Victim","11036 Main St, Roscoe, IL",42.420762,-89.01017,0.478466133327816
+2019-09-22 20:53:48,"Subject-HRFD:11214 Corrigan (Med) Msg-73 M, Feeling Ill","11214 Corrigan Med 73 M, Feeling Ill","11214 Corrigan, Roscoe, IL",42.42422699999999,-88.9444709,3.4208381096545573
+2019-09-22 20:53:57,Subject-HRFD:5635 Andrew Dr #5 (Fire) Msg-,5635 Andrew Dr #5 Fire ,"5635 Andrew Dr, Roscoe, IL",42.4304498,-89.00706459999999,1.155858965815913
+2019-09-22 20:54:06,Subject-HRFD:6647 Meadowbrook (Med) Msg-Medical alarm,6647 Meadowbrook Med Medical alarm,"6647 Meadowbrook, Roscoe, IL",42.3974262,-88.98702139999999,1.627524362755307
+2019-09-22 20:54:16,Subject-HRFD:10308 Metal mark #2 (Med) Msg-25 F in pain,10308 Metal mark #2 Med 25 F in pain,"10308 Metal mark, Roscoe, IL",42.4089869,-89.042958,1.7250042421475111
+2019-09-22 20:54:25,Subject-HRFD:6164 All World Way (Fire) Msg-afa,6164 All World Way Fire afa,"6164 All World Way, Roscoe, IL",42.460984,-88.997108,3.3192592402238894
+2019-09-22 20:54:35,Subject-HRFD:10181 Monarch Road (Fire) Msg-fall victim,10181 Monarch Road Fire fall victim,"10181 Monarch Road, Roscoe, IL",42.4078497,-89.04029469999999,1.6099281583904828
+2019-09-22 20:54:45,Subject-HRFD:12504 Greenview Ci (Med) Msg-61 F Abdominal Pan,12504 Greenview Ci Med 61 F Abdominal Pan,"12504 Greenview Ci, Roscoe, IL",42.4428022,-88.9733045,2.7376077641973198
+2019-09-22 20:54:55,Subject-HRFD:5 3/4 I90 (Fire) Msg-Multi car accident,5 3/4 I90 Fire Multi car accident,"5 3/4 I90, Roscoe, IL",45.69146749999999,-108.687121,1002.8189029346361
+2019-09-22 20:55:05,Subject-HRFD:706 Danica Dr (Fire) Msg-Tree Fire,706 Danica Dr Fire Tree Fire,"706 Danica Dr, Roscoe, IL",42.3739119,-89.0452768,3.297537400604226
+2019-09-22 20:55:12,Subject-HRFD:251 no of  elevator rd (Fire) Msg-car fire,251 no of  elevator rd Fire car fire,"251 no of  elevator rd, Roscoe, IL",42.4130931,-89.0128081,0.1585995619853029
+2019-09-22 20:55:22,Subject-HRFD:4462 Woodcliff Ln (Med) Msg-trouble breathing,4462 Woodcliff Ln Med trouble breathing,"4462 Woodcliff Ln, Roscoe, IL",42.4413408,-89.0304594,2.170944348710628
+2019-09-22 20:55:31,Subject-HRFD:9975 Bitterroot Rd (Med) Msg-uncon person,9975 Bitterroot Rd Med uncon person,"9975 Bitterroot Rd, Roscoe, IL",42.4063381,-89.0069906,0.5379443258562702
+2019-09-22 20:55:40,Subject-HRFD:5755 Elevator Rd (Med) Msg-confused person,5755 Elevator Rd Med confused person,"5755 Elevator Rd, Roscoe, IL",42.427541,-89.0044726,0.9856096806873866
+2019-09-22 20:55:52,Subject-HRFD:bridge and 251 (Fire) Msg-auto acc,bridge and 251 Fire auto acc,"bridge and 251, Roscoe, IL",41.3236793,-89.1200001,75.4524134738298
+2019-09-22 20:55:59,Subject-HRFD:5445 Broad St (Med) Msg-fall victim,5445 Broad St Med fall victim,"5445 Broad St, Roscoe, IL",42.4171981,-89.0105762,0.23500546720838275
+2019-09-22 20:56:10,Subject-HRFD:6264 TIMBERLYNE WAY (Med) Msg-18 M PASSED OUT,6264 TIMBERLYNE WAY Med 18 M PASSED OUT,"6264 TIMBERLYNE WAY, Roscoe, IL",42.3790778,-88.9931496,2.546923355672077
+2019-09-22 20:56:20,Subject-HRFD:10016 Main St (Fire) Msg-70 M Trouble Breathing,10016 Main St Fire 70 M Trouble Breathing,"10016 Main St, Roscoe, IL",42.4062643,-89.0096804,0.5225390315590395
+2019-09-22 20:56:29,Subject-HRFD:384 Patti Ln (Med) Msg-78 M Fall Victim,384 Patti Ln Med 78 M Fall Victim,"384 Patti Ln, Roscoe, IL",42.3648307,-89.0508926,3.980577922253575
+2019-09-22 20:56:39,Subject-HRFD:11722 Parkway (Fire) Msg-F Anxiety Attack,11722 Parkway Fire F Anxiety Attack,"11722 Parkway, Roscoe, IL",42.4302265,-89.01024869999999,1.1316547904005847
+2019-09-22 20:56:48,Subject-HRFD:7172 Salzbrenner (Fire) Msg-71 F Fall Victim,7172 Salzbrenner Fire 71 F Fall Victim,"7172 Salzbrenner, Roscoe, IL",42.3736249,-88.99422299999999,2.8884865519089558
+2019-09-22 20:56:57,Subject-HRFD:1009 West Lane Rd (Fire) Msg-M Sick ON BENCH OUTSIDE OF TJ MAXX,1009 West Lane Rd Fire M Sick ON BENCH OUTSIDE OF TJ MAXX,"1009 West Lane Rd, Roscoe, IL",42.3638916,-89.0350321,3.679643495529341
+2019-09-22 20:57:06,Subject-HRFD:7328 Briarcliff Dr (Fire) Msg-48 F Ruptured Verricose Vein,7328 Briarcliff Dr Fire 48 F Ruptured Verricose Vein,"7328 Briarcliff Dr, Roscoe, IL",42.4230933,-88.9735101,1.9664315671093149
+2019-09-22 20:57:16,Subject-HRFD:North Second And Bridge (Med) Msg-unknown med,North Second And Bridge Med unknown med,"North Second And Bridge, Roscoe, IL",42.43145380000001,-89.0160547,1.2566219732143569
+2019-09-22 20:57:26,Subject-HRFD:13910 Dearborn Ave (Med) Msg-tooth pain,13910 Dearborn Ave Med tooth pain,"13910 Dearborn Ave, Roscoe, IL",42.4606721,-89.0204163,3.2775763487428873
+2019-09-22 20:57:35,Subject-HRFD:9833 North Alpine (Med) Msg-woman hurt,9833 North Alpine Med woman hurt,"9833 North Alpine, Roscoe, IL",42.36744230000001,-89.0276409,3.3285906354124073
+2019-09-22 20:57:47,Subject-HRFD:13477 Quality Dr (Med) Msg-seizure,13477 Quality Dr Med seizure,"13477 Quality Dr, Roscoe, IL",42.4560101,-88.9981,2.9727316421813414
+2019-09-22 20:57:56,Subject-HRFD:11468 joncey (Med) Msg-76 F side pain,11468 joncey Med 76 F side pain,"11468 joncey, Roscoe, IL",42.4273196,-89.0000427,1.057919817298033
+2019-09-22 20:58:05,Subject-HRFD:9951 Rock cut Crossing (Med) Msg-71 M Poss stroke,9951 Rock cut Crossing Med 71 M Poss stroke,"9951 Rock cut Crossing, Roscoe, IL",42.3639963,-89.01113649999999,3.440492714358003
+2019-09-22 20:58:15,Subject-HRFD:9907 Debbie Ln (Med) Msg-82 M confused,9907 Debbie Ln Med 82 M confused,"9907 Debbie Ln, Roscoe, IL",42.36292299999999,-89.0526089,4.1387842579045175
+2019-09-22 20:58:25,Subject-HRFD:1550 West Lane (Fire) Msg-Automatic Commercial Fire Alarm,1550 West Lane Fire Automatic Commercial Fire Alarm,"1550 West Lane, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-22 20:58:36,Subject-HRFD:1322 Gardner St (Fire) Msg-Commercial Fire,1322 Gardner St Fire Commercial Fire,"1322 Gardner St, Roscoe, IL",42.4918058,-89.0215552,5.414925318730392
+2019-09-22 20:58:45,Subject-HRFD:2104 Edgerock Rd (Med) Msg-32 F Mis carriage`,2104 Edgerock Rd Med 32 F Mis carriage`,"2104 Edgerock Rd, Roscoe, IL",42.4583062,-89.0332777,3.294643614761727
+2019-09-22 20:58:55,Subject-HRFD:1520 West Lane Rd (Fire) Msg-Automatic Commercial Fire Alarm,1520 West Lane Rd Fire Automatic Commercial Fire Alarm,"1520 West Lane Rd, Roscoe, IL",42.36737660000001,-89.0266889,3.319997904325788
+2019-09-22 20:59:05,Subject-HRFD:4662 Wild Deer Ct (Med) Msg-67 M DOA,4662 Wild Deer Ct Med 67 M DOA,"4662 Wild Deer Ct, Roscoe, IL",42.427174,-89.02587,1.2317423802963896
+2019-09-22 20:59:14,Subject-HRFD:13638 Briarwood Ln (Med) Msg-71 M Mediical alarm,13638 Briarwood Ln Med 71 M Mediical alarm,"13638 Briarwood Ln, Roscoe, IL",42.4594882,-88.9682584,3.802242437483057
+2019-09-22 20:59:23,"Subject-HRFD:5601 E Rockton Rd (Med) Msg-83 M, Seizures","5601 E Rockton Rd Med 83 M, Seizures","5601 E Rockton Rd, Roscoe, IL",42.4567202,-89.0054579,2.9687617033129046
+2019-09-22 20:59:33,Subject-HRFD:4781 Rockton Rd (Fire) Msg-Lockout,4781 Rockton Rd Fire Lockout,"4781 Rockton Rd, Roscoe, IL",42.4542035,-89.0245048,2.885144929313215
+2019-09-22 20:59:42,"Subject-HRFD:2042 Anjali Way  #3 (Med) Msg-96 M, Fall Victim","2042 Anjali Way  #3 Med 96 M, Fall Victim","2042 Anjali Way , Roscoe, IL",42.3680696,-88.99772639999999,3.2192900088230143
+2019-09-22 20:59:51,"Subject-HRFD:14808 Gridley (Med) Msg-19 yof, all over body pain, seizure disorder","14808 Gridley Med 19 yof, all over body pain, seizure disorder","14808 Gridley, Roscoe, IL",42.4756952,-89.0031806,4.283569520088389
+2019-09-22 21:00:00,"Subject-HRFD:7455 Silo St (Med) Msg-battery victim, stage for police","7455 Silo St Med battery victim, stage for police","7455 Silo St, Roscoe, IL",42.3751092,-88.9971078,2.7514757842750766
+2019-09-22 21:00:09,"Subject-HRFD:303 Mccurry Rd (Med) Msg-Code, CPR in Prgress","303 Mccurry Rd Med Code, CPR in Prgress","303 Mccurry Rd, Roscoe, IL",42.4496759,-88.934045,4.599238571728717
+2019-09-22 21:00:19,Subject-HRFD:540 East Rockton Rd (Fire) Msg-CO Alarms NO SYMPTOMS,540 East Rockton Rd Fire CO Alarms NO SYMPTOMS,"540 East Rockton Rd, Roscoe, IL",42.4561247,-89.0390953,3.2792310442660955
+2019-09-22 21:00:28,Subject-HRFD:8641 Wild Cherry Ct (Med) Msg-f Fall Victim,8641 Wild Cherry Ct Med f Fall Victim,"8641 Wild Cherry Ct, Roscoe, IL",42.3861019,-89.0103986,1.9142953889106866
+2019-09-22 21:00:38,Subject-HRFD:5000 Prairie Rose Rd (Fire) Msg-82 F Heart Issues RMH IN ROSCOE ROOM #D9,5000 Prairie Rose Rd Fire 82 F Heart Issues RMH IN ROSCOE ROOM #D9,"5000 Prairie Rose Rd, Roscoe, IL",42.436794,-89.019514,1.6597196785137838
+2019-09-22 21:00:47,Subject-HRFD:4282 E Rockton Rd (Med) Msg-89 M Low BP & Tachacardia SWEDES IN ROSCOE ROOM # 7,4282 E Rockton Rd Med 89 M Low BP & Tachacardia SWEDES IN ROSCOE ROOM # 7,"4282 E Rockton Rd, Roscoe, IL",42.457166,-89.0342862,3.240956619137042
+2019-09-22 21:00:56,Subject-HRFD:12732 Menominee Tr (Med) Msg-Fall Dectection from Medical Alarm,12732 Menominee Tr Med Fall Dectection from Medical Alarm,"12732 Menominee Tr, Roscoe, IL",42.4467007,-88.954497,3.6282161642378843
+2019-09-22 21:01:05,Subject-HRFD:1123 Brentwood (Med) Msg-84 F Poss CVA,1123 Brentwood Med 84 F Poss CVA,"1123 Brentwood, Roscoe, IL",42.3834638,-89.02504619999999,2.2353092997471395
+2019-09-22 21:01:17,Subject-HRFD:535 GLEN FOREST DR (Med) Msg-64 F FALL SOB,535 GLEN FOREST DR Med 64 F FALL SOB,"535 GLEN FOREST DR, Roscoe, IL",42.3872934,-89.0372529,2.3060080131828853
+2019-09-22 21:01:25,Subject-HRFD:10070 William TR (Med) Msg-34 F Vomitting,10070 William TR Med 34 F Vomitting,"10070 William TR, Roscoe, IL",42.4076966,-88.9671733,2.224709683016474
+2019-09-22 21:01:34,Subject-HRFD:5647 Flat Willow (Med) Msg-54 FAbdominbal pain,5647 Flat Willow Med 54 FAbdominbal pain,"5647 Flat Willow, Roscoe, IL",42.4071037,-89.0066918,0.49217682512414035
+2019-09-22 21:01:44,"Subject-HRFD:3066 Merseyshire Ln (Med) Msg-74 M, Tbl Bx","3066 Merseyshire Ln Med 74 M, Tbl Bx","3066 Merseyshire Ln, Roscoe, IL",42.373618,-88.99190399999999,2.924049955086899
+2019-09-22 21:01:55,"Subject-HRFD:10149 Monarch Rd #2 (Med) Msg-73, Fall Victim","10149 Monarch Rd #2 Med 73, Fall Victim","10149 Monarch Rd, Roscoe, IL",42.4072328,-89.03999619999999,1.6067345014153094
+2019-09-22 21:02:05,"Subject-HRFD:4682 E Rockton Rd 102 (Med) Msg-78 F, Tbl Bx","4682 E Rockton Rd 102 Med 78 F, Tbl Bx","4682 E Rockton Rd 102, Roscoe, IL",42.456884,-89.0255498,3.0776858331763397
+2019-09-22 21:02:16,Subject-HRFD:1921 lakindale Dr (Fire) Msg-Lockout,1921 lakindale Dr Fire Lockout,"1921 lakindale Dr, Roscoe, IL",42.3721345,-89.00334869999999,2.897458420596233
+2019-09-22 21:02:25,Subject-HRFD:10337 Ellsworth Dr (Med) Msg-75 M un respnsive,10337 Ellsworth Dr Med 75 M un respnsive,"10337 Ellsworth Dr, Roscoe, IL",42.4110082,-88.9617705,2.4680097291812033
+2019-09-22 21:02:35,"Subject-HRFD:9830 Fantail Place (Med) Msg-65 yom, Lift Assist, no injury","9830 Fantail Place Med 65 yom, Lift Assist, no injury","9830 Fantail Place, Roscoe, IL",42.4034251,-89.0143669,0.7542997925517503
+2019-09-22 21:02:45,Subject-HRFD:1515 Blackhawk Blvd (Fire) Msg-fair oaks nursing home,1515 Blackhawk Blvd Fire fair oaks nursing home,"1515 Blackhawk Blvd, Roscoe, IL",42.4790169,-89.044894,4.842269314699835
+2019-09-22 21:02:53,"Subject-HRFD:9830 Fantail Place (Med) Msg-65 lift assist, no injury","9830 Fantail Place Med 65 lift assist, no injury","9830 Fantail Place, Roscoe, IL",42.4034251,-89.0143669,0.7542997925517503
+2019-09-22 21:03:03,"Subject-HRFD:4843 Crown Point (Med) Msg-58 yof chest and back pain, nv","4843 Crown Point Med 58 yof chest and back pain, nv","4843 Crown Point, Roscoe, IL",42.4272251,-89.02254459999999,1.1288729503504826
+2019-09-22 21:03:13,Subject-HRFD:834 Windfield Lane (Fire) Msg-smell of natural gas outside / inside of residence,834 Windfield Lane Fire smell of natural gas outside / inside of residence,"834 Windfield Lane, Roscoe, IL",42.3721559,-89.0420675,3.3149043708187698
+2019-09-22 21:03:22,"Subject-HRFD:5345 White Pine Lane (Fire) Msg-strong odor of natural gas, outside","5345 White Pine Lane Fire strong odor of natural gas, outside","5345 White Pine Lane, Roscoe, IL",42.3868566,-89.0129104,1.8684889021112372
+2019-09-22 21:03:32,"Subject-HRFD:602 Althea (Fire) Msg-poss transformer fire, backyard","602 Althea Fire poss transformer fire, backyard","602 Althea, Roscoe, IL",42.3684271,-89.0465829,3.653796980753077
+2019-09-22 21:03:42,Subject-HRFD:I-90 MM3  EAST BOUND (Fire) Msg-MVA,I-90 MM3  EAST BOUND Fire MVA,"I-90 MM3  EAST BOUND, Roscoe, IL",42.41354219999999,-88.9856156,1.2408183984640269
+2019-09-22 21:03:49,Subject-HRFD:15366 Wedgewood Dr (Fire) Msg-F Poss Stroke,15366 Wedgewood Dr Fire F Poss Stroke,"15366 Wedgewood Dr, Roscoe, IL",42.4841671,-88.9895811,4.964221333542587
+2019-09-22 21:03:58,Subject-HRFD:1526 West Lane Rd (Med) Msg-Seizure PET SMART-- PD WILL MEET @ DOOR,1526 West Lane Rd Med Seizure PET SMART-- PD WILL MEET @ DOOR,"1526 West Lane Rd, Roscoe, IL",42.3675021,-89.0256249,3.29790701891912
+2019-09-22 21:04:07,Subject-HRFD:9330 Prairie View Ct (Fire) Msg-52 M Poss Dislocated Knee,9330 Prairie View Ct Fire 52 M Poss Dislocated Knee,"9330 Prairie View Ct, Roscoe, IL",42.3962483,-88.98629269999999,1.7111832868160668
+2019-09-22 21:04:16,Subject-HRFD:15366  Wedgewood (Med) Msg-77 F Fall Victim,15366  Wedgewood Med 77 F Fall Victim,"15366  Wedgewood, Roscoe, IL",42.4841671,-88.9895811,4.964221333542587
+2019-09-22 21:04:27,Subject-HRFD:i-90 North of Toll Plaza   EAST BOUND (Fire) Msg-VEHICLE fIRE,i-90 North of Toll Plaza   EAST BOUND Fire VEHICLE fIRE,"i-90 North of Toll Plaza   EAST BOUND, Roscoe, IL",42.41354219999999,-88.9856156,1.2408183984640269
+2019-09-22 21:04:36,Subject-HRFD:8410 Tamarack Dr (Med) Msg-84 F Fall Victim,8410 Tamarack Dr Med 84 F Fall Victim,"8410 Tamarack Dr, Roscoe, IL",42.3826148,-89.0066358,2.1611474694780934
+2019-09-22 21:04:46,Subject-HRFD:5702 Elevator Rd (Fire) Msg-78 M Fall Victim,5702 Elevator Rd Fire 78 M Fall Victim,"5702 Elevator Rd, Roscoe, IL",42.4279056,-89.005646,0.9950562366403456
+2019-09-22 21:04:56,Subject-HRFD:9806 Queen Oaks (Fire) Msg-91 F Chest & Leg pain,9806 Queen Oaks Fire 91 F Chest & Leg pain,"9806 Queen Oaks, Roscoe, IL",42.361699,-89.0545195,4.2623478527820895
+2019-09-22 21:05:06,Subject-HRFD:9540 GARY DR (Med) Msg-72 F UNKNOWN MEDICAL,9540 GARY DR Med 72 F UNKNOWN MEDICAL,"9540 GARY DR, Roscoe, IL",42.3544367,-89.05135899999999,4.6167292628388825
+2019-09-22 21:05:16,Subject-HRFD:I90 MM 3.5 WEST BOUND (Fire) Msg-CAR FIRE,I90 MM 3.5 WEST BOUND Fire CAR FIRE,"I90 MM 3.5 WEST BOUND, Roscoe, IL",42.41354219999999,-88.9856156,1.2408183984640269
+2019-09-22 21:05:26,Subject-HRFD:8073 Burr oak Rd (Med) Msg-Fall Victim head injury,8073 Burr oak Rd Med Fall Victim head injury,"8073 Burr oak Rd, Roscoe, IL",42.4165901,-88.9590781,2.6048454090837305
+2019-09-22 21:05:36,Subject-HRFD:9228 N Alpine (Med) Msg-Seizures,9228 N Alpine Med Seizures,"9228 N Alpine, Roscoe, IL",42.3565993,-89.02948880000001,4.075966017277594
+2019-09-22 21:05:46,Subject-HRFD:9430 Sagewood (Med) Msg-med reaction,9430 Sagewood Med med reaction,"9430 Sagewood, Roscoe, IL",42.3971076,-88.9966803,1.3372285199542204
+2019-09-22 21:05:55,Subject-HRFD:7166 Greenlee Dr (Fire) Msg-Fire Alarm,7166 Greenlee Dr Fire Fire Alarm,"7166 Greenlee Dr, Roscoe, IL",42.373956,-88.96314799999999,3.645632566889677
+2019-09-22 21:06:05,Subject-HRFD:5445 Broad St (Med) Msg-Lift Assist,5445 Broad St Med Lift Assist,"5445 Broad St, Roscoe, IL",42.4171981,-89.0105762,0.23500546720838275
+2019-09-22 21:06:15,Subject-HRFD:11892 Balsa ln (Med) Msg-trouble breathing,11892 Balsa ln Med trouble breathing,"11892 Balsa ln, Roscoe, IL",42.4329647,-89.0317099,1.7293835078263031
+2019-09-22 21:06:25,Subject-HRFD:14933 Lang Dr (Med) Msg-cant walk,14933 Lang Dr Med cant walk,"14933 Lang Dr, Roscoe, IL",42.4773823,-89.0009206,4.41014419836549
+2019-09-22 21:06:33,Subject-HRFD:10595 Main St (Med) Msg-Diab. Symp.,10595 Main St Med Diab. Symp.,"10595 Main St, Roscoe, IL",42.41449739999999,-89.0090823,0.06110386457352616
+2019-09-22 21:06:41,Subject-HRFD:13309 Wynstone Way (Med) Msg-back pain,13309 Wynstone Way Med back pain,"13309 Wynstone Way, Roscoe, IL",42.45346300000001,-89.0322326,2.964655103172864
+2019-09-22 21:06:56,Subject-HRFD:1401 Otto Rd (Med) Msg-sick person,1401 Otto Rd Med sick person,"1401 Otto Rd, Roscoe, IL",42.385406,-89.0214749,2.049948155440434
+2019-09-22 21:08:36,Subject-HRFD:6690 Argyle Rd (Med) Msg-seizure,6690 Argyle Rd Med seizure,"6690 Argyle Rd, Roscoe, IL",,,
+2019-09-22 21:08:50,Subject-HRFD:9936 Gentian Dr (Med) Msg-72 F abdominal Pain,9936 Gentian Dr Med 72 F abdominal Pain,"9936 Gentian Dr, Roscoe, IL",42.3666274,-89.0450716,3.7228861704939695
+2019-09-22 21:09:02,Subject-HRFD:9605 Ritter Dr (Med) Msg-M Drug related,9605 Ritter Dr Med M Drug related,"9605 Ritter Dr, Roscoe, IL",42.3546059,-89.0532245,4.651124395607064
+2019-09-22 21:09:12,Subject-HRFD:7285 Rolling hills Ln (Med) Msg-90 F in pain,7285 Rolling hills Ln Med 90 F in pain,"7285 Rolling hills Ln, Roscoe, IL",42.3742375,-89.0001118,2.778264676879092
+2019-09-22 21:09:28,Subject-HRFD:5712 TallPines Pkwy #3 (Med) Msg-54 F asthma attack,5712 TallPines Pkwy #3 Med 54 F asthma attack,"5712 TallPines Pkwy, Roscoe, IL",42.39933509999999,-89.0054966,1.025446935083398
+2019-09-22 21:09:42,"Subject-HRFD:9419 Lswson Dr (Med) Msg-51 yo, flu, troub breath","9419 Lswson Dr Med 51 yo, flu, troub breath","9419 Lswson Dr, Roscoe, IL",42.3587375,-89.036917,4.046813055741305
+2019-09-22 21:09:54,"Subject-HRFD:10143 Metalmark (Med) Msg-apt 2, diabetic problem, low sugar","10143 Metalmark Med apt 2, diabetic problem, low sugar","10143 Metalmark, Roscoe, IL",42.4074011,-89.04146589999999,1.6758408383318342
+2019-09-22 21:10:03,"Subject-HRFD:10965 Branding Iron Ln (Fire) Msg-vehicle fire, next to garage","10965 Branding Iron Ln Fire vehicle fire, next to garage","10965 Branding Iron Ln, Roscoe, IL",42.4201443,-88.9808176,1.5485046460131107
+2019-09-22 21:10:13,Subject-HRFD:9229 N Alpine Rd (Med) Msg-foot ball injury,9229 N Alpine Rd Med foot ball injury,"9229 N Alpine Rd, Roscoe, IL",42.35737,-89.026274,3.9865847606728684
+2019-09-22 21:10:23,Subject-HRFD:corrigan and  south down (Fire) Msg-motorcycle accident,corrigan and  south down Fire motorcycle accident,"corrigan and  south down, Roscoe, IL",42.4241056,-88.9431286,3.486278598747047
+2019-09-22 21:10:36,"Subject-HRFD:9229 N Alpine Rd (Fire) Msg-High School, Lockout, dodge Journey, Gray, neear athletic entrance","9229 N Alpine Rd Fire High School, Lockout, dodge Journey, Gray, neear athletic entrance","9229 N Alpine Rd, Roscoe, IL",42.35737,-89.026274,3.9865847606728684
+2019-09-22 21:10:49,"Subject-HRFD:491 W Hononegah Rd (Med) Msg-78 yo fall victim, head injury","491 W Hononegah Rd Med 78 yo fall victim, head injury","491 W Hononegah Rd, Roscoe, IL",42.4404795,-89.037936,2.3327909508502667
+2019-09-22 21:10:59,Subject-HRFD:5631 Irving Blvd (Med) Msg-71 M Several Bee stings,5631 Irving Blvd Med 71 M Several Bee stings,"5631 Irving Blvd, Roscoe, IL",42.382112,-89.0073062,2.1934316812422643
+2019-09-22 21:11:11,Subject-HRFD:5390 Elevator Rd (Fire) Msg-M Disorderly Subject Assit PD @ BACKYARD BAR,5390 Elevator Rd Fire M Disorderly Subject Assit PD @ BACKYARD BAR,"5390 Elevator Rd, Roscoe, IL",42.4281695,-89.0095305,0.9896658321165286
+2019-09-22 21:11:24,Subject-HRFD:5537 Irving (Fire) Msg-73 F Fall Victim,5537 Irving Fire 73 F Fall Victim,"5537 Irving, Roscoe, IL",44.9019205,-93.2994364,275.1295128045366
+2019-09-22 21:11:35,Subject-HRFD:6070 Dorothy Ln (Fire) Msg-76 F Diabetic Reaction,6070 Dorothy Ln Fire 76 F Diabetic Reaction,"6070 Dorothy Ln, Roscoe, IL",42.4292996,-88.99817469999999,1.2237092541413521
+2019-09-22 21:11:44,Subject-HRFD:5114 Cobblestone (Med) Msg-78 M Trouble Breathing,5114 Cobblestone Med 78 M Trouble Breathing,"5114 Cobblestone, Roscoe, IL",42.3346924,-89.0095322,5.462525176880653
+2019-09-22 21:11:54,Subject-HRFD:9229 N Alpine Rd (Med) Msg-F Asthma Attack HARLEM H.S. MAIN ENTRANCE,9229 N Alpine Rd Med F Asthma Attack HARLEM H.S. MAIN ENTRANCE,"9229 N Alpine Rd, Roscoe, IL",42.35737,-89.026274,3.9865847606728684
+2019-09-22 21:12:04,Subject-HRFD:11722 Parkway Dr #6 (Med) Msg-34 F Panic Attack,11722 Parkway Dr #6 Med 34 F Panic Attack,"11722 Parkway Dr, Roscoe, IL",42.4309424,-89.0105762,1.1814528959021668
+2019-09-22 21:12:14,Subject-HRFD:10108 QUEEN OAKS DR (Med) Msg-62 M POSS PNEU,10108 QUEEN OAKS DR Med 62 M POSS PNEU,"10108 QUEEN OAKS DR, Roscoe, IL",42.365945,-89.05551899999999,4.047249494082046
+2019-09-22 21:12:24,Subject-HRFD:5571 SPECKLED HAWK TRAIL (Med) Msg-75 M FALL KNEE PAIN,5571 SPECKLED HAWK TRAIL Med 75 M FALL KNEE PAIN,"5571 SPECKLED HAWK TRAIL, Roscoe, IL",42.377752,-89.006393,2.4967903772469495
+2019-09-22 21:12:33,Subject-HRFD:11722 PARKWAY DR APT 6 (Med) Msg-13 F PSYCH,11722 PARKWAY DR APT 6 Med 13 F PSYCH,"11722 PARKWAY DR APT 6, Roscoe, IL",42.4309424,-89.0105762,1.1814528959021668
+2019-09-22 21:12:42,"Subject-HRFD:1207 Otto Rd (Med) Msg-63 F, Fall Victim","1207 Otto Rd Med 63 F, Fall Victim","1207 Otto Rd, Roscoe, IL",42.3855017,-89.0252328,2.1075057598635136
+2019-09-22 21:12:52,"Subject-HRFD:12052 Bluestem (Med) Msg-69 M, Tbl Bx","12052 Bluestem Med 69 M, Tbl Bx","12052 Bluestem, Roscoe, IL",42.433676,-89.0233097,1.5322982766062248
+2019-09-22 21:13:01,"Subject-HRFD:10504 Banyan Dr (Med) Msg-65 F, Tbl Bx","10504 Banyan Dr Med 65 F, Tbl Bx","10504 Banyan Dr, Roscoe, IL",42.37177579999999,-89.0379621,3.239195028594413
+2019-09-22 21:13:11,Subject-HRFD:4282 E Rockton Rd (Med) Msg-32 Abdominal pain,4282 E Rockton Rd Med 32 Abdominal pain,"4282 E Rockton Rd, Roscoe, IL",42.457166,-89.0342862,3.240956619137042
+2019-09-22 21:13:20,Subject-HRFD:8405 Tamarack Dr (Med) Msg-trouble breathing,8405 Tamarack Dr Med trouble breathing,"8405 Tamarack Dr, Roscoe, IL",42.3824332,-89.0059557,2.176572396086758
+2019-09-22 21:13:29,Subject-HRFD:n second and ralston (Fire) Msg-auto acc,n second and ralston Fire auto acc,"n second and ralston, Roscoe, IL",42.3938341,-89.0032236,1.421695872746678
+2019-09-22 21:13:39,Subject-HRFD:Continential and West Lane (Fire) Msg-MVA,Continential and West Lane Fire MVA,"Continential and West Lane, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-22 21:13:47,Subject-HRFD:5702 Elevator Rd (Med) Msg-78 M Lifft Assit,5702 Elevator Rd Med 78 M Lifft Assit,"5702 Elevator Rd, Roscoe, IL",42.4279056,-89.005646,0.9950562366403456
+2019-09-22 21:13:57,Subject-HRFD:11633 Southgate Rd (Fire) Msg-8 yo M Broken Left LEg STONE CREEK NURSES OFFICE,11633 Southgate Rd Fire 8 yo M Broken Left LEg STONE CREEK NURSES OFFICE,"11633 Southgate Rd, Roscoe, IL",42.4296865,-88.97266429999999,2.1950051978138476
+2019-09-22 21:14:05,Subject-HRFD:10394 Monarch  #4 (Fire) Msg-42 F Allergic Reaction,10394 Monarch  #4 Fire 42 F Allergic Reaction,"10394 Monarch , Roscoe, IL",42.4107083,-89.04231000000001,1.673054109168589
+2019-09-22 21:14:16,Subject-HRFD:9772 Petunia Dr (Med) Msg-86 M Catheter Issues,9772 Petunia Dr Med 86 M Catheter Issues,"9772 Petunia Dr, Roscoe, IL",42.36395539999999,-89.0449783,3.883128993171746
+2019-09-22 21:14:25,"Subject-HRFD:914 Old Ralston Rd (Med) Msg-50 yo, hernia, abd pain","914 Old Ralston Rd Med 50 yo, hernia, abd pain","914 Old Ralston Rd, Roscoe, IL",42.3692249,-89.04083589999999,3.4626508859839973
+2019-09-22 21:14:34,"Subject-HRFD:6827 Gun Powder (Fire) Msg-PUBLIC ASSIST, install CO detectors.","6827 Gun Powder Fire PUBLIC ASSIST, install CO detectors.","6827 Gun Powder, Roscoe, IL",42.4233404,-88.9840504,1.474649600776301
+2019-09-22 21:14:44,Subject-HRFD:5686 Tall Pines Parkway (Med) Msg-Seizure,5686 Tall Pines Parkway Med Seizure,"5686 Tall Pines Parkway, Roscoe, IL",42.3994164,-89.0060195,1.0144371825570846
+2019-09-22 21:14:53,Subject-HRFD:9153 Forest Ridge Dr (Med) Msg-Diabetic Problem,9153 Forest Ridge Dr Med Diabetic Problem,"9153 Forest Ridge Dr, Roscoe, IL",42.3929413,-89.0488778,2.4618437687033152
+2019-09-22 21:15:04,Subject-HRFD:6827 Gun Powder Rd (Fire) Msg-CO detector chirping,6827 Gun Powder Rd Fire CO detector chirping,"6827 Gun Powder Rd, Roscoe, IL",42.4233404,-88.9840504,1.474649600776301
+2019-09-22 21:15:11,Subject-HRFD:780 Otto Rd (Med) Msg-49 F Pain from earlier fall,780 Otto Rd Med 49 F Pain from earlier fall,"780 Otto Rd, Roscoe, IL",42.3858793,-89.0335577,2.2783774129416505
+2019-09-22 21:15:23,Subject-HRFD:9901 Norman Ave (Med) Msg-70 M Suicidal subject & Brain Cancer Pt,9901 Norman Ave Med 70 M Suicidal subject & Brain Cancer Pt,"9901 Norman Ave, Roscoe, IL",42.3665251,-89.0420115,3.6560230161147445
+2019-09-22 21:15:31,Subject-HRFD:5601 E Rockton Rd (Fire) Msg-60 M Chest Pain NORTH POINT IMMED CARE #7,5601 E Rockton Rd Fire 60 M Chest Pain NORTH POINT IMMED CARE #7,"5601 E Rockton Rd, Roscoe, IL",42.4567202,-89.0054579,2.9687617033129046
+2019-09-22 21:15:41,Subject-HRFD:780 Otto Rd (Med) Msg-49 F Lift Assist,780 Otto Rd Med 49 F Lift Assist,"780 Otto Rd, Roscoe, IL",42.3858793,-89.0335577,2.2783774129416505
+2019-09-22 21:15:50,Subject-HRFD:9466 Sagewood (Fire) Msg-79 M Chest Pain,9466 Sagewood Fire 79 M Chest Pain,"9466 Sagewood, Roscoe, IL",42.3979043,-88.99774510000002,1.262412314286731
+2019-09-22 21:16:01,Subject-HRFD:1014 Otto Rd (Med) Msg-84 M Trouble Breathing,1014 Otto Rd Med 84 M Trouble Breathing,"1014 Otto Rd, Roscoe, IL",42.3859099,-89.0280702,2.140412938405542
+2019-09-22 21:16:10,Subject-HRFD:14979 KLINEWOOD DR (Med) Msg-40 M PANIC ATTACK,14979 KLINEWOOD DR Med 40 M PANIC ATTACK,"14979 KLINEWOOD DR, Roscoe, IL",42.4787846,-88.9707437,4.909121929243669
+2019-09-22 21:16:20,Subject-HRFD:5320 WALLACE DR (Med) Msg-78 M CHEST PAIN,5320 WALLACE DR Med 78 M CHEST PAIN,"5320 WALLACE DR, Roscoe, IL",42.4226926,-89.01328389999999,0.6358810837038437
+2019-09-22 21:16:30,Subject-HRFD:5024 Willowe Creek Rd (Fire) Msg-Smoke Detector - Smell of Smoke,5024 Willowe Creek Rd Fire Smoke Detector - Smell of Smoke,"5024 Willowe Creek Rd, Roscoe, IL",42.3713923,-89.0175971,2.9559360980820744
+2019-09-22 21:16:39,Subject-HRFD:605 Eclipse (Med) Msg-Unconscious M,605 Eclipse Med Unconscious M,"605 Eclipse, Roscoe, IL",42.5194485,-89.0312247,7.371114393103309
+2019-09-22 21:16:49,Subject-HRFD:10316 Monarch Rd #1 (Med) Msg-F Srtomacj Pain,10316 Monarch Rd #1 Med F Srtomacj Pain,"10316 Monarch Rd, Roscoe, IL",42.40947509999999,-89.04178759999999,1.659874528340729
+2019-09-22 21:16:58,Subject-HRFD:5694 Swanson Rd (Med) Msg-MVA,5694 Swanson Rd Med MVA,"5694 Swanson Rd, Roscoe, IL",42.3913702,-89.0057394,1.5648254421544887
+2019-09-22 21:17:08,Subject-HRFD:8344 Mcurry Rd (Med) Msg-Lift Assist,8344 Mcurry Rd Med Lift Assist,"8344 Mcurry Rd, Roscoe, IL",42.4531041,-88.95397340000001,3.9390557308213348
+2019-09-22 21:17:18,Subject-HRFD:4843 Crown Point Rd (Med) Msg-trouble breathing,4843 Crown Point Rd Med trouble breathing,"4843 Crown Point Rd, Roscoe, IL",42.4272251,-89.02254459999999,1.1288729503504826
+2019-09-22 21:17:28,Subject-HRFD:10805 Ventura Blvd (Med) Msg-fall victim,10805 Ventura Blvd Med fall victim,"10805 Ventura Blvd, Roscoe, IL",42.3762125,-89.0539707,3.4399008906954114
+2019-09-22 21:17:37,Subject-HRFD:7096 Salsbrenner (Med) Msg-foot injury,7096 Salsbrenner Med foot injury,"7096 Salsbrenner, Roscoe, IL",42.3716508,-88.99413969999999,3.0207763907881113
+2019-09-22 21:17:47,Subject-HRFD:9733 Sagehen Tr (Med) Msg-fingerr injury,9733 Sagehen Tr Med fingerr injury,"9733 Sagehen Tr, Roscoe, IL",42.4016138,-89.0025082,0.9237345907015737
+2019-09-22 21:17:58,"Subject-HRFD:6462 Harvest Lane (Fire) Msg-CO Alarm, with symptoms","6462 Harvest Lane Fire CO Alarm, with symptoms","6462 Harvest Lane, Roscoe, IL",42.3789299,-88.98725499999999,2.6726140605973265
+2019-09-22 21:18:08,"Subject-HRFD:9772 Petunia Dr (Med) Msg-87 yo, catheter problem","9772 Petunia Dr Med 87 yo, catheter problem","9772 Petunia Dr, Roscoe, IL",42.36395539999999,-89.0449783,3.883128993171746
+2019-09-22 21:18:18,"Subject-HRFD:9915 Orlando (Med) Msg-mobil station, person down by dumpster, unresponsive","9915 Orlando Med mobil station, person down by dumpster, unresponsive","9915 Orlando, Roscoe, IL",42.3650832,-89.03154550000001,3.542881125386768
+2019-09-22 21:18:30,Subject-HRFD:12075 Blue Spruce (Med) Msg-75 F Catheter Issues,12075 Blue Spruce Med 75 F Catheter Issues,"12075 Blue Spruce, Roscoe, IL",42.435127,-89.03094469999999,1.8224429820415269
+2019-09-22 21:18:40,Subject-HRFD:5605 E Rockton Rd (Med) Msg-55 M Allergic Reaction,5605 E Rockton Rd Med 55 M Allergic Reaction,"5605 E Rockton Rd, Roscoe, IL",42.45137,-89.0070428,2.5949174762632974
+2019-09-22 21:18:51,Subject-HRFD:10036 Main St (Med) Msg-63 M Lift Assist,10036 Main St Med 63 M Lift Assist,"10036 Main St, Roscoe, IL",42.406135,-89.00954809999999,0.531630337708508
+2019-09-22 21:18:58,Subject-HRFD:14712 Loris Pl (Fire) Msg-54 F Poss heart Attack,14712 Loris Pl Fire 54 F Poss heart Attack,"14712 Loris Pl, Roscoe, IL",42.4745814,-89.0074389,4.194853948041198
+2019-09-22 21:19:08,Subject-HRFD:486 Gershwin Ln (Fire) Msg-82 F Had Passed Out,486 Gershwin Ln Fire 82 F Had Passed Out,"486 Gershwin Ln, Roscoe, IL",42.381907,-89.039518,2.675115170599627
+2019-09-22 21:19:20,Subject-HRFD:5635 Andrews Dr  #5 (Med) Msg-F Sick,5635 Andrews Dr  #5 Med F Sick,"5635 Andrews Dr , Roscoe, IL",42.4304498,-89.00706459999999,1.155858965815913
+2019-09-22 21:19:30,Subject-HRFD:1 HUSKIE CIR (Med) Msg-PASSED OUT,1 HUSKIE CIR Med PASSED OUT,"1 HUSKIE CIR, Roscoe, IL",42.3557634,-89.0254272,4.086399037502406
+2019-09-22 21:19:39,Subject-HRFD:Elevator And Main (Fire) Msg-MVA Sign off,Elevator And Main Fire MVA Sign off,"Elevator And Main, Roscoe, IL",42.4288244,-89.0152575,1.0707334487470703
+2019-09-22 21:19:49,"Subject-HRFD:13910 Deerborn Ave (Med) Msg-71 M, Heart Attack","13910 Deerborn Ave Med 71 M, Heart Attack","13910 Deerborn Ave, Roscoe, IL",42.4606721,-89.0204163,3.2775763487428873
+2019-09-22 21:19:58,Subject-HRFD:4060 Mcfarland (Med) Msg-Fall Victim,4060 Mcfarland Med Fall Victim,"4060 Mcfarland, Roscoe, IL",42.3218192,-88.98072409999999,6.523908681432229
+2019-09-22 21:20:08,Subject-HRFD:13535 metric Dr (Fire) Msg-Structure Fire - Smoke Showing,13535 metric Dr Fire Structure Fire - Smoke Showing,"13535 metric Dr, Roscoe, IL",42.4570723,-89.0144603,2.993675027406052
+2019-09-22 21:20:18,Subject-HRFD:11091 Prairie wind place (Med) Msg-65 F Abdominal Pain,11091 Prairie wind place Med 65 F Abdominal Pain,"11091 Prairie wind place, Roscoe, IL",42.4213971,-89.00773769999999,0.5333561997313886
+2019-09-22 21:20:27,Subject-HRFD:5702 Andrews Dr (Med) Msg-69 M Bowel blockage,5702 Andrews Dr Med 69 M Bowel blockage,"5702 Andrews Dr, Roscoe, IL",42.4296741,-89.0059448,1.1116610093286894
+2019-09-22 21:20:37,Subject-HRFD:6627 Tipperary Tr (Med) Msg-Lift Assist,6627 Tipperary Tr Med Lift Assist,"6627 Tipperary Tr, Roscoe, IL",42.4193958,-88.98735769999999,1.2138166705375055
+2019-09-22 21:20:47,Subject-HRFD:6650 Rockton Rd (Med) Msg-Lift Assist,6650 Rockton Rd Med Lift Assist,"6650 Rockton Rd, Roscoe, IL",42.45729710000001,-88.98733899999999,3.213609133510235
+2019-09-22 21:20:56,"Subject-HRFD:7255 rolling hills Ln (Med) Msg-84 F, Chest Pain","7255 rolling hills Ln Med 84 F, Chest Pain","7255 rolling hills Ln, Roscoe, IL",42.3734621,-89.0003979,2.8283842994529556
+2019-09-22 21:21:05,Subject-HRFD:6030 Sweet Grass Dr (Fire) Msg-res. fire alarm,6030 Sweet Grass Dr Fire res. fire alarm,"6030 Sweet Grass Dr, Roscoe, IL",42.4057306,-88.9989219,0.7915400264675259
+2019-09-22 21:21:15,Subject-HRFD:1911 Whitestone Dr (Med) Msg-ETOH,1911 Whitestone Dr Med ETOH,"1911 Whitestone Dr, Roscoe, IL",42.4602521,-89.0365624,3.482438606278964
+2019-09-22 21:21:24,Subject-HRFD:5702 Elevator Rd (Med) Msg-fall victim,5702 Elevator Rd Med fall victim,"5702 Elevator Rd, Roscoe, IL",42.4279056,-89.005646,0.9950562366403456
+2019-09-22 21:21:34,Subject-HRFD:502 Smythe Ave (Med) Msg-fall victim,502 Smythe Ave Med fall victim,"502 Smythe Ave, Roscoe, IL",42.366422,-89.039941,3.616054036487569
+2019-09-22 21:21:44,Subject-HRFD:10337 Elsworth Dr (Med) Msg-73 M infection,10337 Elsworth Dr Med 73 M infection,"10337 Elsworth Dr, Roscoe, IL",42.4110082,-88.9617705,2.4680097291812033
+2019-09-22 21:21:53,Subject-HRFD:1520 West Lane Rd (Fire) Msg-Automatic Commercial Fire Alarm,1520 West Lane Rd Fire Automatic Commercial Fire Alarm,"1520 West Lane Rd, Roscoe, IL",42.36737660000001,-89.0266889,3.319997904325788
+2019-09-22 21:22:03,"Subject-HRFD:5000 Prairie Rose Rd (Fire) Msg-CFA, Automatic Commercial Fire Alarm","5000 Prairie Rose Rd Fire CFA, Automatic Commercial Fire Alarm","5000 Prairie Rose Rd, Roscoe, IL",42.436794,-89.019514,1.6597196785137838
+2019-09-22 21:22:15,Subject-HRFD:10108 Queen Oaks (Med) Msg-Fall Victim,10108 Queen Oaks Med Fall Victim,"10108 Queen Oaks, Roscoe, IL",42.365945,-89.05551899999999,4.047249494082046
+2019-09-22 21:22:24,"Subject-HRFD:11216 Debussey Dr (Med) Msg-11 M , Seizures","11216 Debussey Dr Med 11 M , Seizures","11216 Debussey Dr, Roscoe, IL",42.3811262,-89.0326058,2.5395081705064566
+2019-09-22 21:22:34,"Subject-HRFD:1920 Edge Rock Rd (Med) Msg-58 yo, chest pain trouble breathing","1920 Edge Rock Rd Med 58 yo, chest pain trouble breathing","1920 Edge Rock Rd, Roscoe, IL",42.458398,-89.0350694,3.334853687991395
+2019-09-22 21:22:43,Subject-HRFD:I-90  and Rockton Rd (Fire) Msg-semi on I-90 smoking from cab,I-90  and Rockton Rd Fire semi on I-90 smoking from cab,"I-90  and Rockton Rd, Roscoe, IL",42.41354219999999,-88.9856156,1.2408183984640269
+2019-09-22 21:22:53,"Subject-HRFD:569 Gershwinn Ln (Med) Msg-2 mo, troub breathing","569 Gershwinn Ln Med 2 mo, troub breathing","569 Gershwinn Ln, Roscoe, IL",42.3819835,-89.0363198,2.581370106715957
+2019-09-22 21:23:01,Subject-HRFD:2198  Winfield Ct (Fire) Msg-10 yo F Fall Victim Poss Head injury,2198  Winfield Ct Fire 10 yo F Fall Victim Poss Head injury,"2198  Winfield Ct, Roscoe, IL",42.456744,-89.03228849999999,3.175824750990958
+2019-09-22 21:23:10,Subject-HRFD:251  N of Bridge  in SB Lanes (Fire) Msg-MVA,251  N of Bridge  in SB Lanes Fire MVA,"251  N of Bridge  in SB Lanes, Roscoe, IL",42.4130931,-89.0128081,0.1585995619853029
+2019-09-22 21:23:19,Subject-HRFD:5601 E Rockton Rd (Fire) Msg-90 M Fall Victim NORTH POINT ROOM #E7,5601 E Rockton Rd Fire 90 M Fall Victim NORTH POINT ROOM #E7,"5601 E Rockton Rd, Roscoe, IL",42.4567202,-89.0054579,2.9687617033129046
+2019-09-22 21:23:29,Subject-HRFD:10670 Main St (Med) Msg-60 M Unable to Ambulate FIREHOUSE INSIDE BLDG,10670 Main St Med 60 M Unable to Ambulate FIREHOUSE INSIDE BLDG,"10670 Main St, Roscoe, IL",42.4156564,-89.00990399999999,0.12583181393524548
+2019-09-22 21:23:39,Subject-HRFD:1401 Otto Rd (Med) Msg-47 F High BP,1401 Otto Rd Med 47 F High BP,"1401 Otto Rd, Roscoe, IL",42.385406,-89.0214749,2.049948155440434
+2019-09-22 21:23:47,Subject-HRFD:14979 KLINEWOOD DR (Med) Msg-M SOB,14979 KLINEWOOD DR Med M SOB,"14979 KLINEWOOD DR, Roscoe, IL",42.4787846,-88.9707437,4.909121929243669
+2019-09-22 21:23:56,Subject-HRFD:8671 DUTCH ELM CT (Med) Msg-91 F FALL LIFT ASSIT,8671 DUTCH ELM CT Med 91 F FALL LIFT ASSIT,"8671 DUTCH ELM CT, Roscoe, IL",42.38645950000001,-89.00947219999999,1.889534870443428
+2019-09-22 21:24:05,Subject-HRFD:10436 METALMARK LANE (Med) Msg-M DIARRHEA WEAKNESS,10436 METALMARK LANE Med M DIARRHEA WEAKNESS,"10436 METALMARK LANE, Roscoe, IL",42.4115718,-89.04454919999999,1.7804639937770061
+2019-09-22 21:24:15,Subject-HRFD:2960 VAUGHNDALE DR (Med) Msg-64 M SIDE ABD PAIN SOB,2960 VAUGHNDALE DR Med 64 M SIDE ABD PAIN SOB,"2960 VAUGHNDALE DR, Roscoe, IL",42.37367,-88.99655600000001,2.854679110282785
+2019-09-22 21:24:24,"Subject-HRFD:5488 mahogany ln (Med) Msg-lift assist, 88 yof, fall","5488 mahogany ln Med lift assist, 88 yof, fall","5488 mahogany ln, Roscoe, IL",42.3860613,-89.0097732,1.9169153081937866
+2019-09-22 21:24:34,"Subject-HRFD:9675 highstone (Med) Msg-fall victim, hand injury","9675 highstone Med fall victim, hand injury","9675 highstone, Roscoe, IL",42.4014276,-88.9834338,1.6006723255057642
+2019-09-22 21:24:42,"Subject-HRFD:1060 Darwin Dr (Med) Msg-53 yof, lathargic, change in mental status","1060 Darwin Dr Med 53 yof, lathargic, change in mental status","1060 Darwin Dr, Roscoe, IL",42.3788421,-89.0374396,2.7968231082489736
+2019-09-22 21:24:52,Subject-HRFD:8531 Summerwood Dr (Med) Msg-fall victim,8531 Summerwood Dr Med fall victim,"8531 Summerwood Dr, Roscoe, IL",42.3844795,-89.0133283,2.033786361952268
+2019-09-22 21:25:01,Subject-HRFD:I-90 W/B MM-9 (Fire) Msg-CAR ACC,I-90 W/B MM-9 Fire CAR ACC,"I-90 W/B MM-9, Roscoe, IL",42.41354219999999,-88.9856156,1.2408183984640269
+2019-09-22 21:27:00,Subject-HRFD:12320 North Ledgees Dr (Med) Msg-ALOC,12320 North Ledgees Dr Med ALOC,"12320 North Ledgees Dr, Roscoe, IL",42.4393021,-88.966033,2.8488278076161446
+2019-09-22 21:27:10,Subject-HRFD:4282 E Rockton Rd (Med) Msg-Rapid heart rate,4282 E Rockton Rd Med Rapid heart rate,"4282 E Rockton Rd, Roscoe, IL",42.457166,-89.0342862,3.240956619137042
+2019-09-22 21:27:20,"Subject-HRFD:779 Danica Dr (Med) Msg-40 M, Tbl Bx abdominal pain","779 Danica Dr Med 40 M, Tbl Bx abdominal pain","779 Danica Dr, Roscoe, IL",42.3732914,-89.0446051,3.314864596193697
+2019-09-22 21:27:30,Subject-HRFD:5635 Andrews Dr #5 (Med) Msg-hip Pain,5635 Andrews Dr #5 Med hip Pain,"5635 Andrews Dr, Roscoe, IL",42.4304498,-89.00706459999999,1.155858965815913
+2019-09-22 21:27:40,"Subject-HRFD:1419 West Lane Suite C (Med) Msg-75 F, Fall Victim","1419 West Lane Suite C Med 75 F, Fall Victim","1419 West Lane Suite C, Roscoe, IL",42.3649239,-89.0298061,3.526565352138016
+2019-09-22 21:27:49,"Subject-HRFD:5807 Kelmor Dr (Med) Msg-87 Low blood sugar, Diab. Symp.","5807 Kelmor Dr Med 87 Low blood sugar, Diab. Symp.","5807 Kelmor Dr, Roscoe, IL",42.4234978,-89.0042452,0.7264933811097802
+2019-09-22 21:27:58,Subject-HRFD:10816 Main St (Fire) Msg-Welfare Check,10816 Main St Fire Welfare Check,"10816 Main St, Roscoe, IL",42.4177699,-89.01009069999999,0.2719300699134137
+2019-09-22 21:28:07,"Subject-HRFD:N 2nd and McCurry Rd (Med) Msg-36 F, BP","N 2nd and McCurry Rd Med 36 F, BP","N 2nd and McCurry Rd, Roscoe, IL",42.4420051,-89.01802029999999,1.9886189919125914
+2019-09-22 21:28:17,"Subject-HRFD:5715Cypress (Med) Msg-fall vicitm, garage, unable to get up, inj unk","5715Cypress Med fall vicitm, garage, unable to get up, inj unk","5715Cypress, Roscoe, IL",42.3835175,-89.0066171,2.099105170247502
+2019-09-22 21:28:26,"Subject-HRFD:251 and swanson, east side of road (Fire) Msg-transformer fire","251 and swanson, east side of road Fire transformer fire","251 and swanson, east side of road, Roscoe, IL",42.4130931,-89.0128081,0.1585995619853029
+2019-09-22 21:28:35,Subject-HRFD:1770 West Lane Rd (Fire) Msg-gas leak from car,1770 West Lane Rd Fire gas leak from car,"1770 West Lane Rd, Roscoe, IL",42.3683822,-89.01165929999999,3.138492222331848
+2019-09-22 21:28:45,Subject-HRFD:4713 Oak way (Med) Msg-BP,4713 Oak way Med BP,"4713 Oak way, Roscoe, IL",42.4346087,-89.0243082,1.6128226306524693
+2019-09-22 21:28:54,Subject-HRFD:12068 Baneberry  #3 (Med) Msg-Heart Attack,12068 Baneberry  #3 Med Heart Attack,"12068 Baneberry , Roscoe, IL",42.4355216,-89.02148369999999,1.6104302952045328
+2019-09-22 21:29:04,Subject-HRFD:11032 VENTURA BLVD (Fire) Msg-MVA 1 CAR AIR BAG,11032 VENTURA BLVD Fire MVA 1 CAR AIR BAG,"11032 VENTURA BLVD, Roscoe, IL",42.379253,-89.0542959,3.2957797521885945
+2019-09-22 21:29:12,Subject-HRFD:5320 WALLACE DR (Med) Msg-77 F DIFF BREATHING,5320 WALLACE DR Med 77 F DIFF BREATHING,"5320 WALLACE DR, Roscoe, IL",42.4226926,-89.01328389999999,0.6358810837038437
+2019-09-22 21:29:21,Subject-HRFD:10020 N MAIN ST (Med) Msg-90 M DIFF BREATHING,10020 N MAIN ST Med 90 M DIFF BREATHING,"10020 N MAIN ST, Roscoe, IL",42.4062782,-89.0096804,0.5215797869033334
+2019-09-22 21:29:31,"Subject-HRFD:1586 West Lane (Med) Msg-KFC, Female with chest pain","1586 West Lane Med KFC, Female with chest pain","1586 West Lane, Roscoe, IL",42.366028,-89.02242489999999,3.3615750439710754
+2019-09-22 21:29:40,"Subject-HRFD:10544 Main St (Med) Msg-Walkin, toddler, allergic reaction","10544 Main St Med Walkin, toddler, allergic reaction","10544 Main St, Roscoe, IL",42.4138335,-89.0098726,0.0
+2019-09-22 21:29:50,"Subject-HRFD:11222 Brandy Iron Ln (Fire) Msg-resid fire alarm, smoke in hallwayt","11222 Brandy Iron Ln Fire resid fire alarm, smoke in hallwayt","11222 Brandy Iron Ln, Roscoe, IL",42.42424,-88.9815838,1.615240844454363
+2019-09-22 21:30:00,Subject-HRFD:967 Brandy Bend Rd (Fire) Msg-Res. C.O. Alarm / with symptoms,967 Brandy Bend Rd Fire Res. C.O. Alarm / with symptoms,"967 Brandy Bend Rd, Roscoe, IL",42.4071547,-89.0584289,2.5260209310121557
+2019-09-22 21:30:10,Subject-HRFD:4301 N Mulford Rd (Med) Msg-F Passed out,4301 N Mulford Rd Med F Passed out,"4301 N Mulford Rd, Roscoe, IL",42.3223646,-88.999034,6.337709403488882
+2019-09-22 21:30:19,Subject-HRFD:203 Grand Blvd (Med) Msg-56 M Low Blood sugar,203 Grand Blvd Med 56 M Low Blood sugar,"203 Grand Blvd, Roscoe, IL",42.3167114,-89.06557219999999,7.284657016536726
+2019-09-22 21:30:29,"Subject-HRFD:9907 Debbie Ln (Med) Msg-82 M, Fall Victim","9907 Debbie Ln Med 82 M, Fall Victim","9907 Debbie Ln, Roscoe, IL",42.36292299999999,-89.0526089,4.1387842579045175
+2019-09-22 21:30:38,"Subject-HRFD:11966 tresemer Rd (Med) Msg-77 F, Chest Pain","11966 tresemer Rd Med 77 F, Chest Pain","11966 tresemer Rd, Roscoe, IL",42.4352277,-89.0383727,2.0747753101578614
+2019-09-22 21:30:47,"Subject-HRFD:Rockton and Willowbrook (Med) Msg-intoxicated subject, pd on scene","Rockton and Willowbrook Med intoxicated subject, pd on scene","Rockton and Willowbrook, Roscoe, IL",42.4568033,-88.9999797,3.008726192840854
+2019-09-22 21:30:56,Subject-HRFD:7867 Windspoint Rd (Med) Msg-71 M Fall Victim REAR DOOR OF HOUSE IS UNLOCKED,7867 Windspoint Rd Med 71 M Fall Victim REAR DOOR OF HOUSE IS UNLOCKED,"7867 Windspoint Rd, Roscoe, IL",42.4464835,-88.962294,3.3162294482979435
+2019-09-22 21:31:05,Subject-HRFD:Elevator and 251 (Fire) Msg-MVA,Elevator and 251 Fire MVA,"Elevator and 251, Roscoe, IL",42.429103,-89.0163259,1.1044058682336708
+2019-09-22 21:31:14,Subject-HRFD:8178 Omega (Fire) Msg-80 F Fall Victim IN GARAGE,8178 Omega Fire 80 F Fall Victim IN GARAGE,"8178 Omega, Roscoe, IL",42.4296425,-88.95685309999999,2.9227363765315872
+2019-09-22 21:31:24,Subject-HRFD:12048 Blue Stem (Med) Msg-M Fall Victim,12048 Blue Stem Med M Fall Victim,"12048 Blue Stem, Roscoe, IL",42.43519999999999,-89.02627,1.6964923136761698
+2019-09-22 21:31:34,Subject-HRFD:12157 RAEANN RD (Med) Msg-45 M FALL HEAD INJURY,12157 RAEANN RD Med 45 M FALL HEAD INJURY,"12157 RAEANN RD, Roscoe, IL",42.4360169,-89.03865259999999,2.1237792028385174
+2019-09-22 21:31:43,Subject-HRFD:1093 WEST LANE (Med) Msg-30 M DIABETIC ISSUE,1093 WEST LANE Med 30 M DIABETIC ISSUE,"1093 WEST LANE, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-22 21:31:52,Subject-HRFD:5373 WHITEPINE LANE (Med) Msg-83 M MEDICAL ALERT,5373 WHITEPINE LANE Med 83 M MEDICAL ALERT,"5373 WHITEPINE LANE, Roscoe, IL",42.3869843,-89.0122614,1.8572257091464095
+2019-09-22 21:32:01,Subject-HRFD:6992 Nestlewood Dr (Med) Msg-68 m HIP DISLOCATED,6992 Nestlewood Dr Med 68 m HIP DISLOCATED,"6992 Nestlewood Dr, Roscoe, IL",42.3977339,-88.9805373,1.867240704327992
+2019-09-22 21:32:11,Subject-HRFD:917 Glen Forest Dr #4 (Med) Msg-71 M Poss Stroke,917 Glen Forest Dr #4 Med 71 M Poss Stroke,"917 Glen Forest Dr, Roscoe, IL",42.3876463,-89.02985389999999,2.07652021080453
+2019-09-22 21:32:20,Subject-HRFD:10544 Main St (Med) Msg-Chest Pain,10544 Main St Med Chest Pain,"10544 Main St, Roscoe, IL",42.4138335,-89.0098726,0.0
+2019-09-22 21:32:29,Subject-HRFD:14808 Gridley Ln (Med) Msg-Teenager passed out,14808 Gridley Ln Med Teenager passed out,"14808 Gridley Ln, Roscoe, IL",42.4756952,-89.0031806,4.283569520088389
+2019-09-22 21:32:39,"Subject-HRFD:4005 Oatseed tr (Med) Msg-80 M, Fall Victim","4005 Oatseed tr Med 80 M, Fall Victim","4005 Oatseed tr, Roscoe, IL",42.42847769999999,-89.0367864,1.7076591302430841
+2019-09-22 21:32:46,Subject-HRFD:4667 Prairie Rose Dr (Med) Msg-stomach pains,4667 Prairie Rose Dr Med stomach pains,"4667 Prairie Rose Dr, Roscoe, IL",42.4359889,-89.02618489999999,1.7419452082615379
+2019-09-22 21:32:55,Subject-HRFD:7515 Chantelle Ln (Fire) Msg-res fire alarm,7515 Chantelle Ln Fire res fire alarm,"7515 Chantelle Ln, Roscoe, IL",42.4632829,-88.9701455,3.9717634913213087
+2019-09-22 21:33:04,Subject-HRFD:5414 Reimer Dr (Fire) Msg-grass fire,5414 Reimer Dr Fire grass fire,"5414 Reimer Dr, Roscoe, IL",42.4256344,-89.01160329999999,0.8193260859157201
+2019-09-22 21:33:13,Subject-HRFD:10850 Second St (Med) Msg-F Contractions,10850 Second St Med F Contractions,"10850 Second St, Roscoe, IL",42.4181442,-89.0067479,0.3377387516688242
+2019-09-22 21:33:21,Subject-HRFD:8435 hickory tree (Med) Msg-75m Vomitting,8435 hickory tree Med 75m Vomitting,"8435 hickory tree, Roscoe, IL",42.3833873,-89.0050819,2.1157177226902384
+2019-09-22 21:33:31,"Subject-HRFD:8410 Tamarack Dr (Med) Msg-84 F , Lift Assist","8410 Tamarack Dr Med 84 F , Lift Assist","8410 Tamarack Dr, Roscoe, IL",42.3826148,-89.0066358,2.1611474694780934
+2019-09-22 21:33:40,Subject-HRFD:Main And Pine (Fire) Msg-MVA,Main And Pine Fire MVA,"Main And Pine, Roscoe, IL",42.4200208,-89.0095534,0.4273765131037565
+2019-09-22 21:33:48,"Subject-HRFD:5000 Prairie Rose Rd (Med) Msg-mercy health,75, short of breath","5000 Prairie Rose Rd Med mercy health,75, short of breath","5000 Prairie Rose Rd, Roscoe, IL",42.436794,-89.019514,1.6597196785137838
+2019-09-22 21:33:56,Subject-HRFD:4282 E Rockton Rd (Fire) Msg-52 F Abdominal Pain SWEDES IN ROSCOE ROOM #22,4282 E Rockton Rd Fire 52 F Abdominal Pain SWEDES IN ROSCOE ROOM #22,"4282 E Rockton Rd, Roscoe, IL",42.457166,-89.0342862,3.240956619137042
+2019-09-22 21:34:06,Subject-HRFD:10161 Metalmark #3 (Med) Msg-72 F Fall Victim,10161 Metalmark #3 Med 72 F Fall Victim,"10161 Metalmark, Roscoe, IL",42.4074309,-89.04147859999999,1.6759233041655377
+2019-09-22 21:34:15,Subject-HRFD:4920  Marlin Dr (Fire) Msg-20 F Fall Victim COBALT WEST ENTRANCE,4920  Marlin Dr Fire 20 F Fall Victim COBALT WEST ENTRANCE,"4920  Marlin Dr, Roscoe, IL",42.379036,-89.021726,2.477185329049402
+2019-09-22 21:34:24,Subject-HRFD:623 Otto Rd (Med) Msg-88 M Numbness in legs & arms,623 Otto Rd Med 88 M Numbness in legs & arms,"623 Otto Rd, Roscoe, IL",42.38515779999999,-89.036861,2.4132455055152158
+2019-09-22 21:34:33,Subject-HRFD:956 Lollypop (Med) Msg-75 F Abdominal pain,956 Lollypop Med 75 F Abdominal pain,"956 Lollypop, Roscoe, IL",42.3713324,-89.0400895,3.315979846384329
+2019-09-22 21:34:42,Subject-HRFD:9601 Forest Hills Rd (Fire) Msg-MVA- Minor Neck Pain NO ENTRAPMENT,9601 Forest Hills Rd Fire MVA- Minor Neck Pain NO ENTRAPMENT,"9601 Forest Hills Rd, Roscoe, IL",42.3664029,-89.0139001,3.280255298245178
+2019-09-22 21:34:50,Subject-HRFD:15054 Northview TR (Med) Msg-Lift Assist,15054 Northview TR Med Lift Assist,"15054 Northview TR, Roscoe, IL",42.4797703,-88.96947259999999,4.997823733780547
+2019-09-22 21:35:00,Subject-HRFD:9526 CINCINNATI DR (Med) Msg-DOMETIC,9526 CINCINNATI DR Med DOMETIC,"9526 CINCINNATI DR, Roscoe, IL",42.3543773,-89.0488218,4.5621771868090635
+2019-09-22 21:35:09,Subject-HRFD:5224 REDTAIL DR (Med) Msg-MEDICAL ALERT,5224 REDTAIL DR Med MEDICAL ALERT,"5224 REDTAIL DR, Roscoe, IL",42.3762113,-89.0149084,2.6095281104902437
+2019-09-22 21:35:19,Subject-HRFD:5601 E Rockton Rd SLEEP AREA (Med) Msg-80 F LOW HR SOB,5601 E Rockton Rd SLEEP AREA Med 80 F LOW HR SOB,"5601 E Rockton Rd SLEEP AREA, Roscoe, IL",42.4567202,-89.0054579,2.9687617033129046
+2019-09-22 21:35:28,Subject-HRFD:5702 ANDREWS DR APT 3 (Med) Msg-69 M HALLUCINATION,5702 ANDREWS DR APT 3 Med 69 M HALLUCINATION,"5702 ANDREWS DR APT 3, Roscoe, IL",42.4296741,-89.0059448,1.1116610093286894
+2019-09-22 21:35:38,Subject-HRFD:Aldis (Fire) Msg-Lockout,Aldis Fire Lockout,"Aldis, Roscoe, IL",42.45705940000001,-89.0243648,3.074213237955091
+2019-09-22 21:35:48,Subject-HRFD:9668 Bagley #2 (Med) Msg-battery,9668 Bagley #2 Med battery,"9668 Bagley, Roscoe, IL",42.400053,-88.9820924,1.7099640139991963
+2019-09-22 21:35:56,Subject-HRFD:5635 Bridge St (Fire) Msg-Lockout,5635 Bridge St Fire Lockout,"5635 Bridge St, Roscoe, IL",42.4130409,-89.0095041,0.05786301933496965
+2019-09-22 21:36:06,Subject-HRFD:12010 Ventura Blvd (Med) Msg-Cardiac Arrest,12010 Ventura Blvd Med Cardiac Arrest,"12010 Ventura Blvd, Roscoe, IL",42.38836999999999,-89.043943,2.4752342788688866
+2019-09-22 21:36:15,Subject-HRFD:Love and McCurry (Fire) Msg-MVC,Love and McCurry Fire MVC,"Love and McCurry, Roscoe, IL",42.4423258,-88.99803229999999,2.057709427661857
+2019-09-22 21:36:24,Subject-HRFD:884 Quill Dr (Fire) Msg-res c.o. alarm,884 Quill Dr Fire res c.o. alarm,"884 Quill Dr, Roscoe, IL",42.4066669,-89.0551459,2.367930688767288
+2019-09-22 21:36:32,Subject-HRFD:5881 Kelmore Dr (Fire) Msg-,5881 Kelmore Dr Fire ,"5881 Kelmore Dr, Roscoe, IL",42.42348320000001,-89.0025642,0.7637565938756808
+2019-09-22 21:36:42,Subject-HRFD:5601 E Rockton Rd (Med) Msg-65 M Mini Heart attck,5601 E Rockton Rd Med 65 M Mini Heart attck,"5601 E Rockton Rd, Roscoe, IL",42.4567202,-89.0054579,2.9687617033129046
+2019-09-22 21:36:52,Subject-HRFD:5518 Autumash Ln (Med) Msg-69 F abdominal pain,5518 Autumash Ln Med 69 F abdominal pain,"5518 Autumash Ln, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-22 21:37:01,"Subject-HRFD:7170 N Perryville Rd (Med) Msg-60 F , Chest Pain","7170 N Perryville Rd Med 60 F , Chest Pain","7170 N Perryville Rd, Roscoe, IL",42.3692421,-89.00885819999999,3.078245980575635
+2019-09-22 21:37:09,"Subject-HRFD:4781 e rockton (Med) Msg-12 YO , Seizures","4781 e rockton Med 12 YO , Seizures","4781 e rockton, Roscoe, IL",42.4542035,-89.0245048,2.885144929313215
+2019-09-22 21:37:19,"Subject-HRFD:12534 Thistle Ridge ct (Med) Msg-70 F, Fall Victim","12534 Thistle Ridge ct Med 70 F, Fall Victim","12534 Thistle Ridge ct, Roscoe, IL",42.4433429,-88.96511699999999,3.0636699973682555
+2019-09-22 21:37:28,Subject-HRFD:10215 Metalnark ln (Med) Msg-res c.o alarm,10215 Metalnark ln Med res c.o alarm,"10215 Metalnark ln, Roscoe, IL",42.4082462,-89.04178759999999,1.6773383599606464
+2019-09-22 21:37:37,Subject-HRFD:9985 Tybow Trl (Med) Msg-trouble with oxygen tank,9985 Tybow Trl Med trouble with oxygen tank,"9985 Tybow Trl, Roscoe, IL",42.4059588,-88.9703885,2.091448940395459
+2019-09-22 21:37:45,Subject-HRFD:4905 ORCHARD lN (Med) Msg-FALL VICTIM,4905 ORCHARD lN Med FALL VICTIM,"4905 ORCHARD lN, Roscoe, IL",42.3095489,-89.133585,9.58711844239881
+2019-09-22 21:37:55,Subject-HRFD:3962 Owen Center (Med) Msg-trouble breathing,3962 Owen Center Med trouble breathing,"3962 Owen Center, Roscoe, IL",42.3168298,-89.11710459999999,8.657630195218452
+2019-09-22 21:38:05,Subject-HRFD:swanson and perriville (Fire) Msg-,swanson and perriville Fire ,"swanson and perriville, Roscoe, IL",42.3903197,-88.9871154,1.9973347258058278
+2019-09-22 21:38:14,Subject-HRFD:1513 west lane (Fire) Msg-a.f.a,1513 west lane Fire a.f.a,"1513 west lane, Roscoe, IL",42.3650168,-89.02715549999999,3.4835555223305645
+2019-09-22 21:38:23,Subject-HRFD:10544 Main St (Fire) Msg-High BP,10544 Main St Fire High BP,"10544 Main St, Roscoe, IL",42.4138335,-89.0098726,0.0
+2019-09-22 21:38:32,Subject-HRFD:7714 Venus St (Med) Msg-Fall Victims,7714 Venus St Med Fall Victims,"7714 Venus St, Roscoe, IL",42.3367509,-89.0357307,5.482525602234226
+2019-09-22 21:38:41,Subject-HRFD:Baneberry and Bluestem (Med) Msg-50 M Fall Victim,Baneberry and Bluestem Med 50 M Fall Victim,"Baneberry and Bluestem, Roscoe, IL",42.4327361,-89.02163329999999,1.4366568720904458
+2019-09-22 21:38:50,Subject-HRFD:649 Bayfield (Med) Msg-21 M Trouble Breathing,649 Bayfield Med 21 M Trouble Breathing,"649 Bayfield, Roscoe, IL",42.45970200000001,-89.02998699999999,3.328820810201829
+2019-09-22 21:38:57,Subject-HRFD:10744 BANYAN DR (Med) Msg-F DIFF BREATHING,10744 BANYAN DR Med F DIFF BREATHING,"10744 BANYAN DR, Roscoe, IL",42.3752325,-89.03773819999999,3.0217856578868285
+2019-09-22 21:39:06,Subject-HRFD:7939 BURDEN RD (Fire) Msg-FIRE STRUCTURE FIRE,7939 BURDEN RD Fire FIRE STRUCTURE FIRE,"7939 BURDEN RD, Roscoe, IL",42.3757178,-89.01895739999999,2.6715833907255573
+2019-09-22 21:39:15,Subject-HRFD:9789 N 2ND ST (Med) Msg-RECTAL BLEED,9789 N 2ND ST Med RECTAL BLEED,"9789 N 2ND ST, Roscoe, IL",42.4024874,-89.0102481,0.7833735849572786
+2019-09-22 21:39:25,Subject-HRFD:5077 ROCKROSE CRT (Med) Msg-F PASSED OUT,5077 ROCKROSE CRT Med F PASSED OUT,"5077 ROCKROSE CRT, Roscoe, IL",42.4304141,-89.01836259999999,1.224030170875127
+2019-09-22 21:39:35,Subject-HRFD:9121 BALDWIN DR (Med) Msg-61 M SICK WEAKNESS,9121 BALDWIN DR Med 61 M SICK WEAKNESS,"9121 BALDWIN DR, Roscoe, IL",42.3568489,-89.0455381,4.335979163407745
+2019-09-22 21:39:45,Subject-HRFD:11443 VENTUA BLVD (Med) Msg-58 M PASSED OUT,11443 VENTUA BLVD Med 58 M PASSED OUT,"11443 VENTUA BLVD, Roscoe, IL",42.3821145,-89.0474412,2.9132683318746744
+2019-09-22 21:39:52,Subject-HRFD:401 Brentwood Rd (Med) Msg-59 F numbness in hands and feet,401 Brentwood Rd Med 59 F numbness in hands and feet,"401 Brentwood Rd, Roscoe, IL",42.3833176,-89.0396416,2.599188641893345
+2019-09-22 21:40:01,Subject-HRFD:7421 Barngate Dr (Med) Msg-31 F allergic reaction,7421 Barngate Dr Med 31 F allergic reaction,"7421 Barngate Dr, Roscoe, IL",42.4784925,-88.9723886,4.8569337409167925
+2019-09-22 21:40:08,"Subject-HRFD:13910 Dearborne (Med) Msg-55, Tbl Bx","13910 Dearborne Med 55, Tbl Bx","13910 Dearborne, Roscoe, IL",42.4606721,-89.0204163,3.2775763487428873
+2019-09-22 21:40:16,Subject-HRFD:11705 Florence Ave (Fire) Msg-Lawn Mower Fire,11705 Florence Ave Fire Lawn Mower Fire,"11705 Florence Ave, Roscoe, IL",42.3880445,-89.0329045,2.1346475081820704
+2019-09-22 21:40:25,Subject-HRFD:7170 N Perryville Rd (Med) Msg-61 F BP Issues,7170 N Perryville Rd Med 61 F BP Issues,"7170 N Perryville Rd, Roscoe, IL",42.3692421,-89.00885819999999,3.078245980575635
+2019-09-22 21:40:33,"Subject-HRFD:latham and owen center road (Med) Msg-mva, mutual aid to northwest fire","latham and owen center road Med mva, mutual aid to northwest fire","latham and owen center road, Roscoe, IL",42.3742299,-89.1169489,6.122386515934959
+2019-09-22 21:40:42,Subject-HRFD:7236 Elevator Rd (Med) Msg-&9 yo Troub Breath,7236 Elevator Rd Med &9 yo Troub Breath,"7236 Elevator Rd, Roscoe, IL",42.42846520000001,-88.9753604,2.033477427181845
+2019-09-22 21:40:52,"Subject-HRFD:8344 McCurry Rd (Med) Msg-fall victim, lift assist, no injury recently dismissed from hosp","8344 McCurry Rd Med fall victim, lift assist, no injury recently dismissed from hosp","8344 McCurry Rd, Roscoe, IL",42.4531041,-88.95397340000001,3.9390557308213348
+2019-09-22 21:41:01,"Subject-HRFD:10473 Pearl St (Med) Msg-abnormal labs, transport to hosp via ambo","10473 Pearl St Med abnormal labs, transport to hosp via ambo","10473 Pearl St, Roscoe, IL",42.412622,-89.0075696,0.1444546324787786
+2019-09-22 21:41:10,Subject-HRFD:4736 Indigo Pl (Med) Msg-female not breathing,4736 Indigo Pl Med female not breathing,"4736 Indigo Pl, Roscoe, IL",42.435546,-89.02413530000001,1.6667152968677739
+2019-09-22 21:41:18,Subject-HRFD:302 Ralston Rd (Med) Msg-seizure,302 Ralston Rd Med seizure,"302 Ralston Rd, Roscoe, IL",42.369236,-89.05359399999999,3.805200209824534
+2019-09-22 21:41:28,Subject-HRFD:7689 North Gate Rd (Med) Msg-fall victim,7689 North Gate Rd Med fall victim,"7689 North Gate Rd, Roscoe, IL",42.4423772,-88.9665564,2.964387485886614
+2019-09-22 21:41:37,Subject-HRFD:7166 Greenlee Dr (Fire) Msg-AFA,7166 Greenlee Dr Fire AFA,"7166 Greenlee Dr, Roscoe, IL",42.373956,-88.96314799999999,3.645632566889677
+2019-09-22 21:41:46,Subject-HRFD:7502 Andrew Dr (Med) Msg-trouble breathing,7502 Andrew Dr Med trouble breathing,"7502 Andrew Dr, Roscoe, IL",42.4294801,-89.00750719999999,1.086726117388309
+2019-09-22 21:41:56,Subject-HRFD:7811 Louella Dr (Med) Msg-fall victim,7811 Louella Dr Med fall victim,"7811 Louella Dr, Roscoe, IL",42.411564,-88.9637896,2.362211010788704
+2019-09-22 21:42:05,Subject-HRFD:9709 Cherrywood (Med) Msg-F Dog Bite to Wrist w/ heavy bleeding,9709 Cherrywood Med F Dog Bite to Wrist w/ heavy bleeding,"9709 Cherrywood, Roscoe, IL",42.4013345,-88.9859377,1.4977270211241647
+2019-09-22 21:44:25,Subject-RESEND: HRFD:Applegate and Belvidere (Fire) Msg-MVA -mult veh unknown injuries,Subject-RESEND: HRFD:Applegate and Belvidere (Fire) Msg-MVA -mult veh unknown injuries,,,,
+2019-09-22 21:44:34,Subject-HRFD:Applegate and Belvidere (Fire) Msg-MVA -mult veh unknown injuries,Applegate and Belvidere Fire MVA -mult veh unknown injuries,"Applegate and Belvidere, Roscoe, IL",42.4083787,-88.9891146,1.126518525114307
+2019-09-22 21:44:43,Subject-HRFD:4282 E Rockton Rd (Fire) Msg-73 M Tachacardia SWEDES ROOM #6,4282 E Rockton Rd Fire 73 M Tachacardia SWEDES ROOM #6,"4282 E Rockton Rd, Roscoe, IL",42.457166,-89.0342862,3.240956619137042
+2019-09-22 21:44:53,Subject-HRFD:11189 Forest Hills Rd (Fire) Msg-CFA - FOREST HILLS DINER,11189 Forest Hills Rd Fire CFA - FOREST HILLS DINER,"11189 Forest Hills Rd, Roscoe, IL",42.3818646,-89.01546859999999,2.2250690364349217
+2019-09-22 21:45:02,Subject-HRFD:Forest HIlls E of 251 (Fire) Msg-Poss Car Fire RED HONDA CIVIC -UNOCCUPIED,Forest HIlls E of 251 Fire Poss Car Fire RED HONDA CIVIC -UNOCCUPIED,"Forest HIlls E of 251, Roscoe, IL",42.3645888,-89.0186976,3.4288507809207505
+2019-09-22 21:45:11,Subject-HRFD:10895 Chicory Ridge Way (Fire) Msg-37 F Trouble Breathing,10895 Chicory Ridge Way Fire 37 F Trouble Breathing,"10895 Chicory Ridge Way, Roscoe, IL",42.418347,-89.0373836,1.4411079292445268
+2019-09-22 21:45:20,"Subject-HRFD:7444 Adrianna Dr (Med) Msg-14, Seizures","7444 Adrianna Dr Med 14, Seizures","7444 Adrianna Dr, Roscoe, IL",42.4275292,-88.9715662,2.175167038349571
+2019-09-22 21:45:29,Subject-HRFD:12902 Ventura Blvd (Med) Msg-62 f unable to move,12902 Ventura Blvd Med 62 f unable to move,"12902 Ventura Blvd, Roscoe, IL",42.389426,-89.0333689,2.069507605928097
+2019-09-22 21:45:37,Subject-HRFD:816 Hollybrook ct (Med) Msg-leg pain,816 Hollybrook ct Med leg pain,"816 Hollybrook ct, Roscoe, IL",42.3703015,-89.0432057,3.4549526778859163
+2019-09-22 21:45:48,Subject-HRFD:9774 Sage Hen Tr (Med) Msg-fall victim /leg injury,9774 Sage Hen Tr Med fall victim /leg injury,"9774 Sage Hen Tr, Roscoe, IL",42.4019269,-89.0031806,0.8902627490879638
+2019-09-22 21:45:58,Subject-HRFD:9262 N Alpine (Med) Msg-Possible Suicide,9262 N Alpine Med Possible Suicide,"9262 N Alpine, Roscoe, IL",42.3575813,-89.0296941,4.012948696728524
+2019-09-22 21:46:06,Subject-HRFD:Swanson and 251 (Fire) Msg-Vehicle Fire,Swanson and 251 Fire Vehicle Fire,"Swanson and 251, Roscoe, IL",42.3919815,-89.01621899999999,1.5428260661330289
+2019-09-22 21:46:14,Subject-HRFD:780 Otto (Med) Msg-Feeling Ill,780 Otto Med Feeling Ill,"780 Otto, Roscoe, IL",42.3858793,-89.0335577,2.2783774129416505
+2019-09-22 21:46:24,"Subject-HRFD:12032 Baneberry #21 (Med) Msg-Feeling Ill, unable eat or walk","12032 Baneberry #21 Med Feeling Ill, unable eat or walk","12032 Baneberry, Roscoe, IL",42.4351331,-89.02143459999999,1.5845969596931293
+2019-09-22 21:46:33,Subject-HRFD:5676 Thompson Dr (Med) Msg-dislocated hip,5676 Thompson Dr Med dislocated hip,"5676 Thompson Dr, Roscoe, IL",42.4142157,-89.00536579999999,0.23200952153689525
+2019-09-22 21:46:42,Subject-HRFD:4328 Grainery (Med) Msg-Feeling Ill,4328 Grainery Med Feeling Ill,"4328 Grainery, Roscoe, IL",42.4285069,-89.0334084,1.5730472383314027
+2019-09-22 21:46:51,"Subject-HRFD:254 South bluff rd (Fire) Msg-MABAS, Card 11, box alarm Structure fire","254 South bluff rd Fire MABAS, Card 11, box alarm Structure fire","254 South bluff rd, Roscoe, IL",42.4932054,-89.0471144,5.799792702292567
+2019-09-22 21:46:59,"Subject-HRFD:10901 6th st (Med) Msg-64 yof, intoxicated","10901 6th st Med 64 yof, intoxicated","10901 6th st, Roscoe, IL",42.419014,-88.999382,0.6447670536213569
+2019-09-22 21:47:08,Subject-HRFD:9734 Belvidere Rd (Med) Msg-poss heroine overdose,9734 Belvidere Rd Med poss heroine overdose,"9734 Belvidere Rd, Roscoe, IL",42.403222,-88.97487699999999,1.9340912590756527
+2019-09-22 21:47:17,"Subject-HRFD:10380 Rose Lane (Med) Msg-domestic injury, stage for police","10380 Rose Lane Med domestic injury, stage for police","10380 Rose Lane, Roscoe, IL",42.4118826,-89.0100428,0.13493752441047688
+2019-09-22 21:47:26,"Subject-HRFD:12640 Wilmington close (Med) Msg-post surgical , low heart rate","12640 Wilmington close Med post surgical , low heart rate","12640 Wilmington close, Roscoe, IL",42.4440821,-89.0369917,2.5064025140032102
+2019-09-22 21:47:35,"Subject-HRFD:946 Darwin Dr (Med) Msg-74 yo, ca ill","946 Darwin Dr Med 74 yo, ca ill","946 Darwin Dr, Roscoe, IL",42.3791604,-89.0387459,2.812390951510213
+2019-09-22 21:47:44,Subject-HRFD:11105 Antigo Tr (Med) Msg-77 F Fall Victim,11105 Antigo Tr Med 77 F Fall Victim,"11105 Antigo Tr, Roscoe, IL",42.42298599999999,-88.95273499999999,2.989662955581157
+2019-09-22 21:47:52,Subject-HRFD:Riverside Park (Fire) Msg-Poss Deydrated Pt,Riverside Park Fire Poss Deydrated Pt,"Riverside Park, Roscoe, IL",42.41609630000001,-89.0209204,0.5862308987982491
+2019-09-22 21:48:01,Subject-HRFD:10108 Queen Oaks (Med) Msg-62 M Abdominal Pain,10108 Queen Oaks Med 62 M Abdominal Pain,"10108 Queen Oaks, Roscoe, IL",42.365945,-89.05551899999999,4.047249494082046
+2019-09-22 21:48:11,Subject-HRFD:Riverside Park (Fire) Msg-foot injury,Riverside Park Fire foot injury,"Riverside Park, Roscoe, IL",42.41609630000001,-89.0209204,0.5862308987982491
+2019-09-22 21:48:20,Subject-HRFD:437 Pine White Rd  #1 (Fire) Msg-32 M Chest Pain,437 Pine White Rd  #1 Fire 32 M Chest Pain,"437 Pine White Rd , Roscoe, IL",42.4112254,-89.0398469,1.543635121535034
+2019-09-22 21:48:29,Subject-HRFD:5724 Cypress Lane (Med) Msg-M Fall Victim Outside,5724 Cypress Lane Med M Fall Victim Outside,"5724 Cypress Lane, Roscoe, IL",42.3839128,-89.00672349999999,2.071477292251383
+2019-09-22 21:48:39,Subject-HRFD:568 Althea St (Fire) Msg-86 F Medical Pendent Alarm,568 Althea St Fire 86 F Medical Pendent Alarm,"568 Althea St, Roscoe, IL",42.368318,-89.0473292,3.6799992616659503
+2019-09-22 21:48:49,Subject-HRFD:1123 Brentwood (Fire) Msg-84 F High BP,1123 Brentwood Fire 84 F High BP,"1123 Brentwood, Roscoe, IL",42.3834638,-89.02504619999999,2.2353092997471395
+2019-09-22 21:48:58,Subject-HRFD:5888 Kelmor Dr (Med) Msg-Transport,5888 Kelmor Dr Med Transport,"5888 Kelmor Dr, Roscoe, IL",42.4240394,-89.0025082,0.7988027145591677
+2019-09-22 21:49:07,Subject-HRFD:prairie Hill Rd and White School Rd (Fire) Msg-MVA,prairie Hill Rd and White School Rd Fire MVA,"prairie Hill Rd and White School Rd, Roscoe, IL",42.4718656,-88.96026429999999,4.7409168344262484
+2019-09-22 21:49:17,Subject-HRFD:4282 E Rockton Rd (Med) Msg-low O2 level,4282 E Rockton Rd Med low O2 level,"4282 E Rockton Rd, Roscoe, IL",42.457166,-89.0342862,3.240956619137042
+2019-09-22 21:49:24,Subject-HRFD:6340 McDonald  Rd (Med) Msg-Check up,6340 McDonald  Rd Med Check up,"6340 McDonald  Rd, Roscoe, IL",42.394219,-88.992352,1.6236255878414416
+2019-09-22 21:49:33,Subject-HRFD:251 And Mcdonald (Fire) Msg-MVA,251 And Mcdonald Fire MVA,"251 And Mcdonald, Roscoe, IL",42.4282658,-89.0158539,1.0420637598009421
+2019-09-22 21:49:42,Subject-HRFD:7224 Wimpleton Way (Fire) Msg-CO Alarm,7224 Wimpleton Way Fire CO Alarm,"7224 Wimpleton Way, Roscoe, IL",42.36980399999999,-89.0005096,3.0765499948607666
+2019-09-22 21:49:52,"Subject-HRFD:1261 Harrison Ave (Fire) Msg-Stucture Fire, Structure Fire - Flames Showing","1261 Harrison Ave Fire Stucture Fire, Structure Fire - Flames Showing","1261 Harrison Ave, Roscoe, IL",42.41629140000001,-89.00227629999999,0.4239394305992661
+2019-09-22 21:50:01,Subject-HRFD:10544 Main St (Med) Msg-drive up trouble breathing,10544 Main St Med drive up trouble breathing,"10544 Main St, Roscoe, IL",42.4138335,-89.0098726,0.0
+2019-09-22 21:50:10,Subject-HRFD:5601 E Rockton Rd (Med) Msg-trouble breathing,5601 E Rockton Rd Med trouble breathing,"5601 E Rockton Rd, Roscoe, IL",42.4567202,-89.0054579,2.9687617033129046
+2019-09-22 21:50:20,"Subject-HRFD:904 Crystal Dr (Med) Msg-75 M, Fall Victim","904 Crystal Dr Med 75 M, Fall Victim","904 Crystal Dr, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-22 21:50:29,Subject-HRFD:4781 E Rockton Rd (Med) Msg-19 F nose bleed,4781 E Rockton Rd Med 19 F nose bleed,"4781 E Rockton Rd, Roscoe, IL",42.4542035,-89.0245048,2.885144929313215
+2019-09-22 21:50:39,Subject-HRFD:4055 Steele Dr (Med) Msg-40 F Rapid heart rate,4055 Steele Dr Med 40 F Rapid heart rate,"4055 Steele Dr, Roscoe, IL",42.368699,-89.0217419,3.173933863775027
+2019-09-22 21:50:47,Subject-HRFD:Alpine And West Lane (Fire) Msg-Fire coming from drainage drain,Alpine And West Lane Fire Fire coming from drainage drain,"Alpine And West Lane, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-22 21:50:56,"Subject-HRFD:8112 McCurry Rd (Med) Msg-77 F, BP","8112 McCurry Rd Med 77 F, BP","8112 McCurry Rd, Roscoe, IL",42.4508996,-88.958405,3.670254057713105
+2019-09-22 21:51:07,Subject-HRFD:Chicory ridge Rd and Roscoe Rd (Fire) Msg-MVA,Chicory ridge Rd and Roscoe Rd Fire MVA,"Chicory ridge Rd and Roscoe Rd, Roscoe, IL",42.3923426,-89.01244779999999,1.489195956880506
+2019-09-22 21:51:16,"Subject-HRFD:890 Ralston Rd (Med) Msg-70 yom, troub breath","890 Ralston Rd Med 70 yom, troub breath","890 Ralston Rd, Roscoe, IL",42.3692855,-89.0411904,3.4672764542399297
+2019-09-22 21:51:25,"Subject-HRFD:3013 Lotus Ln (Med) Msg-post choking, chest pain , troub breath","3013 Lotus Ln Med post choking, chest pain , troub breath","3013 Lotus Ln, Roscoe, IL",42.3553676,-89.04770239999999,4.475714534149693
+2019-09-22 21:51:35,Subject-HRFD:10544 Main St (Med) Msg-Chest Pain WALK IN,10544 Main St Med Chest Pain WALK IN,"10544 Main St, Roscoe, IL",42.4138335,-89.0098726,0.0
+2019-09-22 21:51:36,Subject-RESEND: HRFD:11722 Parkway Dr (Med) Msg-Domestic PLEASE STAGE,Subject-RESEND: HRFD:11722 Parkway Dr (Med) Msg-Domestic PLEASE STAGE,,,,
+2019-09-22 21:51:47,Subject-HRFD:11722 Parkway Dr (Med) Msg-Domestic PLEASE STAGE,11722 Parkway Dr Med Domestic PLEASE STAGE,"11722 Parkway Dr, Roscoe, IL",42.4309424,-89.0105762,1.1814528959021668
+2019-09-22 21:51:56,Subject-HRFD:5792 Elevator Rd (Fire) Msg-F Fall Victim ROSCOE TWP PARKING LOT,5792 Elevator Rd Fire F Fall Victim ROSCOE TWP PARKING LOT,"5792 Elevator Rd, Roscoe, IL",42.4283546,-89.0043012,1.0419985282417628
+2019-09-22 21:52:06,Subject-HRFD:8285 Highhill Rd (Fire) Msg-86 F Trouble Breathing,8285 Highhill Rd Fire 86 F Trouble Breathing,"8285 Highhill Rd, Roscoe, IL",42.3785005,-88.9851229,2.7478890158289153
+2019-09-22 21:52:15,Subject-HRFD:5000 Prairie Rose Rd (Med) Msg-F Unknown Medical RMH IN ROSCOE PARKING LOT,5000 Prairie Rose Rd Med F Unknown Medical RMH IN ROSCOE PARKING LOT,"5000 Prairie Rose Rd, Roscoe, IL",42.436794,-89.019514,1.6597196785137838
+2019-09-22 21:52:24,Subject-HRFD:4060 McFarland Rd (Med) Msg-56 M Fall Victim MILESTONE-OUTSIDE,4060 McFarland Rd Med 56 M Fall Victim MILESTONE-OUTSIDE,"4060 McFarland Rd, Roscoe, IL",42.3218192,-88.98072409999999,6.523908681432229
+2019-09-22 21:52:34,Subject-HRFD:20152 Free hhurch Rd (Fire) Msg-wire down across roadway,20152 Free hhurch Rd Fire wire down across roadway,"20152 Free hhurch Rd, Roscoe, IL",42.44475,-88.92125899999999,5.008482107778181
+2019-09-22 21:52:43,"Subject-HRFD:5878 Rural Edge Dr (Med) Msg-44 yom, rapid heart rate","5878 Rural Edge Dr Med 44 yom, rapid heart rate","5878 Rural Edge Dr, Roscoe, IL",42.4058624,-89.0052724,0.5983898140041641
+2019-09-22 21:52:51,"Subject-HRFD:Edgemere Terr and Mount Vernon (Fire) Msg-Large fire, trees and grass","Edgemere Terr and Mount Vernon Fire Large fire, trees and grass","Edgemere Terr and Mount Vernon, Roscoe, IL",42.4249838,-89.02634139999999,1.140917692437231
+2019-09-22 22:31:48,Subject-HRFD:4070 YALE DR (Med) Msg-59 M CHEST PAIN,4070 YALE DR Med 59 M CHEST PAIN,"4070 YALE DR, Roscoe, IL",42.4553704,-89.0377755,3.202349090096636
+2019-09-22 23:02:09,Subject-HRFD:329 RALSTON RD (Med) Msg-66 F FALL FOOT PAIN,329 RALSTON RD Med 66 F FALL FOOT PAIN,"329 RALSTON RD, Roscoe, IL",42.3681576,-89.0511725,3.7953215325933956
+2019-09-23 00:34:10,Subject-HRFD:9768 POPPY DR (Med) Msg-70 F CHEST PAIN,9768 POPPY DR Med 70 F CHEST PAIN,"9768 POPPY DR, Roscoe, IL",42.3641185,-89.04843,3.9581505542025526
+2019-09-23 05:04:10,Subject-HRFD:6439 FOXDALE ST (Med) Msg-60 F VOMITING BLOOD,6439 FOXDALE ST Med 60 F VOMITING BLOOD,"6439 FOXDALE ST, Roscoe, IL",42.3986173,-88.99143079999999,1.4117166894677278
+2019-09-23 09:32:10,Subject-HRFD:9628 Forest Hills Rd (Fire) Msg-F Insulin Reaction APRIA HEALTH CARE,9628 Forest Hills Rd Fire F Insulin Reaction APRIA HEALTH CARE,"9628 Forest Hills Rd, Roscoe, IL",42.3688806,-89.01599139999999,3.1185138782213295
+2019-09-23 10:40:11,Subject-HRFD:1304 Anvil Dr (Fire) Msg-CFA -- Shop Fire RUSCO MFG,1304 Anvil Dr Fire CFA -- Shop Fire RUSCO MFG,"1304 Anvil Dr, Roscoe, IL",42.3759664,-89.0301648,2.8123216270364044
+2019-09-23 10:58:15,Subject-HRFD:8178 Omega Dr (Fire) Msg-79 M Poss Seizure,8178 Omega Dr Fire 79 M Poss Seizure,"8178 Omega Dr, Roscoe, IL",42.4296425,-88.95685309999999,2.9227363765315872
+2019-09-23 11:36:07,Subject-HRFD:9229 N Alpine Rd (Fire) Msg-Students stuck in Elevator HARLEM H.S. -,9229 N Alpine Rd Fire Students stuck in Elevator HARLEM H.S. -,"9229 N Alpine Rd, Roscoe, IL",42.35737,-89.026274,3.9865847606728684
+2019-09-23 16:34:10,Subject-HRFD:9636 Ramboulet Ridge (Med) Msg-Fall Victim,9636 Ramboulet Ridge Med Fall Victim,"9636 Ramboulet Ridge, Roscoe, IL",42.3997721,-89.00273229999999,1.0370040018645537
+2019-09-23 21:00:09,"Subject-HRFD:13434 Big stone cir (Med) Msg-Took Medication, now unconscious but breathing","13434 Big stone cir Med Took Medication, now unconscious but breathing","13434 Big stone cir, Roscoe, IL",42.4559588,-88.9748558,3.414625166969782
+2019-09-23 22:00:09,"Subject-HRFD:9917 N Alpine (Fire) Msg-curtis metal finishing, machine on fire","9917 N Alpine Fire curtis metal finishing, machine on fire","9917 N Alpine, Roscoe, IL",42.3723362,-89.02465409999999,2.9624057974833735
+2019-09-23 22:40:12,"Subject-HRFD:11128 3rd St (Med) Msg-59 yof, troub breath","11128 3rd St Med 59 yof, troub breath","11128 3rd St, Roscoe, IL",42.4222179,-89.0049736,0.6306228224959955
+2019-09-24 02:00:09,"Subject-HRFD:11612 Wagon Lane (Med) Msg-domestic, intoxicated female, stage for PD","11612 Wagon Lane Med domestic, intoxicated female, stage for PD","11612 Wagon Lane, Roscoe, IL",42.4297657,-89.03702899999999,1.7714374068520058
+2019-09-24 08:38:10,Subject-HRFD:10821 Keokuk Rd (Med) Msg-57 M Lift Assist,10821 Keokuk Rd Med 57 M Lift Assist,"10821 Keokuk Rd, Roscoe, IL",42.41829449999999,-88.9522717,2.962008535522725
+2019-09-24 09:50:11,Subject-HRFD:1304 Anvil Rd (Fire) Msg-CFA - Shop Fire RUSCO MFG,1304 Anvil Rd Fire CFA - Shop Fire RUSCO MFG,"1304 Anvil Rd, Roscoe, IL",42.3759664,-89.0301648,2.8123216270364044
+2019-09-24 10:28:13,Subject-HRFD:9903 Cllay Ct (Fire) Msg-CO Alarm NO SYMPTOMS,9903 Cllay Ct Fire CO Alarm NO SYMPTOMS,"9903 Cllay Ct, Roscoe, IL",42.4046366,-88.9880117,1.2858061335586906
+2019-09-24 10:29:59,Subject-RESEND: HRFD:9903 Clay Court (Fire) Msg-CO Alarm NO SYMPTOMS,Subject-RESEND: HRFD:9903 Clay Court (Fire) Msg-CO Alarm NO SYMPTOMS,,,,
+2019-09-24 10:48:16,Subject-HRFD:5000 Prairie Rose Rd (Fire) Msg-61 M Trouble Breathing RMH IN ROSCOE ROOM #D12,5000 Prairie Rose Rd Fire 61 M Trouble Breathing RMH IN ROSCOE ROOM #D12,"5000 Prairie Rose Rd, Roscoe, IL",42.436794,-89.019514,1.6597196785137838
+2019-09-24 11:32:09,Subject-HRFD:10375 Metalmark#2 (Fire) Msg-M Poss Seizure,10375 Metalmark#2 Fire M Poss Seizure,"10375 Metalmark#2, Roscoe, IL",,,
+2019-09-24 14:20:09,Subject-HRFD:576 Wynstone Way (Fire) Msg-54 F Fall Victim,576 Wynstone Way Fire 54 F Fall Victim,"576 Wynstone Way, Roscoe, IL",42.4586843,-89.0326058,3.306740568535889
+2019-09-24 14:40:14,Subject-HRFD:1975 Lakindale (Med) Msg-Pendant Alarm,1975 Lakindale Med Pendant Alarm,"1975 Lakindale, Roscoe, IL",42.3725594,-89.00138749999999,2.8817282139263143
+2019-09-24 15:54:10,Subject-HRFD:11347 Main St (Fire) Msg-55 F Seizure WHIFFLE TREE (IN THE BAR),11347 Main St Fire 55 F Seizure WHIFFLE TREE (IN THE BAR),"11347 Main St, Roscoe, IL",42.4252737,-89.0120701,0.7975919995461782
+2019-09-24 16:42:11,Subject-HRFD:10343 Monarch (Fire) Msg-Poss OD STAGE UNTIL ADVISED FURTHER,10343 Monarch Fire Poss OD STAGE UNTIL ADVISED FURTHER,"10343 Monarch, Roscoe, IL",42.4099316,-89.04126509999999,1.628085947236157
+2019-09-24 18:48:12,Subject-HRFD:10153 Nsecond (Fire) Msg-gas leak,10153 Nsecond Fire gas leak,"10153 Nsecond, Roscoe, IL",42.4078942,-89.0117563,0.4211166111297446
+2019-09-24 23:20:11,Subject-HRFD:11155 bayberry dr (Med) Msg-bleeding,11155 bayberry dr Med bleeding,"11155 bayberry dr, Roscoe, IL",42.4234337,-88.9772481,1.7952559570777054
+2019-09-25 08:04:13,Subject-HRFD:Alpine And Husky Cir (Med) Msg-MVA`,Alpine And Husky Cir Med MVA`,"Alpine And Husky Cir, Roscoe, IL",42.4133505,-89.0092741,0.04525991962238176
+2019-09-25 09:12:09,"Subject-HRFD:9541 Twin Deer Run (Med) Msg-68 F, Seizures","9541 Twin Deer Run Med 68 F, Seizures","9541 Twin Deer Run, Roscoe, IL",42.3994399,-88.99326169999999,1.3072754406107963
+2019-09-25 10:30:09,Subject-HRFD:10421 Metalmark #2 (Med) Msg-78 F medical alarm,10421 Metalmark #2 Med 78 F medical alarm,"10421 Metalmark, Roscoe, IL",42.4114095,-89.04350430000001,1.7282832779317399
+2019-09-25 11:12:11,"Subject-HRFD:6803 Graystone (Med) Msg-85 F, BP","6803 Graystone Med 85 F, BP","6803 Graystone, Roscoe, IL",42.4055463,-88.99013769999999,1.1602328920996754
+2019-09-25 11:28:11,Subject-HRFD:1304 Anvil Dr (Fire) Msg-Automatic Commercial Fire Alarm,1304 Anvil Dr Fire Automatic Commercial Fire Alarm,"1304 Anvil Dr, Roscoe, IL",42.3759664,-89.0301648,2.8123216270364044
+2019-09-25 11:52:10,Subject-HRFD:251 And Elevator (Med) Msg-MVA,251 And Elevator Med MVA,"251 And Elevator, Roscoe, IL",42.429103,-89.0163259,1.1044058682336708
+2019-09-25 12:16:09,"Subject-HRFD:5332 Cypress Ln (Med) Msg-72Leg Pain , Tbl Bx","5332 Cypress Ln Med 72Leg Pain , Tbl Bx","5332 Cypress Ln, Roscoe, IL",42.3831654,-89.0125743,2.1212980460619875
+2019-09-25 15:56:11,Subject-HRFD:1416 Otto Rd (Med) Msg-Bee Sting,1416 Otto Rd Med Bee Sting,"1416 Otto Rd, Roscoe, IL",42.3861619,-89.02153650000001,2.00100243511147
+2019-09-25 16:32:11,"Subject-HRFD:9826 Petry close (Med) Msg-28 M, Chest Pain","9826 Petry close Med 28 M, Chest Pain","9826 Petry close, Roscoe, IL",42.4034148,-89.0086901,0.7216657341638251
+2019-09-26 01:24:10,Subject-HRFD:111620 DOROTHEA AVE (Med) Msg-F BATTERY VICTIM,111620 DOROTHEA AVE Med F BATTERY VICTIM,"111620 DOROTHEA AVE, Roscoe, IL",42.38572490000001,-89.0270334,2.129509996086705
+2019-09-26 01:26:00,Subject-RESEND: HRFD:11620 DOROTHEA AVE (Med) Msg-F BATTERY VICTIM,Subject-RESEND: HRFD:11620 DOROTHEA AVE (Med) Msg-F BATTERY VICTIM,,,,
+2019-09-26 06:34:09,Subject-HRFD:Forest Hills and West Lane (Fire) Msg-MVA- Car vs Motorcycle,Forest Hills and West Lane Fire MVA- Car vs Motorcycle,"Forest Hills and West Lane, Roscoe, IL",42.3645888,-89.0186976,3.4288507809207505
+2019-09-26 07:06:15,Subject-HRFD:12048 Bluestem (Fire) Msg-M Lift Assist,12048 Bluestem Fire M Lift Assist,"12048 Bluestem, Roscoe, IL",42.43519999999999,-89.02627,1.6964923136761698
+2019-09-26 10:48:00,Subject-RESEND: HRFD:889 McCurry Rd (Fire) Msg-M Shortness of Breath,Subject-RESEND: HRFD:889 McCurry Rd (Fire) Msg-M Shortness of Breath,,,,
+2019-09-26 10:48:13,Subject-HRFD:889 McCurry Rd (Fire) Msg-M Shortness of Breath,889 McCurry Rd Fire M Shortness of Breath,"889 McCurry Rd, Roscoe, IL",42.449253,-88.92251700000001,5.091932370225013
+2019-09-26 10:54:11,Subject-HRFD:10544 Main St (Med) Msg-Walk In Medical,10544 Main St Med Walk In Medical,"10544 Main St, Roscoe, IL",42.4138335,-89.0098726,0.0
+2019-09-26 11:08:10,Subject-HRFD:2205 Ridge Ave (Fire) Msg-SM CHILDREN LOCKED IN VEHICLE-NOT RUNNING @ PRICE PARK,2205 Ridge Ave Fire SM CHILDREN LOCKED IN VEHICLE-NOT RUNNING @ PRICE PARK,"2205 Ridge Ave, Roscoe, IL",42.37218319999999,-88.99569029999999,2.9649665125576474
+2019-09-26 16:28:10,Subject-HRFD:12416 North Gate Rd (Fire) Msg-58 M Severe head pressure (not due to a fall),12416 North Gate Rd Fire 58 M Severe head pressure (not due to a fall),"12416 North Gate Rd, Roscoe, IL",42.4416978,-88.96782759999999,2.884672241752647
+2019-09-26 17:50:09,"Subject-HRFD:I-90 mm6 Eb (Fire) Msg-semi on Fire, still moving EB","I-90 mm6 Eb Fire semi on Fire, still moving EB","I-90 mm6 Eb, Roscoe, IL",42.41354219999999,-88.9856156,1.2408183984640269
+2019-09-26 18:28:11,Subject-HRFD:5378 reed lane (Med) Msg-Change in Mental Status,5378 reed lane Med Change in Mental Status,"5378 reed lane, Roscoe, IL",42.4187255,-89.0118274,0.352149369783638
+2019-09-27 06:26:09,"Subject-HRFD:7867 Windspoint Rd (Med) Msg-79 M, Lift Assist","7867 Windspoint Rd Med 79 M, Lift Assist","7867 Windspoint Rd, Roscoe, IL",42.4464835,-88.962294,3.3162294482979435
+2019-09-27 06:52:09,"Subject-HRFD:11720 Dorthea Ave (Med) Msg-63M, Tbl Bx","11720 Dorthea Ave Med 63M, Tbl Bx","11720 Dorthea Ave, Roscoe, IL",42.3888713,-89.0284435,1.9675140082760416
+2019-09-27 12:14:13,"Subject-HRFD:10036 Main St (Med) Msg-63 M Vomitting, Feeling Ill","10036 Main St Med 63 M Vomitting, Feeling Ill","10036 Main St, Roscoe, IL",42.406135,-89.00954809999999,0.531630337708508
+2019-09-27 13:50:14,Subject-HRFD:1516 West Lane Rd (Fire) Msg-MVA,1516 West Lane Rd Fire MVA,"1516 West Lane Rd, Roscoe, IL",42.36603580000001,-89.0272115,3.4163135561515316
+2019-09-27 14:52:13,Subject-HRFD:5437 Ebonywood Ln (Fire) Msg-Automatic Residential Fire Alarm,5437 Ebonywood Ln Fire Automatic Residential Fire Alarm,"5437 Ebonywood Ln, Roscoe, IL",42.3850937,-89.01097469999999,1.9844957087503958
+2019-09-27 19:20:10,Subject-HRFD:4952 crown point rd (Med) Msg-chest pains,4952 crown point rd Med chest pains,"4952 crown point rd, Roscoe, IL",42.427706,-89.0204163,1.0989042939486644

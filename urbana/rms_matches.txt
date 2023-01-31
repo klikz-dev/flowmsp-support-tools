@@ -1,0 +1,3190 @@
+2a468634-6823-48db-9231-7d8c48ac999b
+{'address1': '606 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109352016,FPP
+
+eaf05eee-5b3d-4faf-8f73-69fc852d94b9
+{'address1': '503 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922117229009,FPP,704
+
+b3f233b1-2d3a-4b84-9935-3c09761c8991
+{'address1': '509 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922117229009A
+
+712f09b5-0c67-41f2-8111-761ad3be2274
+{'address1': '110 N Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108478018,FPP
+
+7cfcb570-adbe-4320-a45a-12dbc4c322d3
+{'address1': '102 N Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108478017,FPP
+
+5ef1d32f-ca53-4cc9-ae1b-6c554246cbdf
+{'address1': '301 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922117227011,FPP,704
+
+1c31d1c6-c4ec-4a5b-a414-acfcf8df4745
+{'address1': '306 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108478015R,FPP,704
+
+6b6c3558-c3af-4df1-847c-c01ac5f83a46
+{'address1': '101 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117207001,FPP
+
+ac83721a-bffa-4314-a1cc-734d4511a8e5
+{'address1': '101 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117207001,FPP
+
+14141bbd-d49b-4d11-84fc-a72db0d6b7b0
+{'address1': '115 W Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117206007A
+NOTE,922117206007C
+NOTE,922117206007D
+NOTE,922117206007B
+NOTE,922117206007,FPP,LIQ
+
+2844832e-bb6f-43ca-8113-090e686d9a83
+{'address1': '302 W Elm St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117135014
+
+851e0bac-fc40-4800-b9bf-fac68f046ddd
+{'address1': '301 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117135015
+
+62e1486d-37fd-4ab4-bc4c-8d7816a98626
+{'address1': '303 W Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117130016,FPP
+
+ef4a0f81-b2d5-4671-89d5-dc80a23fd518
+{'address1': '306 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117130015,FPP
+
+082c9f25-8458-4c0e-a2f0-d2eec75b27e5
+{'address1': '312 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117130014B
+NOTE,922117130014
+
+f593db39-9cab-49de-9fbb-ca5c24c429f6
+{'address1': '205 N Race St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108453017,U116
+
+24c613ab-3a25-44e8-b038-c7fb060efa55
+{'address1': '211 N Race St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108453001A,U116
+
+db441c75-183f-46f9-9c26-eee5594f71a1
+{'address1': '303 W Griggs St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108383004
+
+b0a376e2-a16c-4854-973d-b41f087a7bf3
+{'address1': '223 N Broadway Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108456001,FPP
+
+fe73ddba-02bc-4dd5-af49-b989cc2b0cab
+{'address1': '400 N Broadway Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108459005
+
+60d58ce1-afbb-4343-81bb-8baf201d4c1d
+{'address1': '403 N Vine St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108460002,FPP
+
+c67a3a4a-7c55-4bb4-ba71-ee27a55dc0c3
+{'address1': '410 N Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108476004A,FPP
+
+e32b3566-a82f-4aaf-a206-0cae2e9bd37f
+{'address1': '402 N Broadway Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108459003
+
+5969d5dd-b36f-4991-906e-3d490ea19c9b
+{'address1': '405 N Broadway Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108455012B
+NOTE,912108455012D
+NOTE,912108455012E
+NOTE,912108455012
+
+0a84cd34-2419-4b3b-ae50-a0fc23aabb3d
+{'address1': '408 N Race St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108455015A
+NOTE,912108455015B
+NOTE,912108455015C
+NOTE,912108455015F
+
+8a442a08-1d9b-4741-9bfc-07152ea6f822
+{'address1': '410 N Race St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108455014,FPP
+
+aff65141-d037-454e-9a79-82ab97338c5d
+{'address1': '108 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108403005
+
+759f234c-ca01-4b4f-b8f5-af6e3dfa149a
+{'address1': '104 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108403009A
+NOTE,912108403009B
+NOTE,912108403009C
+NOTE,912108403009D
+NOTE,912108403009E
+
+0493996f-dc9c-48a1-93a0-f3a076cd25c5
+{'address1': '102 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108405039A,FPP
+NOTE,912108405039B,FPP
+NOTE,912108403010,FPP
+
+fe002c2f-b1ec-4081-aa34-5bceffe7da88
+{'address1': '206 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108405034
+
+7018f4df-5a77-4c41-8cda-2411641f8712
+{'address1': '505 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108405040,FPP
+
+d5783162-aa01-47d3-aaf1-4fda90e700db
+{'address1': '509 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108405027,FPP
+
+53d67fa5-8423-4cf5-92f8-58005275bb00
+{'address1': '601 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108405026,FPP
+
+36e87d0a-f3e5-4a07-ba85-4598883f9e3f
+{'address1': '703 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108404029,FPP
+
+6d6ad655-3fe0-4e1c-89b9-a8ff2f026e9d
+{'address1': '600 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108428006
+
+ac2611af-4c85-471b-912d-b8f14c8df07a
+{'address1': '1201 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109376009
+NOTE,912109376004
+
+5acc155d-656b-4435-a6e3-b480a0ae566c
+{'address1': '1101 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108405038B
+NOTE,912108405038-C,FPP,LIQ
+NOTE,912108405038-D
+NOTE,912108405038-E
+NOTE,912108405038-F
+NOTE,912108405038-GH
+NOTE,912108405038
+NOTE,912109376001B,FPP
+NOTE,912109376001A
+
+e68a8ce7-7e72-43c8-b0dc-13425be0be95
+{'address1': '306 N Maple St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108480004
+
+300c451d-2e56-483d-9cd2-ce46d32e0f33
+{'address1': '402 N Maple St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108480017
+
+a4c08704-57c3-4adc-bb7c-87402268c87d
+{'address1': '212 N Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108478014
+
+dcb71e2a-c475-4da7-bcac-ed0504ca9410
+{'address1': '220 N Broadway Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108461011A
+NOTE,912108461011,FPP,LIQ
+
+423e7b49-32cb-4606-ae07-181e865f0203
+{'address1': '203 N Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108461009,FPP,704
+
+0780e1ae-5191-4db6-aec7-8f1e175093be
+{'address1': '804 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109353015
+NOTE,912109353014,FPP
+
+f6695c19-d2ff-44f6-95c2-f4cd00b6f4dc
+{'address1': '804 E Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109353015
+NOTE,912109353014,FPP
+
+dfe4602c-b31d-41e1-8879-184e768ec502
+{'address1': '908 E Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109355020
+
+5625e276-4e9b-4e7a-84a0-afa07fccb877
+{'address1': '107 S Webber St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116101013,FPP
+
+1afd1ec9-57f1-40c3-901c-098496c9ddeb
+{'address1': '108 S Webber St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116030023,FPP
+
+fc653c48-fd8a-46ab-b423-ebf1696f274f
+{'address1': '508 S Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117276002,FPP,LIQ
+
+965bca8d-4a57-43e2-8453-f337b2acff32
+{'address1': '508 S Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117276002,FPP,LIQ
+
+1c3a0a9a-b2db-48a9-966b-d9f4d5198e1e
+{'address1': '507 S Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117254010
+
+9640f390-b8d5-4de4-8650-87a291f5903c
+{'address1': '207 E Illinois St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117254004,FPP
+
+6c95dacf-6ea5-4b99-8858-7796f62dbb6f
+{'address1': '601 S Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117258005
+
+feacd5a8-dba5-48e2-b8b8-244704703f4a
+{'address1': '508 S Broadway Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117253003
+
+63e07087-02fb-41f5-b58b-67d825962cce
+{'address1': '508 S Race St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117252009
+
+7ace02c2-80bd-4cbe-9dd7-718f4954cd84
+{'address1': '109 W Illinois St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117252014
+
+3da983ed-5487-4d80-8af1-cb0e4d725461
+{'address1': '202 W Illinois St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117213005,FPP
+
+d61f17a9-3a8f-4682-b724-a3acbb47c747
+{'address1': '201 W Green St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117212021
+NOTE,922117211004
+NOTE,922117211004C
+
+bee61dfc-cca6-46cc-83c9-afda63db606a
+{'address1': '205 W Green St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117211002A
+
+0aeecd2b-fd1e-4a16-b0eb-3e93e84a7d39
+{'address1': '301 W Green St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117137006
+
+e374d4a9-212c-4232-9fa5-9d1619996da1
+{'address1': '404 W Green St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117234007
+NOTE,922117132013
+NOTE,922117132013A
+
+a708c662-f5cf-4c4c-833d-295665a617c4
+{'address1': '502 W Green St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117127012
+
+5d3c622c-7345-484e-ae5f-d8b8d1998949
+{'address1': '607 W Elm St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117111003
+
+d8ca0527-4a20-4019-a938-8393ed6fd637
+{'address1': '408 E Illinois St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117243009,FPP
+
+49e12c94-54f9-40a9-9751-551c1073a98e
+{'address1': '204 W Washington St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117260007
+
+fe0c8e3e-1fc0-4aeb-a205-c524307c8817
+{'address1': '900 S Race St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117401023
+
+66334e75-191a-4049-8225-df31ce2a7e06
+{'address1': '600 E Pennsylvania Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117477008,FPP
+
+d34e70ef-96aa-44d4-9dab-9e1c481ba548
+{'address1': '1602 S Anderson St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+U116
+NOTE,922116352001,U116
+
+fe2a5157-4d9d-4f33-bd06-1ef319cb8b9a
+{'address1': '', 'address2': '', 'city': '', 'state': '', 'zip': ''}
+NOTE,
+
+080e32ae-867f-467e-9901-1087f0fe531f
+{'address1': '1205 E Florida Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932112126002F
+NOTE,932121126002C
+
+798382f0-880c-4bdc-b780-f2960c8316dd
+{'address1': '1705 S Philo Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121126031,FPP
+
+71a45327-9f68-460a-a47b-74b5386e904a
+{'address1': '1901 S Philo Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121176013A,FPP
+NOTE,932121176013B
+NOTE,932121176013C,FPP,LIQ
+
+2e675c2a-3f0b-4e34-a1be-b743f9cc8aef
+{'address1': '1305 E Colorado Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121176012
+
+7e8f5961-8692-4b49-bac9-ac8b5f257e9f
+{'address1': '1303 E Colorado Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121176011,FPP
+
+4746140b-5226-4b06-9b51-ec605f9d3520
+{'address1': '1101 E Colorado Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121176016,FPP
+
+42a78e0d-27e6-4c1e-8d0b-5e5d5e34c466
+{'address1': '1821 S Philo Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121126009,FPP,LIQ
+
+7150a971-cbdb-423e-8469-d91d9faec8d2
+{'address1': '1717 E Florida Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121201014H
+
+56216edb-7940-418a-8ac5-6dc661a5188e
+{'address1': '1717 E Florida Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121201014H
+
+7ad72cad-5c3d-47ba-924e-ab5295529b50
+{'address1': '1717 E Florida Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121201014H
+
+eb38b8e7-47ac-4e3a-9187-1361a2fac461
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+203621df-a101-4e4c-91e7-6a6a0f1a4fdb
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+2310ec48-249a-4bd7-a23b-2f8beca21623
+{'address1': 'undefined Unnamed Road', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+c7d17c7a-4bfa-44da-9025-1fc51ff30614
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+937f8220-2643-4b6e-b9f3-64a6fa60f370
+{'address1': 'undefined Unnamed Road', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+7ce4f200-9f33-474a-9c9d-bd902a5baa79
+{'address1': 'undefined W George Huff Ct', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+2825be6e-b2ed-4a9c-9dde-e94cf53891f3
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+7773dab0-052e-421f-895a-a2471bda4213
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+73173ea3-ff64-4edf-8562-ef83e691708a
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+d9a7b8b1-8336-42ab-94ec-e98232255e3b
+{'address1': 'undefined Unnamed Road', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+944f5906-36ff-41a5-aa99-f39c22e03130
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+465e3d1a-280a-4f5c-b594-d7f4dd3cc7b8
+{'address1': '511 Hazelwood Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000233,URU
+NOTE,UIUC000252,URU
+
+36917f71-aaf3-4030-aaa5-146d34d13316
+{'address1': '509 Hazelwood Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC001038,CNU
+
+7ecfc6c7-7311-47cd-9452-3d79b0a6edc1
+{'address1': '2500 S Philo Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121451001B
+NOTE,932121451001,FPP,LIQ
+
+4cb0de5b-e600-4872-ae0a-7577d6bee5be
+{'address1': '', 'address2': '', 'city': '', 'state': '', 'zip': ''}
+NOTE,
+
+05ac4085-929c-4e06-83df-247d53aa4aad
+{'address1': '', 'address2': '', 'city': '', 'state': '', 'zip': ''}
+NOTE,
+
+396621f8-97a6-400c-b2ea-9dd8ce36f6c2
+{'address1': '1505 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116200009,FPP,704
+
+21800e3b-1695-4331-acfe-2696d998c93a
+{'address1': '502 S Lierman Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116200005D,FPP
+
+1c310150-4893-4848-a86e-f313383e0acc
+{'address1': '312 W Oregon St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117183001,U116
+
+330222d4-3171-49df-8845-bdeaa22bfceb
+{'address1': '2502 S Race St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932120451003,FPP
+
+9af903a3-3aee-44e9-a772-d2b3beadaedb
+{'address1': '2501 S Myra Ridge Dr', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121400024,FPP
+
+c57c7ab3-2601-40fe-bf84-11d88220bcf7
+{'address1': '1710 E Windsor Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121400026,FPP
+
+fe8616e6-00e6-4ea0-9d32-6673ca9dad05
+{'address1': '1706 E Amber Ln', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+FPP
+NOTE,932121401015,FPP
+
+3908d876-d2a5-4ae0-9d88-72802fd5212e
+{'address1': '2005 S Philo Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121180011B
+NOTE,932121180011
+
+3e42736e-97dd-4e93-8a3d-1aa587596253
+{'address1': '1202 E Harding Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121176017
+
+5a61eb18-43fc-48b7-a6c4-8dd78062a5f1
+{'address1': '1209 E Colorado Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121176019
+
+fe484c58-e1df-482e-8515-0b843e823fdd
+{'address1': '1502 E Florida Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116453008
+
+a7c41c8d-7132-42e8-becd-514abf029e45
+{'address1': '1508 E Colorado Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121201005
+
+a9511027-dd6e-4abb-9cd9-c6897568b325
+{'address1': '1818 S Philo Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121201003,FPP,LIQ
+
+8d9bded5-8d22-4e0c-a916-d21e839ee515
+{'address1': '1002 S Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117302001
+
+f4f76961-3e7c-4737-8b6d-aac9bb91733d
+{'address1': '902 S Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117301001
+
+e0e31aaa-f3c9-4e58-b302-5f8018b79bff
+{'address1': '808 S Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108301001
+NOTE,922117154009
+
+39d49d7e-643a-49c9-b14e-4db4e4cdd895
+{'address1': '904 W Nevada St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC001133,URU
+
+a3cfc74e-d333-406d-a64e-9af96fb67d0a
+{'address1': '802 W Oregon St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117152014
+
+d6ad09a5-977c-4918-84ed-c6512d3512b0
+{'address1': '505 S Busey Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117151008
+
+a6a96703-e323-4553-b5c3-8edc870498cb
+{'address1': '809 W Illinois St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117151009B
+
+ecb39f63-ade7-4f8e-a5f2-df88f2d2909e
+{'address1': '809 W Illinois St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117151009B
+
+acbfa13a-a614-4e19-9c60-e3e6eaa012c3
+{'address1': '810 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108304012
+
+f8583c56-9cd0-486e-89ab-9d5a6f38a027
+{'address1': '808 W University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108304013
+
+81ef5c5a-5e41-4e73-988c-7db30802f6d9
+{'address1': '707 W Park St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108307002
+
+8b48c219-215f-4dee-83bd-d79f4570a79a
+{'address1': '602 W Church St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108308019
+
+8986c5fc-9ffa-48e3-9816-4fb29e95af1e
+{'address1': '204 W University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108402009
+
+bbda85d2-5296-4c7a-8e93-931698858da7
+{'address1': '301 W Park St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108329003
+NOTE,912108329006
+
+2aee3ff4-6f94-40a1-8c8d-e15ce97858ff
+{'address1': '102 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108405039A,FPP
+NOTE,912108405039B,FPP
+
+06f8f071-9a5e-4214-97da-0856e28c5366
+{'address1': '102 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108405039A,FPP
+NOTE,912108405039B,FPP
+
+1e6964d8-5b4b-4686-b97f-079ba82074d4
+{'address1': '302 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108427009,FPP,LIQ
+
+bbc67818-353e-4cd8-b121-035de28c7842
+{'address1': '1306 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109403001,FPP,704
+
+14e31b50-c0b2-41ba-803c-690bcf07182e
+{'address1': '601 Guardian Dr', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109426014,FPP,704
+
+12abcc9f-7f9b-4486-8833-237597e4345d
+{'address1': '1901 S High Cross Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932122280001,FPP,LIQ
+
+3136b780-da6d-418b-a388-1fc72e94b80b
+{'address1': '2106 E Windsor Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932122300002,FPP
+
+895d7cf0-0bf5-4546-a035-1446dfdda14d
+{'address1': '1818 E Windsor Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121404001,FPP
+
+0edf1684-e04e-4a70-bcc7-df5d254f8b6d
+{'address1': '2740 S Philo Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932128201004A,FPP
+NOTE,932128201004B
+NOTE,932128201004C
+NOTE,932128201004D,FPP
+NOTE,932128201004F
+
+6aa29062-69d8-40a8-8a19-c308c0784919
+{'address1': '2860 S Philo Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932128201004G
+NOTE,932128201004H
+NOTE,932128201004K
+NOTE,932128201004L
+
+706d553d-48ba-4a7e-b249-a23acfaebadd
+{'address1': '2805 Boulder Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932128224001
+
+430e3f5f-d296-475c-a96f-57851a85f949
+{'address1': '1002 S Race St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117402008A,U116
+NOTE,932117402008,U116
+
+5ae9afb8-b830-49df-9f5b-bbaeeefa651e
+{'address1': '308 E Michigan Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430015E
+
+6f2eec67-048a-4e81-8715-517126fa1beb
+{'address1': '306 E Michigan Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430015F
+
+949c0849-3616-4462-8510-d192370536a3
+{'address1': '306 E Michigan Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430015F
+
+a4ba7e01-d038-448a-a0d5-9164d851e03e
+{'address1': '402-410 E Michigan Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430015C
+
+f4f0a300-f1a2-48eb-8f25-cd2c2c32b3d0
+{'address1': '306 E Michigan Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430015F
+
+b63bd6fb-c34f-484c-88de-6b4f12db6e3a
+{'address1': '306 E Michigan Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430015F
+
+cb119762-227a-40f8-89ea-403256c02a6b
+{'address1': '308 E Michigan Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430015E
+
+162b9441-453d-46f4-a5c6-d3212ab2f051
+{'address1': '404 E Michigan Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430015B
+
+35ccfab1-5dce-4a9c-be3c-e8dc65792bb8
+{'address1': '404 E Michigan Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430015B
+
+cafebec1-9c4f-4cf5-8a14-d63a4707a84c
+{'address1': '1106 S Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108478018,FPP
+
+66c500b7-cea4-41ff-9452-016b2bb21f81
+{'address1': '100 S High Cross Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912114101001A,FPP
+NOTE,912114101001C
+NOTE,912114101001B
+NOTE,912114101001D
+NOTE,912114100005,FPP,LIQ
+
+68c7da7b-8027-4011-bfe7-2f7a8af3e3be
+{'address1': '213 Industrial Cir', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912115226025,FPP
+
+124ff32c-7370-4e93-a9b7-1d71f39f84ae
+{'address1': '1008 S Smith Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912115326012C
+
+bc95b567-fb1d-43a3-bf98-f65433de5035
+{'address1': '1004 S Smith Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912115326012A
+
+77cdc031-0c54-48ca-b924-c6bc542a91d8
+{'address1': '2102 E Washington St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912115151002,U116
+
+798d1b61-3ec0-43b9-98a8-eadfd598bf28
+{'address1': '2101 E Washington St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912115301001,FPP
+
+7672c6f9-2f7a-4608-bd98-d0d2c83bd4e0
+{'address1': '1505 E Washington St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116401021
+
+9142ec0f-b908-4d2b-b9df-da1d895ccb9a
+{'address1': '1507 E Washington St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116401022
+NOTE,922116401009
+
+31c55c56-d562-4360-aba3-3af0da666e83
+{'address1': '1507 E Washington St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116401022
+NOTE,922116401009
+
+c4723c83-986b-4f0e-9a09-a6ca2cb9a121
+{'address1': '1507 E Washington St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116401022
+NOTE,922116401009
+
+2087b03a-cf4f-4c54-85f7-e7ecf0f27325
+{'address1': '1501 E Washington St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116401001
+
+0abafdaa-b7f9-48e9-8092-a52cafec2714
+{'address1': '1110 S Philo Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922116327022,FPP
+
+aa18e4bf-c286-4acc-8d9b-ef7c5537c3c0
+{'address1': '1403 E Washington St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116327005A
+NOTE,922116327005C
+NOTE,922116327005D
+NOTE,922116327005E
+NOTE,922116327005F
+NOTE,922116327005H
+NOTE,922116327005I
+NOTE,922116327005J
+NOTE,922116327005K
+
+551bf99a-b634-48a7-b2f1-64b1384c5d32
+{'address1': '1401 E Washington St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116327004,FPP,LIQ
+
+ae1297ba-d3f2-46bf-a4d8-ced17efc75be
+{'address1': '811 S Glover Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116181009A,FPP,704
+
+810d3204-2620-45b6-8399-37857bd79376
+{'address1': '1202 E Washington St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116181008,FPP
+
+89a5face-4b97-47eb-8d01-32261f9bd69b
+{'address1': '704 S Glover Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116182007
+
+6a863e2c-20d6-44ae-a225-354b817c8d29
+{'address1': '706 S Glover Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116182008,FPP
+
+94a47d74-a113-4519-974a-0697c98b72b2
+{'address1': '602 S Glover Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116178025F
+NOTE,922116178025G
+NOTE,922116178025
+
+52c3339c-c40b-4c8d-b420-30e0ee1693a6
+{'address1': '602 S Glover Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116178025F
+NOTE,922116178025G
+NOTE,922116178025
+
+a680b0c8-cda2-4225-98de-0b57f3b87896
+{'address1': '1303 E Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116128002,FPP,LIQ
+
+8b4561c7-5d37-481f-b20f-78e6526df1d9
+{'address1': '1303 E Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116128002,FPP,LIQ
+
+7e7400ba-e723-4bb3-99ff-923b77252a63
+{'address1': '1207 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109376005B
+NOTE,912109376005
+
+156493cd-8ac7-4ce6-80ae-6d495428ac35
+{'address1': '1209 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109376007,FPP
+
+1ea14db5-8114-40a5-9a2b-e20fa69f4d4d
+{'address1': '1207 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109376005B
+NOTE,912109376005
+
+64699069-e629-49a2-a8c5-47d5572f0a30
+{'address1': '1211 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109451011,FPP
+
+105e9bde-18f0-4667-8d84-f5c3435ed656
+{'address1': '602 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108426004
+
+4fba6e61-3f5c-45c2-9405-65c3fdd2cd3d
+{'address1': '608 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108426005B
+NOTE,912108426005,FPP
+
+ad9af0be-b718-4555-92e5-05d54cae11fe
+{'address1': '605 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108405018A
+
+1a4414aa-666a-4bbb-85b7-8a4550a0332b
+{'address1': '607 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108405018B,FPP,LIQ
+
+57078546-0750-41bf-a1ef-cc74a2ec7f01
+{'address1': '1001 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108278022
+
+2c4db1d6-30e1-432a-b7e8-d5b5b314c9b4
+{'address1': '1002 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108279006
+
+b5e6e306-7cfb-4dea-a288-5a84db81d7e6
+{'address1': '1006 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108279010A
+
+04b8c232-a4b1-4fbb-bcf7-69585bff616b
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+5f18c3b5-9d1e-4f4a-90e7-d0bbc1d8ac1c
+{'address1': '608 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108279009
+
+708d8200-88be-4cb4-8570-48ed69bd0017
+{'address1': '610 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109151005
+
+4dfb0cde-f938-4827-814a-707a8f0a4ee6
+{'address1': '808 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103008H
+
+5b086db0-dde9-4970-b365-90dfa0881caf
+{'address1': '804 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103008D
+
+c36bd0cd-ef75-4ed5-aebc-a6f338586052
+{'address1': '818 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103008P
+
+127ecf77-98cc-4966-bbb3-521fdb9da68d
+{'address1': '814 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103008L
+
+9c5bad00-13ad-4ec9-97c9-eacfc43dc77c
+{'address1': '812 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103008J
+
+2270eeae-a955-43e9-8a18-0e172e83eb55
+{'address1': '815 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103008M
+
+ca4bd421-7f62-45f7-9518-f76e34be8fa4
+{'address1': '817 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103008O
+
+6eb35551-67f8-4af8-bc70-a076fd15a30e
+{'address1': '823 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103008U
+
+5d23df89-177b-46a8-b790-c043f8a7ab55
+{'address1': '801 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103007
+
+6394d2f1-4a4e-4943-8df4-246e02a68c14
+{'address1': '807 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103008G
+
+a1e007aa-ef9f-403f-ae84-11e9ba907fc5
+{'address1': '610 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109102010
+
+da533200-3467-4973-a8fe-6ba0f46b45e7
+{'address1': '1108 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109102006A
+NOTE,912109102006
+
+f7337d66-7641-41f1-b177-5d7020803c89
+{'address1': '606 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109102008
+
+bf90d532-b2f5-41e4-a763-7079ec529682
+{'address1': '1206 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109102005A
+NOTE,912109102005C
+NOTE,912109102005,FPP
+
+086bf019-a412-4f83-9f99-35bd3b668cfa
+{'address1': '804 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103006B
+
+3eee3e8d-3b7d-469a-b737-f2bd7e617387
+{'address1': '820 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103006J
+
+bc666997-6921-4500-92f1-4e999c5f77e2
+{'address1': '818 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103006I
+
+ba146bed-3dbd-4e95-8b0c-fe9000405ef8
+{'address1': '816 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103006H
+
+526bd63e-397e-4fc2-b243-f6e7e83afbc0
+{'address1': '810 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103006E
+
+dc733300-bfed-4a74-bf3b-b64307eb3a12
+{'address1': '1502 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103022
+NOTE,912109103022I
+NOTE,912109103022AE
+NOTE,912109103023,FPP
+
+462b12e7-486f-421e-baed-294ea0b1eb3c
+{'address1': '810 E Perkins Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103016,FPP
+
+8a0e3776-e175-49b8-a3d8-c13f2dfbb3e8
+{'address1': '1604 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104352016
+
+476249a7-0d18-4ec3-b027-fb37364f1915
+{'address1': '802 E Perkins Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103015,FPP,704
+
+b2018606-24ab-4611-b081-2a63418f25fd
+{'address1': '1702 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104352023,FPP,704
+
+5e9554f9-a180-4632-a56b-b3b9354e6c90
+{'address1': '1706 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104352022,FPP,LIQ
+
+6cee3ebe-eedd-4464-9609-04764beac709
+{'address1': '1707 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104351029,FPP
+
+0bd4af38-3e00-4803-8b2f-030f91d1d6e5
+{'address1': '1809 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104301019A,FPP,LIQ
+
+7fdbc0a0-fcef-458d-bb67-11d4ead523d3
+{'address1': '2009 N Kenyon Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104301021,FPP
+
+78b71eea-054f-4a7a-aff6-bf730f7a15b8
+{'address1': '2101 N Kenyon Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912404301020,FPP
+
+06402094-f6db-483f-9e76-f7ce1a1f2335
+{'address1': '2111 N Willow Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105427002,FPP
+
+07b031b0-9701-451c-aba1-58a3a29485a1
+{'address1': '2210 N Willow Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104100004,FPP
+
+32925314-fb2e-48cb-84dd-8020ecc49fa0
+{'address1': '2306 N Willow Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104151001,FPP
+
+6bec00fb-b29c-4291-a403-1578538b285a
+{'address1': '2306 N Willow Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104151001,FPP
+
+4df02a15-f30d-49f4-ac34-63e13aca4a22
+{'address1': '2310 N Willow Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104100018,FPP
+
+84cfc4aa-5123-40e4-968a-b8bfb03831d6
+{'address1': '2209 N Willow Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912105277004,FPP
+
+74fccde2-84c4-40a5-a153-3efe8fa28c88
+{'address1': '502 E Anthony Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912105277008
+
+17f07040-1bfc-460e-b12f-943ca005bd38
+{'address1': '2401 N Willow Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912105276010,FPP,704
+
+f77b7266-e672-44d7-823a-781e33aee2f6
+{'address1': '308 E Anthony Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+FPP
+NOTE,912105276006,FPP
+
+c2e041cd-d4cd-4504-bc05-597e2f60acc4
+{'address1': '406 E Anthony Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912105277009
+
+0c5b35a7-f089-425f-ad5b-486eb64fae8c
+{'address1': '2701 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104100017,FPP
+
+60a5408a-729c-4206-aa9c-c8fba7af3c84
+{'address1': '3008 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,911533452001,FPP,704
+
+a34d2f23-31a9-46f2-8f63-852b28cd837d
+{'address1': '1025 Napleton Way', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104151003B
+
+0ac6ecd2-d7ce-4fc6-8458-d04c3ae01ad3
+{'address1': '925 Napleton Way', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104151003A
+
+985765b6-8014-4f1c-a5ee-58c1cb0606a6
+{'address1': '1101 Napleton Way', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104151003C
+
+c11e01ea-e92c-4a03-9932-b94e3e9cab2e
+{'address1': '1111 Napleton Way', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104151003,FPP
+
+0da0f313-07a4-41a2-92c3-1d70232b2270
+{'address1': '1111 Napleton Way', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104151003,FPP
+
+b082865c-5d57-4050-8f14-79a1935ff302
+{'address1': '1812 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104352003,FPP,LIQ
+
+7ac73411-d150-4810-9f6d-229b79217a92
+{'address1': '1710 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104352021,FPP
+
+fc43248c-0410-41b5-9cbb-682dc5770bd6
+{'address1': '1710 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104352021,FPP
+
+9a71e3ac-a3de-4219-83ee-3f130e508729
+{'address1': '1710 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104352021,FPP
+
+cf3fca23-0b9f-48e6-afb9-51d65b53d4c8
+{'address1': '1802 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104352013
+
+ad93c122-ad95-4550-a74d-83ae00ae742d
+{'address1': '1710 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104352021,FPP
+
+82097d10-f146-4b8e-bec2-5be017318436
+{'address1': '1709 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104351025,FPP
+
+2431745c-7ec8-4059-80f2-dc15026c607d
+{'address1': '1605 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104351021,FPP,LIQ
+
+e34b4d2c-eafe-4421-bb84-71b33ba74a3f
+{'address1': '', 'address2': '', 'city': '', 'state': '', 'zip': ''}
+NOTE,
+
+a23fc6ed-464a-498a-bc03-c05daaea64c0
+{'address1': '', 'address2': '', 'city': '', 'state': '', 'zip': ''}
+NOTE,
+
+a386c218-2e07-4aa1-af89-fab79db4e022
+{'address1': '', 'address2': '', 'city': '', 'state': '', 'zip': ''}
+NOTE,
+
+2dc2cb5c-64d5-4716-acfe-ae737d2d3e82
+{'address1': '', 'address2': '', 'city': '', 'state': '', 'zip': ''}
+NOTE,
+
+44af7cba-3265-4f2a-b133-114080042e6a
+{'address1': '1102 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109151009,FPP
+
+62ae85e2-2753-403c-9a21-4e96e061ad15
+{'address1': '2006 N Linview Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105304010B
+NOTE,912105304010A
+
+88c774e9-c678-46de-b29d-e1c5c9e6b787
+{'address1': '2008 N Linview Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105304002
+
+c6b84a30-3b3f-4baa-a9a4-9e3fbf709331
+{'address1': '2004 N Linview Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105304004
+
+4f8d0c67-98c1-4e7a-a5e5-6efde7347c12
+{'address1': '2004 N Linview Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105304004
+
+65289dd9-c56f-4093-8507-d98bafaf87ca
+{'address1': '2005 N Linview Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105304044
+NOTE,912105304044A
+
+52c1417b-270f-4140-844a-8315af4308e7
+{'address1': '2010 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105301020,FPP
+
+707e8239-726c-49cd-abd7-9d2502e71a41
+{'address1': '2002 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105301004B,FPP
+NOTE,912105301004,FPP,LIQ
+
+d84728d5-1c62-465c-a09f-7ceea6af9b21
+{'address1': '2005 N Linview Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105304044
+NOTE,912105304044A
+
+8f9bdd6f-bbc4-43c2-8265-a32b43787087
+{'address1': '2001 N Linview Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105301016X
+NOTE,912105301016
+
+f3ff7185-37a9-4d6e-8a5b-2c53ec366d2b
+{'address1': '1908 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105301011,FPP
+
+92ee778a-e5f5-41dc-884b-dcb400533bae
+{'address1': '2001 N Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106426018,FPP
+
+04774224-38e5-4337-bb76-dc8a782df71b
+{'address1': '1614 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105353006
+
+cd5bd3d8-ce84-4730-a663-172a918d7ecb
+{'address1': '1604 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105354015
+
+e8a003c0-5f2f-42fd-85d5-9ea442cccba7
+{'address1': '1602 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105354013,FPP
+
+8caa0b08-2749-4773-8864-2531f9c43956
+{'address1': '806 W Bradley Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+FPP, 704
+NOTE,912105354011,FPP,704
+
+7d31b1c1-7fe3-4938-bdd2-232e37b4955d
+{'address1': '1501 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108101028,FPP,LIQ
+
+3e518165-4e60-4837-b32c-69df492920a0
+{'address1': '1500 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922108101027,FPP
+
+184946f7-53ab-4054-b596-26b25eba0eaa
+{'address1': '1306 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108101004
+
+0f611d63-556d-4294-b3a8-b5cd644b6618
+{'address1': '1302 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108101005
+
+2e87615f-793c-4975-9108-e22e64a66bc5
+{'address1': '502 N Busey Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108307011
+
+04625365-14df-4409-bd53-0bfc1165ebb7
+{'address1': '802 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108304016,FPP
+
+54b9a1a2-6c0e-48bb-b97d-f5a9d9a6f25a
+{'address1': '805 W Park St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108304007
+
+0be59a48-aa04-4048-a452-abff3d2c7052
+{'address1': '701 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108356003
+
+895502c6-b14e-4bb0-8226-e5b149ccc39c
+{'address1': '709 W University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108356001
+
+ec963b53-0783-4516-b1ad-107a6c79d9c2
+{'address1': '406 N Busey Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108356004
+
+1bc3d427-dfa8-47e3-90f4-75be0e229651
+{'address1': '309 N Busey Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108353021
+
+47134d6c-87a1-4c77-b309-f12f7a286210
+{'address1': '305 N Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107485001
+
+7abf3037-b3d8-4e83-9b5c-f0e070647dea
+{'address1': '305 N Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107485001
+
+719cbbc6-435a-4f73-8903-e52361b4fedf
+{'address1': '305 N Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107485001
+
+a3ee7fb6-5ed7-4f44-a231-b4eb5e0b508a
+{'address1': '1009 W Clark St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107481002
+
+9a417af7-32ce-44b4-a1cb-0170abf8ffdd
+{'address1': '208 N Harvey St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107482018
+
+6ee9fef6-08a8-4cb0-a917-357efb051c43
+{'address1': '1009 W Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202021
+
+a5ca9394-5060-4c1d-82f9-7b992f46965b
+{'address1': '1007 W Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202021
+NOTE,912107482020
+
+db7cebcc-a436-474c-8e01-9880c19695ce
+{'address1': '1003 W Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202021
+
+cf0f74af-6f15-4a2b-a131-bc99bf7fc13c
+{'address1': '204 N Harvey St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107482019
+
+a505563c-7d4a-445d-8127-d329105fd9f2
+{'address1': '902 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107487010,FPP
+
+34e34794-fca5-4755-95d1-40b1b6fff400
+{'address1': '911 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118227008
+
+4f1344ba-3241-49e3-8a39-40f95256c24a
+{'address1': '905 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118227009
+
+ccf3f092-e3aa-494a-aab0-e520d4c3f1a1
+{'address1': '102 N Gregory St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118227007
+
+c737a766-fbcf-4a38-8799-e242f596698a
+{'address1': '901 W Western Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118228010
+
+acd31766-424b-4849-a05b-174824081f27
+{'address1': '103 S Gregory St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000083,CNU
+NOTE,UIUC000208,URU
+
+c0bb238a-dfd7-4e77-b673-819842882109
+{'address1': '102 S Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117101006
+NOTE,922117102001
+
+54b4a773-9ed5-4eb6-8091-939cf12f5e07
+{'address1': '102 N Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117101006
+
+cd242ba6-c3ad-4f38-af3b-e900ca44b956
+{'address1': '1108 S Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117303003
+
+289756ed-4fa5-40db-bf62-c2c82496ebd5
+{'address1': '1106 S Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117303002
+
+3d690d8b-289a-46d1-93dc-8613f441b443
+{'address1': '1102 S Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117303001
+
+0a790ee4-feb8-4dbd-9fe3-bfee87569e3f
+{'address1': '1004 S Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117302002
+
+ca520e00-b53d-433e-a030-aa2aa60e8359
+{'address1': '901 W Oregon St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000367,URU
+
+b35f79e7-8db7-4465-a117-e44c1687e9e9
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+f8ef14d4-95ae-484a-ba34-8a5751f6dc3c
+{'address1': '808 W Illinois St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117103012
+
+97ca4a09-7433-4753-8ad6-84ec677e46eb
+{'address1': '904 W Green St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118228019
+NOTE,932118228021
+
+df6eaf88-3a20-49be-950c-fb297f101781
+{'address1': '1002 W Green St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000300,URU
+
+bb8ab074-07fb-4c4e-92a1-883adb70dedb
+{'address1': '1002 W Clark St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107480019
+
+9da793d8-86b6-4857-bc92-50758a9e66f7
+{'address1': '1003 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107480018,FPP
+
+42523f70-6fbd-4cad-aa8d-cb96ba10d570
+{'address1': '1002 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107431013
+
+6491c63b-6ae4-4be6-a91e-59934fccc1bc
+{'address1': '1112 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107431025
+NOTE,912107431025A
+NOTE,912107431025B
+NOTE,912107431025C
+
+c092a8b1-b0f7-41f0-8df4-06d0f60c3a1b
+{'address1': '102 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117203001F
+NOTE,922117203001G
+NOTE,922117203001Q
+NOTE,922117203001I
+NOTE,922117203001J
+NOTE,922117203001K
+NOTE,922117203001L
+NOTE,922117203001H
+NOTE,922117203001M
+NOTE,922117203001N
+NOTE,922117203001O
+NOTE,922117203001P
+NOTE,922117203001A
+NOTE,922117203001B
+NOTE,922117203001C
+NOTE,922117203001D
+NOTE,922117203001E
+NOTE,922117203001R
+NOTE,922117203001
+
+063f554e-d73d-4056-b49e-09a17d1ef8e6
+{'address1': '221 N Broadway Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108457019
+
+8e371f0f-4948-4bc8-9588-b4d9c6359dac
+{'address1': '401 N Broadway Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108455017,FPP,LIQ
+
+4ea0bd5a-109d-4b18-b413-f008e2430a00
+{'address1': '1349 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107226017
+
+a8ece6d6-ff85-48c2-a8c4-26dc0642dab4
+{'address1': '1111 W Eads St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107276016,FPP,704
+
+48398fd9-497e-4e63-aaad-bf0e17b89608
+{'address1': '1008 N Goodwin Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107280001
+
+0fb2e8c5-589f-40b6-bc9a-208fed778b3d
+{'address1': '908 N Goodwin Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107280003
+
+7d907749-fbed-4c94-9ccc-4ac84295c4d1
+{'address1': '1201 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912109376009
+NOTE,912109376004
+NOTE,UIUC001094,URU
+NOTE,UIUC001094A,URU
+NOTE,UIUC001094B,URU
+NOTE,UIUC001094C,URU
+NOTE,UIUC001094D,URU
+NOTE,UIUC001094E,URU
+NOTE,UIUC001094F,URU
+
+02c304e6-f26d-4afc-9e34-58d828af317a
+{'address1': '1110 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000323,URU
+
+f3d52712-86fe-4aa5-be03-5c35ec9bc24e
+{'address1': '904 W Green St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118228019
+NOTE,932118228021
+
+1cbc5e82-b91a-44b2-bfa6-b086af4864a1
+{'address1': '400 S Vine St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117242001
+NOTE,922117268005
+NOTE,922117238004
+
+26858a7f-b118-4d05-b81e-4db090e9fe03
+{'address1': '502 S Vine St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117276001
+
+79932fc8-1417-4028-a645-c29411fd5d55
+{'address1': '602 S Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117280011
+
+c72c9c89-257b-4e21-a52e-7970ea2130c0
+{'address1': '208 E California Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117254009
+
+82eca887-aac2-461e-b507-0c3ab60ff726
+{'address1': '206 E California Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117254008
+
+123cf0cc-576d-4789-9ab2-25bb5c7cdf63
+{'address1': '200 N Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108478015,FPP,LIQ
+
+8d8cdb9e-8fd3-4316-9e3a-1508657d91ba
+{'address1': '510 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108481015,FPP,704
+
+c99a4de7-1097-4af5-9ca5-e8d6d803987b
+{'address1': '204 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108463006,FPP
+
+3059b08e-6b05-448d-a267-406754303117
+{'address1': '403 N Vine St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108460002,FPP
+
+9042432a-d839-40aa-88f6-e4141c622e36
+{'address1': '410 N Broadway Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108459002
+
+bc257123-766e-40eb-b653-6fd13c19e243
+{'address1': '101 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108455000,FPP
+
+c6fcb4bd-bbe9-432f-93a2-3c53dabef0e4
+{'address1': '1905 E Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116200005
+
+948da3c2-52b4-4eb1-89e3-ebffe9a4cfe9
+{'address1': '2001 E Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116200004
+
+77e62f2c-db7f-4de4-8a4d-568e1679a9db
+{'address1': '2100 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109476003,FPP,LIQ
+
+18a0dcff-6a8d-47f7-9b13-4294f8583bf5
+{'address1': '1705 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109477006,FPP
+
+db7cc8fc-da73-4cdd-9e43-5bfd77ae0579
+{'address1': '1705 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109477006,FPP
+
+5ff47cef-165b-4a6a-91a8-0c6febf0959b
+{'address1': '1705 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109477006,FPP
+
+e462f5bd-4152-43b5-b889-289c7a4e0cc6
+{'address1': '509 N Lierman Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109404003,FPP
+
+95919c83-5852-4e88-b72b-5e5394fa7812
+{'address1': '1805 S Cottage Grove Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121107022,FPP
+
+eceee8ce-e331-4de4-bda5-2ff1e3566b1a
+{'address1': '1806 S Cottage Grove Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121126044
+
+186a40c5-36d0-495b-8f77-1b2e6b3f60e5
+{'address1': '210 W Green St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117210003
+
+b5a24df6-1385-4bd4-91b1-c7f3e2f3aabd
+{'address1': '136 W Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202002
+
+099e3f36-3c68-498e-a171-72ff75916fa3
+{'address1': '202 W Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117201007
+
+7a3c67be-03f1-4c0e-9d9e-7ebf6645cc86
+{'address1': '119 W Water St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108458003,FPP,LIQ
+
+4bf6b062-c284-4cf7-a19e-ea4eb933aaed
+{'address1': '121 W Water St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108458002
+
+0fb92e31-61ff-42c6-8bc5-cd90b43b46a6
+{'address1': '201 N Broadway Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108457015,FPP,LIQ
+
+c8fd60c8-4f6d-4f41-bc1d-099e7017fcbc
+{'address1': '201 N Broadway Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+FPP, LIQ
+NOTE,912108457015,FPP,LIQ
+
+70e6e361-4294-414d-9cd8-6f0953db09d8
+{'address1': '603 S Walnut St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117257006
+
+a7d4a57c-aa2a-4009-b7cc-e0e746e2f0e0
+{'address1': '507 S Broadway Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117252013A
+NOTE,922117252013B
+NOTE,922117252013D
+NOTE,922117252013
+
+bac533d9-bdb4-4683-a33c-6531bb14d043
+{'address1': '107 W California Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117256019
+
+e3a79683-bfa6-41bb-8f5d-a3c6009a1fc1
+{'address1': '807 E Green St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116109014,FPP
+
+e75f19b8-da4b-4546-8230-e9e11d227c1f
+{'address1': '1306 Silver St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121181020
+
+6e6d735e-4be9-45f4-b220-26aebc09b498
+{'address1': '2015 S Philo Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121180015
+
+848e3973-c433-4e02-8165-13229bbf1fc8
+{'address1': '2011 S Philo Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121180014
+
+81b658d1-2824-45bb-8662-4379f6f9a908
+{'address1': '2006 Vawter St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121180003
+
+d79af3c7-d92c-462d-967a-a8e351031a4b
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+76a3d7d2-d00f-4db3-a2ab-54f6e9c7b613
+{'address1': '1005 E Colorado Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121152007
+
+f6a0aa3d-b439-4560-8ca0-e5d490d05374
+{'address1': '', 'address2': '', 'city': '', 'state': '', 'zip': ''}
+NOTE,
+
+fabbd19b-583b-4d68-adb5-718067be9ed2
+{'address1': '', 'address2': '', 'city': '', 'state': '', 'zip': ''}
+NOTE,
+
+bb488398-31f6-4b2a-ba3d-0b55ae7af8f3
+{'address1': '901 E Colorado Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121152041A
+
+a18aeb92-a92b-4f1d-8205-b1234680b0de
+{'address1': '', 'address2': '', 'city': '', 'state': '', 'zip': ''}
+NOTE,
+
+7ce47ece-5dac-4072-b6b3-49afa9c24ec6
+{'address1': '1205 E Florida Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932112126002F
+NOTE,932121126002C
+
+f747b198-03d7-4676-a8a5-5974d25e2c03
+{'address1': '1717 S Philo Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121126032B
+NOTE,932121126032C
+NOTE,932121126032F
+NOTE,932121126032G
+NOTE,932121126032H
+NOTE,932121126032A
+NOTE,932121126032N
+NOTE,932121126032O
+NOTE,932121126032P
+NOTE,932121126032R
+NOTE,932121126032S
+NOTE,932121126032T
+NOTE,932121126032U
+NOTE,932121126032X
+NOTE,932121126032Z
+NOTE,932121126032AA
+NOTE,932121126032BB
+NOTE,932121126032EE
+NOTE,932121126032FF
+NOTE,932121126032GG
+NOTE,932121126032V
+NOTE,932121126032E
+NOTE,932121126032II
+NOTE,932121126032L
+NOTE,932121126032
+
+1a2ed007-33f4-4b02-92a9-92e86dd52fec
+{'address1': '1812 S Philo Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121201017
+
+c2ac3df0-5566-400c-87cb-f06eee92f9d6
+{'address1': '2018 S Philo Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200037D,FPP
+
+36f143cb-da9f-42b5-b923-fbf135c23cf9
+{'address1': '2018 S Philo Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200037D,FPP
+
+fffc6e64-c2dd-41e5-9f59-94ff7402c325
+{'address1': '2018 S Philo Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200037D,FPP
+
+c1d699b8-8850-40c6-b1a7-1980e4666a77
+{'address1': '1603 E Mumford Dr', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121401021
+
+61b3b2ed-c0a3-4a37-adbb-f383c09f7155
+{'address1': '2200 S Philo Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121400002,FPP
+
+8e753bce-3dc4-4370-80c9-d4c7dae2945b
+{'address1': '2102 S Anderson St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+U116
+NOTE,932121305001,U116
+
+eb4f2f14-23f6-432a-b4f9-ce999dcf61ce
+{'address1': '2600 S Stone Creek Blvd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932122404004C,FPP,LIQ
+
+b68c6295-b369-48c2-860f-e76db54b6238
+{'address1': '2560 S Stone Creek Blvd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932122404004A,FPP,LIQ
+
+3f1668a6-56c7-4ab3-94f5-e622e142d5e7
+{'address1': '3311 S Philo Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932128330001A,FPP
+
+0180a817-25b3-4901-b312-894d35d6e3c3
+{'address1': '811 W Oregon St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117153001
+
+de8c837e-c4a7-4b24-9c06-87323fbb7991
+{'address1': '809 W Green St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117103001,FPP,LIQ
+
+ce0d3d24-2de7-4635-b927-73fe817d5674
+{'address1': '901 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107484003
+NOTE,912107484003C,FPP
+NOTE,912107484003B
+NOTE,912107484003D
+NOTE,912107484003A
+
+b0d97514-6b3e-4412-8b5d-0a3ab128b24d
+{'address1': '813 W University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108352013A
+
+6e5f2233-f9cb-4e5a-8388-7598b3b3b04d
+{'address1': '406 1/2 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108352003
+NOTE,912108352013
+
+e61aaa87-67cd-46bd-b675-5211ff3816fa
+{'address1': '610 N Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108303015,FPP
+
+9c654747-5b35-454e-891b-fff0648a76fa
+{'address1': '1321 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107226019
+
+a7f5c87e-8e60-4b8b-8d16-e234383272ca
+{'address1': '1317 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107226018
+
+33bac6bc-9856-4a7a-9a9f-2908122869ed
+{'address1': '1317 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107226018
+
+f784e1e0-a91f-4a89-b52b-2cfc4c787fd0
+{'address1': '1321 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107226019
+
+ea87f18e-284a-4792-9757-6b21f74e1e01
+{'address1': '1601 N Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011,FPP
+
+7ef9eb7c-6d9d-439b-913d-78d2222f991a
+{'address1': '1900 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105301012
+
+f6a58dd5-59bd-48e8-860a-72d7710c44c4
+{'address1': '1802 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105353004
+
+9d5dc7db-825d-4ff6-afac-66fbde7d3aa3
+{'address1': '1804 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105353021
+
+213e8ab9-5462-4a5c-b5d2-44065c327c85
+{'address1': '2011 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106426009,FPP,LIQ
+
+42b4282d-501b-465e-90ec-14386b63838b
+{'address1': '902 W Killarney St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106426010,FPP
+
+39d85863-809d-468a-b04a-0af6e05013e6
+{'address1': '1003 W Killarney St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106426008A,FPP
+
+55e576bf-4d39-4350-afbd-dd602a47d598
+{'address1': '1111 W Kenyon Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106426001
+
+bee32e66-8990-403d-8513-a8c6ffee86a6
+{'address1': '1812 N Federal Dr', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106402006B
+NOTE,912106402006C,FPP
+NOTE,912106402006A,FPP
+
+aea6393c-5764-4fa4-b520-5b6ac2a32384
+{'address1': '1906 N Federal Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106402005
+
+a44d7c36-fb52-4d2f-aa3b-373ecaef971f
+{'address1': '1910 N Federal Dr', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106402004
+NOTE,912106402004B
+NOTE,912106402004A
+
+731ba954-5d1f-46e3-8474-986f04bbb1ec
+{'address1': '2008 N Federal Dr', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106402002,FPP
+
+ae8e349d-4188-44ad-8625-8a06d4ff5f1a
+{'address1': '2007 N Federal Dr', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106401005,FPP
+
+85e32793-956b-45dc-9f0a-ba48ee4a302c
+{'address1': '1405 W Kenyon Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106401010,FPP
+
+237d5c66-6475-420f-9156-9a71975156e6
+{'address1': '1519 W Kenyon Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106326007,FPP,704
+
+cf5fec0d-75d1-4939-944d-611c0eab958b
+{'address1': '201 S Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922117212020
+
+c315c547-7b48-4386-af89-ebd27a03a6be
+{'address1': '1309 E Washington St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116327017,FPP,LIQ
+
+33221194-e413-4cb7-a194-a5a39a687d77
+{'address1': '306 E Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108478015R,FPP,704
+
+70158141-450e-405d-965b-b8c599944b26
+{'address1': '405 W Park St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108328005
+
+a9f0c3d6-bc6a-4415-890f-a449b41ef147
+{'address1': '403 W Park St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108328006
+
+aa4b5fb8-5d46-4bde-a50f-04175076c541
+{'address1': '305 W Park St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108329001
+
+7696ce77-34dc-4518-9e51-d084b6387f15
+{'address1': '404 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108328013,FPP
+
+3399c8d0-8bf8-4b63-ae4c-4d10bc828a38
+{'address1': '410 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108328014,FPP
+
+2e4925df-5550-4ec6-928a-79f312f1f6d7
+{'address1': '507 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108376006,FPP,LIQ
+
+b4cec68b-971d-40bd-b17f-96eb121fe8fc
+{'address1': '509 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108376026,FPP
+
+a0998fdf-5f9e-46ff-be58-28db9bb9915d
+{'address1': '409 W University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108376020,FPP
+
+bb296434-1378-47ba-8aeb-82271f5a3644
+{'address1': '407 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108376010
+
+6baeb71d-ce10-4f89-b94c-3c0404024bd2
+{'address1': '403 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108376011,FPP
+
+09b5937e-9abe-47f0-9440-e23eeedbb352
+{'address1': '207 N Central Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108380018,FPP
+
+1b17c147-c479-4f8f-bc0d-a4dc75ab435f
+{'address1': '129 N Race St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108453003,FPP
+
+a4c3cd0a-d422-410c-aa47-7ace448235e8
+{'address1': '135 W Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117206001,FPP
+
+87bae237-d1fe-49c3-93a0-1f7eaa14bcb0
+{'address1': '303 E Fairlawn Dr', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117429003
+
+0804c951-4032-47d5-9eb1-f3f484af16db
+{'address1': '906 S Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117426015
+NOTE,932117426003
+
+554a0238-2f71-4c10-92f1-288a19bf61e9
+{'address1': '308 E Iowa St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117426024
+
+69c02de6-61ae-46ea-9269-f7586bad2f75
+{'address1': '906 1/2 S Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117426015
+NOTE,932117426003
+
+f5ce54cd-a7c0-4a9f-9d9e-3d6a7e9f62c6
+{'address1': '912 S Vine St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117426005
+
+02fcb343-35d2-4edc-8dbe-85925092f760
+{'address1': '504 E Michigan Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430006C
+
+f8fd6b57-305c-4317-b21d-db0eb50e131e
+{'address1': '500 E Michigan Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430006A
+
+b2d59517-fb1a-46cb-8eec-fb884d47e0b0
+{'address1': '1011 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109152003,FPP
+
+2781b437-09d6-4107-8c79-71539a4d8631
+{'address1': '1002 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103010
+
+7e3efa11-f044-41a3-97ec-24bd70dd76c3
+{'address1': '1303 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108229002,FPP
+
+0a7a1d28-2e6a-41a3-92bc-6c53db93c113
+{'address1': '2001 N Kenyon Rd', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104301013,FPP
+
+91cb052d-5b0e-40c6-9b03-0a02a462da04
+{'address1': '1032 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103009J
+
+771a400f-d3da-4060-8208-5fd0a3f1025d
+{'address1': '1008 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103010C
+
+506af69a-018d-43ad-8876-6217122053a6
+{'address1': '1008 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103010C
+
+ef8eac86-fa6d-46fb-b15a-7e7ff64c2a4f
+{'address1': '1010 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103010D
+
+5e7f4b16-9418-442b-9bfb-edd14a5c53e4
+{'address1': '1018 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103009H
+
+aa7c4d88-5416-4af1-a85f-c78eafa99d95
+{'address1': '710 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108429004,FPP,704
+
+e34b03de-fb7e-4f6f-be00-994e8fc8899a
+{'address1': '909 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108280034D
+NOTE,912108280034C
+NOTE,912108280034A
+NOTE,912108280034G
+NOTE,912108280034F
+NOTE,912108280034E
+
+98b4cec6-5a47-4916-a2fb-4858525a565f
+{'address1': '1005 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108278020,FPP
+
+9ab65181-7fc8-4a9e-be50-8adcc1e8255a
+{'address1': '1007 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108278019
+
+87dd31c4-63d9-4303-b448-1bac5b8117f3
+{'address1': '', 'address2': '', 'city': '', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+cf22f424-62b3-4a60-9e37-53c33e5cbca5
+{'address1': '', 'address2': '', 'city': '', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+f42e367a-53fa-4c68-8cb4-59051ed80a6c
+{'address1': '201 Industrial Cir', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912115226027A
+NOTE,912115226027
+
+8f000e01-8d6f-42ad-91ac-c439047f7581
+{'address1': '1718 E Colorado Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200041I
+
+77cadee2-ec0c-472d-bcb9-c67c4c7254ef
+{'address1': '1728 E Colorado Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200041J
+
+ab307cf9-b0ca-406b-876e-d322ee7f6999
+{'address1': '1728 E Colorado Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200041J
+
+3f36eaee-33df-484e-833f-19a4c43ef10a
+{'address1': '1722 E Colorado Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200041M
+
+90818563-02d9-44ac-afaa-a22c156da5be
+{'address1': '1734 E Colorado Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200041P
+
+97fdbccc-911d-433b-b831-31575fe32e0f
+{'address1': '1728 E Colorado Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200041J
+
+3d3b16ad-0c4b-4f6a-bb2d-6e6365aabaed
+{'address1': '1706 E Colorado Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200041C
+
+28ab826a-0cf0-4a2d-a0bb-d625f40cb0c5
+{'address1': '1704 E Colorado Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200041B
+
+13706086-825b-44cb-b62e-d4ca8db1d134
+{'address1': '1714 E Colorado Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200041
+
+d85e06ad-9747-4b59-9c1c-2541c7a6afc6
+{'address1': '1905 Prairie Winds Cir', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121278034,FPP
+
+3ff320e4-12da-480f-ae44-9c4f8596d511
+{'address1': '1728 E Colorado Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121200041J
+
+7bd29558-2e5b-4014-a195-f6bf541bf82e
+{'address1': '1405 E Florida Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121126046C
+NOTE,932121126046
+
+d0cae0af-8fc1-4101-9004-fa457d089677
+{'address1': '1601 E Florida Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121201013
+
+e33bde32-eeb4-4b17-93ff-d7ab6bbb3847
+{'address1': '2018 Fletcher St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121183001
+
+2fd5551f-f3f6-4a71-a529-58da7e2b217f
+{'address1': '1832 E Amber Ln', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121401029D
+
+376861aa-5430-4b9e-9a48-387cade9b3fc
+{'address1': '9071/2 W Nevada St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000268,URU
+
+b2d55bf3-4c1c-4c77-86d4-4fcf5dd24127
+{'address1': '901 W Illinois St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000378,URU
+
+d345fc30-0c0d-445f-b059-b2237959ca68
+{'address1': '601 S Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107430002,FPP
+NOTE,UIUC000094,URU
+
+9c64f184-c065-4358-99aa-965022ef0f28
+{'address1': '813 W Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108354001
+
+344ca3cf-f210-4e73-bf19-37e3210156af
+{'address1': '104 N Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108355020
+
+59502889-ee2a-4fec-9f5b-c88d5f800e2a
+{'address1': '1010 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107483015
+
+4aee1b63-cc74-4d89-9b24-a4f2f5f87434
+{'address1': '201 N Goodwin Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000563,URU
+
+13d8cf97-ae50-45b2-ab8b-ed8e6c699337
+{'address1': '1110 W. Main Street', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117206021
+NOTE,UIUC000551,URU
+
+f398f35c-e9ad-4e4f-8da0-34d747ae7342
+{'address1': '1003 W Clark St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107481005
+
+22a85b9f-3a89-4400-bbbe-192b6207ca89
+{'address1': '1001 W Clark St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107481006
+
+ce5ea96c-8407-4764-8bf5-2a8f39ba7716
+{'address1': '906 W Clark St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107484006
+
+cf5b4c99-82a3-45ee-ac6c-5cd9c370cf35
+{'address1': '911 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107484009,FPP
+
+08ab064e-3448-446d-becd-fd124a614a13
+{'address1': '1007 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107480017,FPP
+
+0ea78af8-3922-4fec-beb7-7371ad16ac11
+{'address1': '1012 W Clark St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107480016
+
+360f6869-9d3f-4347-b00c-32cbec629ccc
+{'address1': '502 W Griggs St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108377009
+
+67918088-73d3-4e13-9351-6d3aa49889a6
+{'address1': '506 W Griggs St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108377008
+
+4c1c76df-1527-40fd-b319-85b917c132fd
+{'address1': '208 W Griggs St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108452009A,FPP
+NOTE,912108452009,FPP
+
+4cc778e4-0641-4313-aa8b-082a8454c8ba
+{'address1': '402 N Race St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108455013,FPP,LIQ
+NOTE,922117214001
+
+9582e9bb-043d-4680-b98b-d7f69ff8feb8
+{'address1': '108 E Water St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108461007,FPP
+
+ee2614ab-5c8f-446a-8134-02ca310cc45e
+{'address1': '202 S Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922117233001
+
+d1d1d9c7-5f3a-4129-a6ad-bc1c70a599de
+{'address1': '404 E Green St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922117234007
+
+d0f816f2-44a2-462e-ad97-83ad3936954f
+{'address1': '406 E Green St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922117234008
+
+02494025-98cf-4372-a691-6d7be5ee60bf
+{'address1': '404 S Urbana Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117243002
+
+89b7df48-62c5-4163-8d01-5b53139cac93
+{'address1': '408 S Goodwin Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000267,URU
+
+45721912-4152-4184-b450-3591c0d7740d
+{'address1': '400 Art Bartell Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116200005E
+
+b833202a-deec-42d8-abbd-ee39167575ab
+{'address1': '202 Art Bartell Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116200005I
+NOTE,922116200005H
+NOTE,922116200005J,FPP
+
+235ba3c8-bcab-4002-b0db-4a2962357bbb
+{'address1': '1911 E Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116200005C
+
+cd4fc93f-f7c4-4025-954b-2c6fa906002e
+{'address1': '812 S Glover Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116182009,U116
+
+23f906e5-d6d7-4a5d-9029-ee18b43da995
+{'address1': '803 S Glover Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116181005
+
+b395d23a-005c-4212-a0cf-b2c5b859ae82
+{'address1': '1201 E Oregon St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116181001
+
+3c7398aa-a42d-4655-b893-8f5b9f249a05
+{'address1': '1705 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109477006,FPP
+
+d57cf574-afaa-43c6-b52c-8c0619f64c6f
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+7079df9f-d0e4-4b00-b281-da4d672e29ae
+{'address1': 'undefined S Goodwin Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,UIUC000885,URU
+NOTE,
+
+3d438e0c-9857-4208-a326-7054b6fed016
+{'address1': 'undefined S Goodwin Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,UIUC000885,URU
+NOTE,
+
+4edc37a1-c2a8-44d2-a593-f385bd924119
+{'address1': '2100 S Goodwin Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000140,URU
+
+f57453a5-1528-4041-b7b3-5953a09f62da
+{'address1': '', 'address2': '', 'city': '', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+050b2044-0c2a-4675-bc7c-60898c066cff
+{'address1': '', 'address2': '', 'city': '', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+080cfecc-918d-4f14-a0a1-0d48ada6981d
+{'address1': '', 'address2': '', 'city': '', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+bf92d8c2-8f95-44c2-ac66-153801e1a736
+{'address1': '', 'address2': '', 'city': '', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+b60ca830-5ade-47ea-929f-4b88e78621f2
+{'address1': '', 'address2': '', 'city': '', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+f85aca2f-e3aa-4814-bff7-abfb446b9f48
+{'address1': '', 'address2': '', 'city': '', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+d2fd3313-5b05-4459-9835-ff7acbc4caa9
+{'address1': '', 'address2': '', 'city': '', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+6a255f00-ff97-4451-99d0-9208cff3ddd1
+{'address1': '', 'address2': '', 'city': '', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+47a45b2d-c08e-4f2f-baba-58db20dee959
+{'address1': '', 'address2': '', 'city': '', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+565fa0f7-9bb6-4a0d-ba99-9ceb4f4cfed4
+{'address1': '', 'address2': '', 'city': '', 'state': 'IL', 'zip': '61802'}
+NOTE,
+
+5dec8c64-5c49-485f-9367-c8914f5464a6
+{'address1': '1208 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109102004,FPP,704
+
+9f3c8c2c-92e1-41cb-bdb6-15c06474829a
+{'address1': '1012 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103009
+
+53625ddf-fabc-42dc-bff2-ccd5ece8e23c
+{'address1': '821 E Oakland Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103008S
+
+bcb6ffef-a6c6-4501-b364-23ceb2104256
+{'address1': '1032 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103009J
+
+f473bb57-3a61-4d4e-bda2-415e15fbd7ac
+{'address1': '1016 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103009G
+
+d8ce6808-abb1-4173-b863-bed4de5554db
+{'address1': '1030 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103009E
+
+ca3ceb9c-9709-4d3d-9561-5ba7d553278d
+{'address1': '1020 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103009F
+
+0958b988-a845-4cfd-8b30-ab0df96307a4
+{'address1': '1012 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103009
+
+b6e220fb-a9d5-47e9-a4eb-bb3b6c20cdb1
+{'address1': '1028 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103009D
+
+2ee16b7d-9e10-4a8d-9247-423527fbb615
+{'address1': '1026 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103009C
+
+48cb2ae1-ab9a-405d-8505-33fb30536110
+{'address1': '1026 Kerr Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109103009C
+
+f9cebcf5-3bd3-4d58-bb67-cca59d3594aa
+{'address1': '1301 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108229602,FPP
+NOTE,912108229002B
+NOTE,912108229002C
+NOTE,912108229002S
+NOTE,912108229002I
+NOTE,912108229002E
+NOTE,912108229002G
+NOTE,912108229002L
+NOTE,912108229002D
+NOTE,912108229002F
+NOTE,912108229002J
+NOTE,912108229002M
+NOTE,912108229002H
+NOTE,912108229960L
+NOTE,912108229002K
+
+26526d16-c9e9-4aa5-baec-2aa72912d72c
+{'address1': '1204 N Division Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108229002A
+
+228c2300-63a7-45da-bf05-1e70784b5f7f
+{'address1': '1101 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108278027
+
+43127737-77d3-4bbb-bc6e-855afd7c1740
+{'address1': '1008 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108279002A
+NOTE,912108279002B
+NOTE,912108279002,FPP
+
+cf43cc29-1f03-4888-92f7-ab0d6db38a37
+{'address1': '1006 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108279010A
+
+38caafe6-685c-4d19-919e-23972480bb5d
+{'address1': '712 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108429003,FPP,704
+
+8d36c398-029b-4103-b893-aa46d4ef8814
+{'address1': '306 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108384014,FPP,LIQ
+
+e7a41ecb-37ed-46a5-a334-11ef66bc8781
+{'address1': '300 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108384012
+
+0e34d052-8170-4e36-86f4-259b6be81da0
+{'address1': '312 W Elm St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117135009,FPP
+
+65507366-db5c-448c-861c-10e6e446f8ce
+{'address1': '401 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117131006
+
+bf3cf892-391c-4ed6-a0a3-432df521b27b
+{'address1': '407 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117131014A
+NOTE,922117131014B
+
+8ef17b96-cba2-494b-9a23-840a33a915a8
+{'address1': '505 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117110026
+
+9ca3271b-1dce-484a-b9cd-55321cc66df8
+{'address1': '507 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117110024
+
+5fbe9dc8-b22b-4bde-8f97-920bda41a4d1
+{'address1': '211 N Central Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108380008
+
+f3272a48-7129-4ab8-9f82-3ad0fdc5f297
+{'address1': '209 N Central Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108380009
+
+2e264163-9832-4877-93d3-d13210223eb7
+{'address1': '306 W Griggs St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108382012
+
+21b337a0-a17c-4a81-a992-e3ee59f82e81
+{'address1': '105 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108459007A,FPP,LIQ
+NOTE,912108459007B
+NOTE,912108459007C
+NOTE,912108459007,FPP
+
+7dfb30c4-ce47-4c6a-a7ec-5d2c0f532d0e
+{'address1': '104 S Vine St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922117227004,FPP
+
+60b29be1-fdbc-48d9-8c77-0239e034bf6a
+{'address1': '406 E Elm St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922117228008
+
+cbf9898f-99e7-41a3-ad85-18ca60c82ecd
+{'address1': '104 S Grove St', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922117232004
+
+8aaa4090-8b20-4340-8393-4a5a81c81a7a
+{'address1': '808 E Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109353018,FPP
+
+c460bc0f-fe11-4e78-91f5-83a12aab96e8
+{'address1': '1401 E Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116129024
+NOTE,922116129001
+
+9662fe88-febf-4e52-bc1f-db5891985426
+{'address1': '500 S Glover Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922116178012,FPP
+
+ca028523-33ff-4fc0-99a2-633fb0627ddb
+{'address1': '510 E Michigan Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430007
+
+3f7ae9a1-d915-4c48-ae41-6406a6eceace
+{'address1': '502 E Michigan Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430006B
+
+c274b0d3-ce1d-4ee9-982e-0b67b149738d
+{'address1': '504 E Michigan Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117430006C
+
+be385fd2-51ac-445f-9a6f-74e2eb7d35f4
+{'address1': '813 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117101008
+
+23da05d9-a603-46d6-9022-eb51a6c2c044
+{'address1': '809 W Springfield Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117101003
+
+b5bd9034-b334-440c-ba6d-c706d055d9db
+{'address1': '406 N Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108352003
+NOTE,912108352013
+
+6d4f1645-7430-4655-ad52-cd3f67441655
+{'address1': '809 W Park St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108304018,FPP
+
+1dc1ddb8-77b4-4bd7-a45f-1597ba442f68
+{'address1': '304 W University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108329004
+NOTE,912108329005,FPP,704
+
+d4ac7b87-6e12-4431-a361-5f4f721cacb4
+{'address1': '101 W Park St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108403008
+
+64154104-bb50-459c-8034-eed12280d43d
+{'address1': '501 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108480010
+
+a44b9ee5-945a-42b4-9f73-a863bbe30465
+{'address1': '601 E University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108480011
+
+47bb9c5b-8442-4c2e-949a-e5b85c0a3bdf
+{'address1': '707 S Mathews Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000172,URU
+
+da2e2a8d-ede4-4d01-88eb-1f26ee464f2b
+{'address1': '1102 S Goodwin Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000131,URU
+NOTE,UIUC000197,URU
+
+59294898-019d-4d91-b089-dc5fff65b017
+{'address1': '104 S Mathews Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000042,URU
+NOTE,UIUC000343,URU
+
+3520146f-cc2d-4209-9e1d-176dcd46ef6a
+{'address1': '107 S Goodwin Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000011,URU
+
+e3ca8142-a2f6-4288-a409-aaa45deea352
+{'address1': '101 S Goodwin Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000028,URU
+
+d4ef633e-23ed-4bcf-ae52-b83330ddc55d
+{'address1': '1105 W Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202016
+NOTE,912107478006
+
+421538e0-588b-45a5-8c0c-175e0039709c
+{'address1': '1012 W Clark St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107480016
+
+a6bbc91e-43ff-403e-8caf-6ebc529a4ed4
+{'address1': '1308 W Main St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202003
+NOTE,UIUC000148,URU
+
+7430d63e-c0d8-4ee9-a2fe-9d36a03f47c7
+{'address1': '1200 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107414019,FPP
+
+cbc12d70-cfd9-401c-a51c-d40434477d5c
+{'address1': '1214 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912109404007
+NOTE,912109404008
+NOTE,912107414018,FPP
+
+fea7c879-8c55-4511-b1fb-10c7f1bedf39
+{'address1': '1106 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108405038B
+NOTE,912108405038-C,FPP,LIQ
+NOTE,912108405038-D
+NOTE,912108405038-E
+NOTE,912108405038-F
+NOTE,912108405038-GH
+NOTE,912108405038
+NOTE,912107431004,FPP
+
+dbfdf73a-260d-4d2b-8d00-b429665a5a0f
+{'address1': '1102 W University Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108405038B
+NOTE,912108405038-C,FPP,LIQ
+NOTE,912108405038-D
+NOTE,912108405038-E
+NOTE,912108405038-F
+NOTE,912108405038-GH
+NOTE,912108405038
+NOTE,912107431005,FPP
+
+56e44472-61dc-49d5-bdae-b93c14830190
+{'address1': '2002 E Amber Ln', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,932121401024A
+
+42f76c7d-9b09-4c0f-8726-86d07c842f24
+{'address1': '1601 N Cunningham Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104351027,FPP,LIQ
+
+f176a9f8-f413-4d46-90f0-456b9af85379
+{'address1': '1606 Melrose Valley Ct', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011B
+
+0409269c-16fb-4291-abc4-8eb701f3b6e1
+{'address1': '1601 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011,FPP
+
+44e31fad-47d6-4b20-842b-fff2c6170d6b
+{'address1': '1601 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011,FPP
+
+123846e8-0aae-4980-bb7e-a3a7bf20131d
+{'address1': '1709 Melrose Village Cir', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011I
+
+186fca8d-3821-42a0-8644-f27a88abf8d1
+{'address1': '1105 W Gregory Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000556,URU
+
+764815a1-31b3-4bad-ba84-fa45e17d7ae7
+{'address1': '906 S Goodwin Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000064,URU
+
+cc734c33-a2fb-41f0-866d-2a63238e5016
+{'address1': '1207 W Gregory Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000165,URU
+
+8b4b1543-0209-45da-88c3-c6756c39f19a
+{'address1': '300 S Broadway Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117212024V
+NOTE,922117212024C,FPP
+NOTE,922117212024AG
+NOTE,922117212024AC
+NOTE,922117212024J
+NOTE,922117212024I
+NOTE,922117212024H
+NOTE,922117212024Q
+NOTE,922117212024G,FPP
+NOTE,922117202016C,FPP,LIQ
+NOTE,922117212024ZZ,FPP
+NOTE,922117212024AH
+NOTE,922117212024AD
+NOTE,922117212024AB
+NOTE,922117212024D
+NOTE,922117212024Y,FPP
+NOTE,922117212024M
+NOTE,922117212024O
+NOTE,922117212024R
+NOTE,922117212024CC
+NOTE,922117212024II,FPP
+NOTE,922117212024HH,FPP
+NOTE,922117212024AE,FPP,LIQ
+NOTE,922117212024FF
+NOTE,922117212024L
+NOTE,922117212024W
+NOTE,922117212024FH,FPP
+NOTE,922117212024B
+NOTE,922117212024X
+NOTE,922117212024E
+NOTE,922117212024P
+NOTE,922117212024U
+NOTE,922117212024A,FPP
+NOTE,922117212024Z
+NOTE,922117212024BB,FPP
+NOTE,922117212024T
+NOTE,922117212024BD
+NOTE,922117212024BC
+NOTE,922117212024AA
+NOTE,922117212024K
+NOTE,922117212024GG
+NOTE,922117212024EE,FPP
+NOTE,922117212024DD,FPP
+NOTE,922117212024,FPP
+
+83eb4578-f9ed-49af-9cf9-6d2055379a58
+{'address1': '1105 W Gregory Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000556,URU
+
+5c29f9c3-388e-400c-a197-dd1f20802cf1
+{'address1': '202 S Broadway Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+FPP
+NOTE,912117212004
+NOTE,922117212004,FPP
+
+71e33c5c-7cac-4c09-8793-9109edff7797
+{'address1': '500 Art Bartell Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+FPP
+NOTE,92211620005F,FPP
+
+d787fe7e-a444-4d8c-8e62-8981a2ae26dd
+{'address1': '1709 Melrose Village Cir', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011I
+
+0459bedd-212e-4f6a-986e-690040cb965d
+{'address1': '1607 Melrose Valley Ct', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011E
+
+df0079a8-9c3a-470e-a3d3-71c7f1b31afe
+{'address1': '1602 Melrose Valley Ct', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011C
+
+1a54973f-6991-4381-9435-d637e5ebdb5b
+{'address1': '805 W Pennsylvania Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000221,URU
+
+f53f2b7d-f936-4d94-a648-d095330d3ba5
+{'address1': '211 E Green St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117212010
+
+1d0eed42-1c07-41f1-a61c-6eb809f6aab9
+{'address1': '1905 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104301022B
+NOTE,912104301022C
+NOTE,912104301022D
+NOTE,912104301022
+
+af44b852-cb70-4e72-a751-f092413f2628
+{'address1': '1905 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912104301022B
+NOTE,912104301022C
+NOTE,912104301022D
+NOTE,912104301022
+
+7e5484e7-3d5f-437b-a962-4b5484d416b9
+{'address1': '1607 Melrose Valley Ct', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011E
+
+a2f2fd16-68fe-432e-bcbd-066d7d7cc198
+{'address1': '1607 Melrose Valley Ct', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011E
+
+5d20b689-eb71-4f4a-8ebe-d1daf79b52b1
+{'address1': '1601 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011,FPP
+
+b92ffcc3-a4f8-4e8a-ba40-d9cb292246aa
+{'address1': '300 N Goodwin Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000376,URU
+
+8b15fd5b-ed45-4e1a-abb5-91ae673ee75a
+{'address1': '1407 N Lincoln Ave', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107226009
+
+40dfd394-e4c6-4b5b-83e9-e01267de6703
+{'address1': '1001 W Killarney St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106426008,FPP,LIQ
+
+edd39f71-d118-41da-988a-c07061e94aaf
+{'address1': '1001 W Killarney St', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106426008,FPP,LIQ
+
+073e5a80-9a96-4082-bb85-bf680e6a9c23
+{'address1': '129 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117206029
+
+9dead7fc-5a7c-461b-9d8a-1c8f990d1b68
+{'address1': '129 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117206029
+
+85102ddc-2da3-497b-865b-1f1774c43162
+{'address1': '121 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117206006
+
+28d1ec62-2e61-4860-8fd6-24f0a26aa50a
+{'address1': '201 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117205003,FPP
+
+f573e7ec-b5e4-44a3-95dd-20e5d07bfde7
+{'address1': '303 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117130016,FPP
+
+0261b476-b06e-41c2-8073-0b7e1b5f9ee6
+{'address1': '218 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117201001
+NOTE,922117001001A
+
+14e9f5e8-3ccf-40d1-be65-4b8302eb727d
+{'address1': '214 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117201002,FPP,LIQ
+
+993f772d-9ef0-4c88-8cda-08576808789f
+{'address1': '208 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117201009
+NOTE,922117201009E,FPP,LIQ
+
+2a28c114-ff7d-4d16-8df5-d579a8218288
+{'address1': '206 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117201009D
+
+1046486f-0915-4c77-b28b-784c2aa79e7c
+{'address1': '106 N Race St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202001A
+NOTE,912108453011,FPP,LIQ
+
+2f39371d-314b-4440-8422-909be96bdc3d
+{'address1': '111 N Race St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108453014A
+NOTE,912108453014,FPP,LIQ
+
+7780661f-b4c6-4e0e-ab48-bbea82592026
+{'address1': '111 N Race St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108453014A
+NOTE,912108453014,FPP,LIQ
+
+366fea99-987b-47a3-b7a0-96674200b24b
+{'address1': '107 N Broadway Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+FPP, LIQ
+NOTE,912108458009,FPP,LIQ
+
+4e4932f7-cde4-451b-acc5-701779007cc0
+{'address1': '109 N Broadway Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108458010
+
+2acc1de2-1b7e-4ae4-a69a-1834ec774e63
+{'address1': '111 N Broadway Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+Send inspection to Bernie
+NOTE,912108458010A
+
+bec19eaa-3141-4d51-870c-ccea68849b94
+{'address1': '115 N Broadway Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108458006
+
+abc3b8c3-6483-448e-8949-e5182c0ef2b0
+{'address1': '115 N Broadway Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108458006
+
+46dfe793-2ce0-45e8-b35c-3401ce5a5e21
+{'address1': '102 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202020A
+NOTE,922117202019
+NOTE,922117202020
+
+f9ed6cf5-aa96-4a4b-9175-28fe9bf182bc
+{'address1': '106 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202012
+
+0373e2b0-4251-4027-9758-b1ff1cf9d4da
+{'address1': '110 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202016
+
+7c7b604c-d863-4ba5-b475-5251e5dba3f3
+{'address1': '116 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202007
+
+00234acc-98bf-411c-84c1-4b606cc4c0ac
+{'address1': '120 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202017A,FPP
+NOTE,922117202017,FPP
+
+eaab30e8-8f2d-4330-97fa-bebaa4ceed22
+{'address1': '130 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202003
+
+2adf940e-eb65-4a4c-a885-aaf409cfbbd5
+{'address1': '130 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117202003
+
+3a4bac4f-2a93-43fc-83f6-9dd0eb0c2840
+{'address1': '304 S Race St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117212005,FPP
+
+f5ab17a7-2ef2-4bee-98b3-feb54a707f9c
+{'address1': '302 S Cedar St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117142001
+
+cdc9f447-af6b-4127-9f0f-955e5b1ac5e5
+{'address1': '1303 N Cunningham Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108229002,FPP
+
+4a96037b-ac88-456e-91de-af3907ffa378
+{'address1': '1204 N Division Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108229002A
+
+b9ce01ec-f799-4c41-8d73-fa5869cdea4b
+{'address1': '1607 Melrose Valley Ct', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011E
+
+a92a6f00-4a51-40b9-85bf-f35782e929bc
+{'address1': '1607 Melrose Valley Ct', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011E
+
+2ba5333b-7aab-4801-9071-349b6bf4e5ac
+{'address1': '706 W Bradley Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+FPP, 704
+NOTE,912105353019,FPP,704
+
+fe7b4319-a941-4c69-973c-5bc32b6bbef3
+{'address1': '1004 W Springfield Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107483013
+
+164bb257-7e26-49e7-9bd1-873eead2f339
+{'address1': '401 E High St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117243001A
+
+7e2ca60d-a147-4986-b1c4-4570834c27ee
+{'address1': '611 W Park St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108310001,FPP,704
+
+cb1b8ee0-d9cf-4098-8ee3-0760de7e05e3
+{'address1': '1908 N Linview Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105304008
+NOTE,912105304008B
+NOTE,912105304008A,FPP
+
+9e03f6fc-2c88-4ee5-85c0-f8e37c444d55
+{'address1': '2002 N Linview Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105304005
+
+bdd9ae1d-e29e-49f7-bd92-ea0230e8aec0
+{'address1': '801 W Killarney St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105304001,FPP,LIQ
+
+5a95dd18-00c2-4b2f-af92-c040fb2c448f
+{'address1': '810 W Killarney St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105302001,FPP,LIQ
+
+33f45496-bfac-42a8-930b-c76ed68a5883
+{'address1': '612 W Killarney St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912105302006,FPP
+
+24046b23-f9eb-4d63-8afd-722c652feee1
+{'address1': '810 W Anthony Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+FPP
+NOTE,912105100017,FPP
+
+701145a5-65b5-4365-b0aa-ae5ebfdaf5bf
+{'address1': '500 W Anthony Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+FPP, 704
+NOTE,912105100010,FPP,704
+
+d85ecbe0-a244-4d5d-b58c-d915e69f1633
+{'address1': '1306 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109403001,FPP,704
+
+be0f0de3-5923-4692-a093-7854493beea4
+{'address1': '1306 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109403001,FPP,704
+
+ea9b24be-2faa-4a78-ad52-8f888484d31e
+{'address1': '1306 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109403001,FPP,704
+
+cacc91b0-beb2-4c59-b5a4-49006b9745ea
+{'address1': '1102 E Washington St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922116180003
+
+3f41fce1-a155-4018-9628-dbc5d41c1bc1
+{'address1': '2008 Vawter St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121180017
+
+25c7c7bb-f85e-4b35-be2f-71efa4a57acb
+{'address1': '2016 Vawter St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121180008
+
+c3ed45be-7400-43cf-8284-05d83d367184
+{'address1': '1304 Silver St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121181019
+
+525984d5-395d-444e-ba38-b1707bbfc006
+{'address1': '1302 Silver St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121181018
+
+621f16f9-65d0-4aca-837c-cedcb32bc404
+{'address1': '1305 Silver St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121183002
+
+de55cba7-a38f-4d01-b769-696e23bb2c90
+{'address1': '1401 Silver St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121183003
+
+1f1d3d9d-6023-4f2e-8dc1-e7ce2462776a
+{'address1': 'undefined W George Huff Ct', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+49bade24-de58-475b-9530-dac0f253d410
+{'address1': '709 W Green St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117107018
+
+43a6aaca-b4a3-46e3-a298-c87604ab6d1b
+{'address1': '711 W Elm St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117106017
+
+83077712-7702-4614-a15e-0d28c50c8ce6
+{'address1': '702 W Elm St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117105015
+
+12812a35-eeb9-4993-811d-25041fc7c7f8
+{'address1': '704 W Elm St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117105013
+
+6bb349b0-bddf-4a1c-9215-d079fd1c4434
+{'address1': '106 S Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117102025,FPP
+
+2eb05066-d094-4e05-9065-44dc6e6842d2
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
+3245b9b8-c213-40dc-b605-009782053a0a
+{'address1': '309 W Green St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117137002,FPP
+
+8283eda9-b91f-4bac-b064-3ea01c94d969
+{'address1': '407 W Green St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117133002
+
+8db94b55-4281-4e22-9382-759ba16d0fb6
+{'address1': '402 W Main St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912108380016,FPP
+
+b29f8548-d215-44ff-8dc6-b6e050dc9418
+{'address1': '705 E Colorado Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932121152042
+
+090afbae-a156-4131-98a3-429778b99115
+{'address1': '908 W Nevada St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC001494,URU
+
+d1cc8b82-3be4-42e6-aa4d-9538f8189011
+{'address1': '402 S Race St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117214001
+
+1a4be6cc-19a4-4223-8092-3385fdafd385
+{'address1': '1304 W Green St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000034,URU
+
+c5f8edce-117b-4437-ab36-84dfd03f39a5
+{'address1': '1406 W Green St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000037,URU
+
+a2922ac6-2262-4f83-b595-538df4b0d53e
+{'address1': '505 S Mathews Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000012,URU
+
+7340d78e-92cb-4928-9280-251221efc191
+{'address1': '608 S Wright St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000044,URU
+
+6d0fe8ce-2683-4beb-81b5-8c1593e49f16
+{'address1': '1407 W Gregory Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000054,URU
+
+a8e990f2-d47b-4140-b971-ca9603d93f4d
+{'address1': '607 E Gregory Dr', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000059,CNU
+NOTE,UIUC000957,CNU
+
+158a1335-ad76-4b84-8d92-e1cbd0d8784a
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+a429c61b-a7fd-42f9-a1b1-1b91d519a6c7
+{'address1': '1509 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109451007,FPP,704
+
+bcac1841-383c-4cb8-b2f9-5bff31d159ba
+{'address1': '1509 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109451007,FPP,704
+
+30c8d8f7-e8c1-4560-a2e0-b4c2c226e40a
+{'address1': '1100 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108405038B
+NOTE,912108405038-C,FPP,LIQ
+NOTE,912108405038-D
+NOTE,912108405038-E
+NOTE,912108405038-F
+NOTE,912108405038-GH
+NOTE,912108405038
+NOTE,912109301002,FPP,704
+
+1a151501-27e4-4f41-9c32-2d9d90db2752
+{'address1': '1100 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108405038B
+NOTE,912108405038-C,FPP,LIQ
+NOTE,912108405038-D
+NOTE,912108405038-E
+NOTE,912108405038-F
+NOTE,912108405038-GH
+NOTE,912108405038
+NOTE,912109301002,FPP,704
+
+fcf958ce-cf37-412d-85e9-f3f59b5216a6
+{'address1': '1100 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108405038B
+NOTE,912108405038-C,FPP,LIQ
+NOTE,912108405038-D
+NOTE,912108405038-E
+NOTE,912108405038-F
+NOTE,912108405038-GH
+NOTE,912108405038
+NOTE,912109301002,FPP,704
+
+a53e12f4-ed57-45f3-bc45-e9cf2334817c
+{'address1': '1100 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108405038B
+NOTE,912108405038-C,FPP,LIQ
+NOTE,912108405038-D
+NOTE,912108405038-E
+NOTE,912108405038-F
+NOTE,912108405038-GH
+NOTE,912108405038
+NOTE,912109301002,FPP,704
+
+64a8ebaa-92dd-4639-ab91-eb56c3c42134
+{'address1': '1100 E University Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912108405038B
+NOTE,912108405038-C,FPP,LIQ
+NOTE,912108405038-D
+NOTE,912108405038-E
+NOTE,912108405038-F
+NOTE,912108405038-GH
+NOTE,912108405038
+NOTE,912109301002,FPP,704
+
+d1414320-eb97-4602-9372-afcabbb64402
+{'address1': '903 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107282026
+
+56ee0f99-eb99-409a-a4f6-69df46220778
+{'address1': '1205 Brookstone Ct', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107205007-5
+
+b5ebb57c-434d-45eb-be12-f1b6ce68b680
+{'address1': '201 S Grove St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,922117235007
+
+384c4313-0bed-4adc-9823-b004b1180991
+{'address1': '1704 E Amber Ln', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+FPP
+NOTE,932121401013,FPP
+
+2a3494ad-3ef8-4c1b-82b9-e4de226bc55e
+{'address1': '606 W Anthony Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+FPP
+NOTE,912105100008,FPP
+
+1366208c-9459-4020-9549-8431fd1a1590
+{'address1': '1112 W Anthony Dr', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+FPP, 704
+NOTE,912106227001,FPP,704
+
+08090709-fd7b-4ec0-9cc1-dbd1c36182c3
+{'address1': '57 E Armory Ave', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+CNU
+NOTE,UIUC000263,CNU
+
+1750216e-a5cb-42f9-ba1f-94ad7ec09228
+{'address1': '59 E Armory Ave', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+CNU
+NOTE,UIUC000226,CNU
+
+8f4a11f9-1c8a-4e2c-bb95-d8b70ca6070e
+{'address1': '210 Art Bartell Rd', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,92116200005H
+
+f890a896-9d8e-4c8b-b720-9f4d1c580059
+{'address1': '1009 N Boyden St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+NOTE,912109151007
+
+bb8c8bdd-5ed6-4e25-a563-661374bf5d88
+{'address1': '1215 W Bradley Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+FPP
+NOTE,912107204008,FPP
+
+896f80ce-467b-4018-88ee-afa0d1c249d5
+{'address1': '722 S Broadway Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117263011
+
+26932889-44cc-4a08-9d6f-8e3e415a8c23
+{'address1': '1709 Melrose Village Cir', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011I
+
+66580db6-dfc4-4d9f-ad99-68916c4f0c17
+{'address1': '1601 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011,FPP
+
+134a002f-ed18-463e-acae-af731a9abf5d
+{'address1': '1606 Melrose Valley Ct', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011B
+
+ce3a5802-acf4-4a5d-88ca-d0fc0bfdaaef
+{'address1': '1606 Melrose Valley Ct', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011B
+
+74daa124-cb25-41d2-b964-50177a7cd510
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+de85e45f-695a-4911-80c5-5bd0a84006a3
+{'address1': '13 Gerty Dr', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC001261,CNU
+
+cfdfd07c-47eb-4be3-a4eb-d5e837ecfa1e
+{'address1': '1725 S Oak St', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC001244,CNU
+
+763ecc9c-2fe6-408b-9d59-fcfd231c5524
+{'address1': '1601 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011,FPP
+
+7d476c02-cafc-440b-b65a-0afe8add9702
+{'address1': '1709 Melrose Village Cir', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011I
+
+967e4254-ce12-4662-a044-4ae234698bf4
+{'address1': '1317 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107226018
+
+a53b4008-0649-4c8b-8712-3ec416b5b5e5
+{'address1': '1349 N Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912107226017
+
+4c1e5d02-662f-4a49-a150-8e261f3e1a51
+{'address1': '1709 Melrose Village Cir', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,912106476011I
+
+a75e0ea7-3fd3-454e-a8c7-96aa6d3777cc
+{'address1': '1726 E Colorado Ave', 'address2': '104', 'city': 'Urbana', 'state': 'IL', 'zip': '61802'}
+Probationary Firefighter Birt's residence, Save DOG!!!!
+NOTE,932121200041L
+
+a0c848a3-cff3-40fd-9494-fe6388f121eb
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+89845fca-063d-4a19-8f7e-43c06d51b477
+{'address1': '1501 S Oak St', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000198,CNU
+NOTE,UIUC000398,CNU
+
+92664a14-8782-4467-84d6-64d6bb0bedf9
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+d58a9d61-7ae6-4ca8-97a9-6fed6957ecaf
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+008d05d7-c858-4f5a-9647-565da7d56564
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+9cbce8a2-b06b-4567-8981-fae5634c3267
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+d11f5b69-069a-4def-8cd4-7a4c1c5355e2
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+b13c6e32-57e4-4127-b799-ecb00de19f09
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+c18a0628-a2ed-4400-8dd7-ae7f459c0340
+{'address1': '51 Gerty Dr', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000121,CNU
+
+52ac82ab-ddff-400b-99d8-15a89c5aba68
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+98971ba4-dc9e-419b-8863-50a92f63e665
+{'address1': '1207 S Oak St', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000176,CNU
+
+8fa92492-2d6c-4360-964a-58d568356ee7
+{'address1': '1207 S Oak St', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000176,CNU
+
+49be128f-3cf3-4d88-acb9-ee3249f4f75c
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+36fd71f8-4ee4-469f-bcf3-0762af1b6886
+{'address1': '1301 S Oak St', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000204,CNU
+
+bf043598-7b40-41bf-8c86-d5b859c7b459
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+cc31c884-0026-45a5-b208-86908d2cfc50
+{'address1': '1321 S Oak St', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000217,CNU
+
+32de0997-e1f7-4b58-a603-162de03cca15
+{'address1': '1325 S Oak St', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000255,CNU
+
+0668c8f7-457b-4c8b-a7c4-2463aed385f2
+{'address1': '1325 S Oak St', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000255,CNU
+
+19c1828c-55ee-4fa6-ac3f-95f4392c9195
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+3f4ee64b-885d-46f2-aa4a-bba2cefcd73f
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+0f28f5ae-a2ab-4d79-9b34-64d40112aa55
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+1811678d-04fe-4945-a155-8e804329282e
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+00328693-7979-4860-82c2-518e257d477a
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+96083ea2-f59c-472f-8626-cb9c9f9becf7
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+4bc1581c-4cb7-4b84-b2d7-f293feae715b
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+3370c68f-c8e9-42ef-9d36-1b126d7fc4e2
+{'address1': '', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,
+
+69e2aac2-faf1-4916-913d-9b4e8cb0c020
+{'address1': '202 E Peabody Dr', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000079,CNU
+
+7a5109e4-ecc7-4f38-9864-afa6606999c0
+{'address1': '103 E Gregory Dr', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000083,CNU
+
+8e77774d-13ab-4546-824b-0c61218e93ea
+{'address1': '206 E Peabody Dr', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000078,CNU
+
+e31a9d3d-a809-4524-81a6-7b1482fe6cc4
+{'address1': '204 E Peabody Dr', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC000081,CNU
+
+f81eb28f-5dbc-4fac-857a-12be76fc4085
+{'address1': '301 E Gregory Dr', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC001247,CNU
+
+0ba77f31-931e-4650-a56f-5ea7de556eb1
+{'address1': '301 E Gregory Dr', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC001247,CNU
+
+448de591-491d-4aa9-9037-bd328ff22410
+{'address1': '301 E Gregory Dr', 'address2': '', 'city': 'Champaign', 'state': 'IL', 'zip': '61820'}
+NOTE,UIUC001247,CNU
+
+92933930-2f14-483d-9a2a-80f2dd9bbecb
+{'address1': '810 W Green St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,922117102007,FPP,LIQ
+
+42269a6a-71a9-432b-a107-7dca99c38935
+{'address1': '105 S Mathews Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000029,URU
+
+9d5e7110-1ff0-41c0-a106-77fc645cd743
+{'address1': '713 W Ohio St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117307001,FPP
+
+f57cd9ac-fc44-428b-9c57-6310c6496559
+{'address1': '1204 S Lincoln Ave', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932117304001
+
+9794e616-ab11-4387-92f2-f39352b1b76b
+{'address1': '907 W Oregon St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118280006
+
+b61c4e4e-9f31-414f-b0c3-e166a2ca1566
+{'address1': '903 W Oregon St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118280008
+
+b5737c83-4f41-46cc-bc8e-530495673abe
+{'address1': '905 W Oregon St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118280007
+
+d4efd5f8-acd1-445c-af8e-9f4834bfb57b
+{'address1': '1110 W Nevada St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118277013
+
+7d534f48-2227-4cbb-b766-c59546c484e1
+{'address1': '1107 W Oregon St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118277006
+
+bd194109-f5e4-4002-ae06-49847913d183
+{'address1': '1105 W Oregon St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118277007
+
+48798a4e-cd9e-4b87-92dd-fee6b5c8f43c
+{'address1': '1108 W Nevada St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,932118277014
+
+4c15aedd-7fc0-44f2-b234-616711fb404d
+{'address1': '1001 W Nevada St', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,UIUC000199,URU
+
+b01562de-1763-4230-9b0b-37f480fe0352
+{'address1': '', 'address2': '', 'city': 'Urbana', 'state': 'IL', 'zip': '61801'}
+NOTE,
+
